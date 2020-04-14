@@ -4,8 +4,8 @@ curated list of awesome tools, tutorials, code, helpful projects, links, stuff a
 ## List based on #scenefromabove podcast lunchtime discussions
 [scenefromabove Podcast](http://scenefromabove.org/)<br> <br>
 
-[StarFM for Python](https://github.com/nmileva/starfm4py)<br>
-[pyGEDI](https://github.com/EduinHSERNA/pyGEDI)<br>
+*[StarFM for Python](https://github.com/nmileva/starfm4py)<br>
+*[pyGEDI](https://github.com/EduinHSERNA/pyGEDI)<br>
 [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) <br>
 [shakasom github](https://github.com/shakasom)<br>
 [Andrew Cutts Github](https://github.com/acgeospatial)<br>
