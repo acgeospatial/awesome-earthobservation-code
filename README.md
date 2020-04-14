@@ -46,4 +46,6 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 
 ## Interesting Non EO parts
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
-* [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19)<br>
+* [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19)
+* [Deep learning with Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+* [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
