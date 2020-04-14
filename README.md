@@ -1,10 +1,13 @@
-# Awesome-Earthobservation-Code
+# Awesome-EarthObservation-Code
 A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 
 ## List based on #scenefromabove podcast lunchtime discussions
 [scenefromabove Podcast](http://scenefromabove.org/)<br> <br>
 
-![picture alt](https://geogerservices.files.wordpress.com/2018/06/scenefromabovepodcast.jpg?w=300&h=300 "Title is optional")
+<p align="center">
+  <img width="300" height="300" src="https://geogerservices.files.wordpress.com/2018/06/scenefromabovepodcast.jpg?w=300&h=300">
+</p>
+
 
 * [StarFM for Python](https://github.com/nmileva/starfm4py)
 * [pyGEDI](https://github.com/EduinHSERNA/pyGEDI)
