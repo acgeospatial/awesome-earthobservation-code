@@ -6,7 +6,7 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 
 [Scene From Above Podcast](http://scenefromabove.org/)
 </div>
-<br>
+<br><br>
 Alastair Graham [@ajggeoger](https://twitter.com/ajggeoger) and Andrew Cutts [@map_andrew](https://twitter.com/map_andrew) come together to present an informal podcast [@eoscenefrom](https://twitter.com/eoscenefrom) looking at the world of modern remote sensing and EO.
 Fuelled by their passion for all things raster and geospatial, the #scenefromabove podcast aims to be a mix of news, opinion, discussion and interviews. <br>
 
