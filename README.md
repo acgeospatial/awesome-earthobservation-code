@@ -44,6 +44,9 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [GEE Map](https://github.com/giswqs/geemap)
   * [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
   * [Video map](https://github.com/openearth/videomap)
+## Regular blogs of significant interest
+* [Philipp Gartner blog](https://philippgaertner.github.io/)
+* [Series Temporelles](https://labo.obs-mip.fr/multitemp/)
 ## awaiting to be grouped / moved
 * [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts)
 * [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches)
@@ -54,7 +57,6 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet)
 * [shakasom github](https://github.com/shakasom)
 * [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/)
-* [Philipp Gartner blog](https://philippgaertner.github.io/)
 * [Python from space](https://github.com/kscottz/PythonFromSpace)
 * [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)
 * [Remote pixel github](https://github.com/RemotePixel)
