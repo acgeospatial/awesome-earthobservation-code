@@ -18,30 +18,31 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 </p>
 
 
-* LiDAR
+## LiDAR
   * [pyGEDI](https://github.com/EduinHSERNA/pyGEDI)
   * [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3)
   * [rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
   * [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171)
   * [ICESAT tools](https://github.com/icesat-2UT/PhoREAL)
-* Training / learning
+## Training / learning
   * [Andrew Cutts Github](https://github.com/acgeospatial)
   * [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial)
   * [Geoprocessing with Python - GIS circa 2009](https://www.gis.usu.edu/~chrisg/python/2009/)
-* QGIS
+## QGIS
   * [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin)
-* Radar
+## Radar
   * [SAR docker](https://github.com/mortcanty/SARDocker)
-* Languages other than Python
+## Languages other than Python
   * [Georust](https://github.com/georust)
   * [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl)
-* Deep / Machine Learning
+## Deep / Machine Learning
   * [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel)
   * [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning)
-* Visualisation
+## Visualisation
   * [GEE Map](https://github.com/giswqs/geemap)
   * [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
   * [Video map](https://github.com/openearth/videomap)
+## awaiting to be grouped / moved
 * [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts)
 * [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches)
 * [challenges 2020](https://github.com/esowc/challenges_2020)
@@ -62,16 +63,12 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Fast AI Satellite imagery resources](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
 * [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions)
 * [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/)
-
 ## Earth Observation coding on YouTube
 to be added
-
-## Useful code based twitter accounts
+## Useful EO code based twitter accounts
 * [pyGEDI](https://twitter.com/pyGEDI)<br><br>
-
 ## Useful technical blog posts
 * [GEDI canopy data](https://medium.com/@abt0020/extracting-canopy-height-with-gedi-data-5af8c87df158)<br><br>
-
 ## EO / Geospatial companies making big contributions - Github accounts only with example of work
 * [development seed](https://github.com/developmentseed)
   * [Landsat-Util](https://github.com/developmentseed/landsat-util)
@@ -86,7 +83,6 @@ to be added
   * [Azavea - RasterVision](https://github.com/azavea/raster-vision)
 * [Radiant Earth foundation](https://github.com/radiantearth)
   * [STAC Spec](https://github.com/radiantearth/stac-spec)
-
 ## Interesting Non EO parts - Python
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
 * [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19)
