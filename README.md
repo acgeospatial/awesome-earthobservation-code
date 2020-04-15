@@ -17,27 +17,34 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 </p>
 
 
-* [StarFM for Python](https://github.com/nmileva/starfm4py)
-* [pyGEDI](https://github.com/EduinHSERNA/pyGEDI)
-* [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel)
-* [shakasom github](https://github.com/shakasom)
-* [Andrew Cutts Github](https://github.com/acgeospatial)
-* [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl)
-* [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet)
-* [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin)
-* [SAR docker](https://github.com/mortcanty/SARDocker)
+* LiDAR
+  * [pyGEDI](https://github.com/EduinHSERNA/pyGEDI)
+  * [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3)
+  * [rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
+  * [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171)
+* Training
+  * [Andrew Cutts Github](https://github.com/acgeospatial)
+* QGIS
+  * [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin)
+* Radar
+  * [SAR docker](https://github.com/mortcanty/SARDocker)
+* Languages other than Python
+  * [Georust](https://github.com/georust)
+  * [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl)
+* Machine Learning
+  * [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel)
+* Visualisation
+  * [GEE Map](https://github.com/giswqs/geemap)
+  * [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
+  * [Video map](https://github.com/openearth/videomap)
 * [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts)
-* [rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
-* [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel)
-* [image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches)
+* [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches)
 * [challenges 2020](https://github.com/esowc/challenges_2020)
 * [EO flow](https://github.com/sentinel-hub/eo-flow)
-* [GEE Map](https://github.com/giswqs/geemap)
-* [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
-* [Video map](https://github.com/openearth/videomap)
-* [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3)
-* [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171)
-* [Georust](https://github.com/georust)
+* [StarFM for Python](https://github.com/nmileva/starfm4py)
+* [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel)
+* [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet)
+* [shakasom github](https://github.com/shakasom)
 * [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial)
 * [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/)
 * [Philipp Gartner blog](https://philippgaertner.github.io/)
