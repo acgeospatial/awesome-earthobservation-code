@@ -59,3 +59,4 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 * [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19)
 * [Deep learning with Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 * [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [A-Z of tips and tricks for Python](https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/)
