@@ -2,7 +2,7 @@
 A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 
 ## List based on #scenefromabove podcast lunchtime discussions
-This is being extended frequently in April 2020
+This is being extended frequently in April 2020. Please note that this is not offically an awesome list. Help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
 <div align="center">
 
