@@ -55,6 +55,10 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)
 * [Remote pixel github](https://github.com/RemotePixel)
 * [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
+* [Google Earth Engine Community](https://github.com/gee-community)
+* [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p)
+* [count blue pixels](https://github.com/craic/count_shelters/blob/master/count_blue_pixels.py)
+
 
 ## Useful code based twitter accounts
 * [pyGEDI](https://twitter.com/pyGEDI)<br><br>
@@ -84,3 +88,5 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 * [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [A-Z of tips and tricks for Python](https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/)
 * [Visual intro into Numpy](https://jalammar.github.io/visual-numpy/)
+* [Change your Jupyter Theme](https://github.com/dunovank/jupyter-themes)
+* [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
