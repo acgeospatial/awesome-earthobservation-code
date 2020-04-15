@@ -62,11 +62,12 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 ## Useful technical blog posts
 * [GEDI canopy data](https://medium.com/@abt0020/extracting-canopy-height-with-gedi-data-5af8c87df158)<br><br>
 
-## EO / Geospatial companies making big contributions
+## EO / Geospatial companies making big contributions - Github accounts only
 * [development seed](https://github.com/developmentseed)
 * [mapbox](https://github.com/mapbox)
 * [Planet Labs, now just Planet](https://github.com/planetlabs)
 * [Digital Globe - now Maxar](https://github.com/DigitalGlobe)
+* [Azavea](https://github.com/azavea)
 
 ## Interesting Non EO parts
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
