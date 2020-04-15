@@ -52,6 +52,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Philipp Gartner blog](https://philippgaertner.github.io/)
 * [Python from space](https://github.com/kscottz/PythonFromSpace)
 * [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)
+* [Remote pixel github](https://github.com/RemotePixel)
 
 ## Useful code based twitter accounts
 * [pyGEDI](https://twitter.com/pyGEDI)<br><br>
