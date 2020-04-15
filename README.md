@@ -23,6 +23,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3)
   * [rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
   * [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171)
+  * [ICESAT tools](https://github.com/icesat-2UT/PhoREAL)
 * Training / learning
   * [Andrew Cutts Github](https://github.com/acgeospatial)
   * [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial)
@@ -58,7 +59,12 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Google Earth Engine Community](https://github.com/gee-community)
 * [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p)
 * [count blue pixels](https://github.com/craic/count_shelters/blob/master/count_blue_pixels.py)
+* [Fast AI Satellite imagery resources](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
+* [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions)
+* [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/)
 
+## Earth Observation coding on YouTube
+to be added
 
 ## Useful code based twitter accounts
 * [pyGEDI](https://twitter.com/pyGEDI)<br><br>
@@ -81,7 +87,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Radiant Earth foundation](https://github.com/radiantearth)
   * [STAC Spec](https://github.com/radiantearth/stac-spec)
 
-## Interesting Non EO parts
+## Interesting Non EO parts - Python
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
 * [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19)
 * [Deep learning with Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
@@ -90,3 +96,4 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 * [Visual intro into Numpy](https://jalammar.github.io/visual-numpy/)
 * [Change your Jupyter Theme](https://github.com/dunovank/jupyter-themes)
 * [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+* [unidata Python workshop](https://unidata.github.io/python-training/workshop/workshop-intro/)
