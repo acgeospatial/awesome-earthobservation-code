@@ -25,6 +25,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * Training / learning
   * [Andrew Cutts Github](https://github.com/acgeospatial)
   * [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial)
+  * [Geoprocessing with Python - GIS circa 2009](https://www.gis.usu.edu/~chrisg/python/2009/)
 * QGIS
   * [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin)
 * Radar
@@ -49,6 +50,8 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [shakasom github](https://github.com/shakasom)
 * [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/)
 * [Philipp Gartner blog](https://philippgaertner.github.io/)
+* [Python from space](https://github.com/kscottz/PythonFromSpace)
+* [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)
 
 ## Useful code based twitter accounts
 * [pyGEDI](https://twitter.com/pyGEDI)<br><br>
@@ -68,3 +71,4 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 * [Deep learning with Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 * [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [A-Z of tips and tricks for Python](https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/)
+* [Visual intro into Numpy](https://jalammar.github.io/visual-numpy/)
