@@ -63,8 +63,11 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Fast AI Satellite imagery resources](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
 * [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions)
 * [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/)
+* [Marcus Netler on github](https://github.com/neteler)
+* [awesome satellite imagery datasets (for deep learning)](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 ## Earth Observation coding on YouTube
-to be added
+* [xArray at PyConUK2018](https://www.youtube.com/watch?v=Dgr_d8iEWk4)
+* [Visualizing & Analyzing Earth Science Data Using PyViz & PyData](https://youtu.be/-XMXNmGRk5c?t=455)
 ## Useful EO code based twitter accounts
 * [pyGEDI](https://twitter.com/pyGEDI)<br><br>
 ## Useful technical blog posts
