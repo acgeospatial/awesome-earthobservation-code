@@ -68,7 +68,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Planet Labs, now just Planet](https://github.com/planetlabs)
 * [Digital Globe - now Maxar](https://github.com/DigitalGlobe)
 * [Azavea](https://github.com/azavea)
- * [Azavea - RasterVision](https://github.com/azavea/raster-vision)
+  * [Azavea - RasterVision](https://github.com/azavea/raster-vision)
 
 ## Interesting Non EO parts
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
