@@ -37,8 +37,10 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Video map](https://github.com/openearth/videomap)
 * [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3)
 * [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171)
-* [Georust](https://github.com/georust)<br><br>
-
+* [Georust](https://github.com/georust)
+* [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial)
+* [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/)
+* [Philipp Gartner blog](https://philippgaertner.github.io/)
 
 ## Useful code based twitter accounts
 * [pyGEDI](https://twitter.com/pyGEDI)<br><br>
