@@ -47,36 +47,40 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 ## Regular blogs of significant interest
 * [Philipp Gartner blog](https://philippgaertner.github.io/)
 * [Series Temporelles](https://labo.obs-mip.fr/multitemp/)
-## awaiting to be grouped / moved
-* [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts)
-* [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches)
-* [challenges 2020](https://github.com/esowc/challenges_2020)
-* [EO flow](https://github.com/sentinel-hub/eo-flow)
-* [StarFM for Python](https://github.com/nmileva/starfm4py)
-* [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel)
-* [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet)
+## Great Github accounts
 * [shakasom github](https://github.com/shakasom)
-* [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/)
-* [Python from space](https://github.com/kscottz/PythonFromSpace)
-* [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)
 * [Remote pixel github](https://github.com/RemotePixel)
-* [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
-* [Google Earth Engine Community](https://github.com/gee-community)
-* [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p)
-* [count blue pixels](https://github.com/craic/count_shelters/blob/master/count_blue_pixels.py)
-* [Fast AI Satellite imagery resources](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
-* [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions)
-* [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/)
 * [Marcus Netler on github](https://github.com/neteler)
-* [awesome satellite imagery datasets (for deep learning)](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 * [Christoph Rieke git hub](https://github.com/chrieke)
+  * [awesome satellite imagery datasets (for deep learning)](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+* [Fernerkundung](https://github.com/Fernerkundung/) 
+  * [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) 
+  * [Sentinel Sat](https://github.com/sentinelsat/sentinelsat)
+## GDAL of course
+* [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet)
+* [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)
+* [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/)
 ## Earth Observation coding on YouTube
 * [xArray at PyConUK2018](https://www.youtube.com/watch?v=Dgr_d8iEWk4)
 * [Visualizing & Analyzing Earth Science Data Using PyViz & PyData](https://youtu.be/-XMXNmGRk5c?t=455)
 ## Useful EO code based twitter accounts
 * [pyGEDI](https://twitter.com/pyGEDI)<br><br>
 ## Useful technical blog posts
-* [GEDI canopy data](https://medium.com/@abt0020/extracting-canopy-height-with-gedi-data-5af8c87df158)<br><br>
+* [GEDI canopy data](https://medium.com/@abt0020/extracting-canopy-height-with-gedi-data-5af8c87df158)
+## awaiting to be grouped / moved
+* [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts)
+* [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches)
+* [challenges 2020](https://github.com/esowc/challenges_2020)
+* [EO flow](https://github.com/sentinel-hub/eo-flow)
+* [StarFM for Python](https://github.com/nmileva/starfm4py)
+* [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/)
+* [Python from space](https://github.com/kscottz/PythonFromSpace)
+* [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
+* [Google Earth Engine Community](https://github.com/gee-community)
+* [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p)
+* [count blue pixels](https://github.com/craic/count_shelters/blob/master/count_blue_pixels.py)
+* [Fast AI Satellite imagery resources](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
+* [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions)
 ## EO / Geospatial companies making big contributions - Github accounts only with example of work
 * [development seed](https://github.com/developmentseed)
   * [Landsat-Util](https://github.com/developmentseed/landsat-util)
