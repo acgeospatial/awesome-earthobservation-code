@@ -22,8 +22,9 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3)
   * [rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
   * [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171)
-* Training
+* Training / learning
   * [Andrew Cutts Github](https://github.com/acgeospatial)
+  * [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial)
 * QGIS
   * [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin)
 * Radar
@@ -31,8 +32,9 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * Languages other than Python
   * [Georust](https://github.com/georust)
   * [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl)
-* Machine Learning
+* Deep / Machine Learning
   * [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel)
+  * [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning)
 * Visualisation
   * [GEE Map](https://github.com/giswqs/geemap)
   * [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
@@ -45,7 +47,6 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel)
 * [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet)
 * [shakasom github](https://github.com/shakasom)
-* [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial)
 * [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/)
 * [Philipp Gartner blog](https://philippgaertner.github.io/)
 
