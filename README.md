@@ -62,13 +62,20 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 ## Useful technical blog posts
 * [GEDI canopy data](https://medium.com/@abt0020/extracting-canopy-height-with-gedi-data-5af8c87df158)<br><br>
 
-## EO / Geospatial companies making big contributions - Github accounts only
+## EO / Geospatial companies making big contributions - Github accounts only with example of work
 * [development seed](https://github.com/developmentseed)
+  * [Landsat-Util](https://github.com/developmentseed/landsat-util)
+  * [GeoLamda](https://github.com/developmentseed/geolambda)
 * [mapbox](https://github.com/mapbox)
+  * [rasterio](https://github.com/mapbox/rasterio)
 * [Planet Labs, now just Planet](https://github.com/planetlabs)
+  * [Planet notebooks](https://github.com/planetlabs/notebooks)
 * [Digital Globe - now Maxar](https://github.com/DigitalGlobe)
+  * [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools)
 * [Azavea](https://github.com/azavea)
   * [Azavea - RasterVision](https://github.com/azavea/raster-vision)
+* [Radiant Earth foundation](https://github.com/radiantearth)
+  * [STAC Spec](https://github.com/radiantearth/stac-spec)
 
 ## Interesting Non EO parts
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
