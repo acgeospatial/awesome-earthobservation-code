@@ -54,6 +54,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Python from space](https://github.com/kscottz/PythonFromSpace)
 * [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)
 * [Remote pixel github](https://github.com/RemotePixel)
+* [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
 
 ## Useful code based twitter accounts
 * [pyGEDI](https://twitter.com/pyGEDI)<br><br>
