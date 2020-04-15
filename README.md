@@ -4,6 +4,8 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 ## List based on #scenefromabove podcast lunchtime discussions
 This is being extended frequently in April 2020. Please note that this is <b>not</b> offically an awesome list. Help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
+I will try and annotate why these are great resources once I get a good group
+
 <div align="center">
 
 # Scene From Above Podcast
