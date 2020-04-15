@@ -67,6 +67,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/)
 * [Marcus Netler on github](https://github.com/neteler)
 * [awesome satellite imagery datasets (for deep learning)](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+* [Christoph Rieke git hub](https://github.com/chrieke)
 ## Earth Observation coding on YouTube
 * [xArray at PyConUK2018](https://www.youtube.com/watch?v=Dgr_d8iEWk4)
 * [Visualizing & Analyzing Earth Science Data Using PyViz & PyData](https://youtu.be/-XMXNmGRk5c?t=455)
