@@ -27,6 +27,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171)
   * [ICESAT tools](https://github.com/icesat-2UT/PhoREAL)
 ## Training / learning
+  * [Earth Data Lab](https://github.com/earthlab/earthlab.github.io)
   * [Andrew Cutts Github](https://github.com/acgeospatial)
   * [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial)
   * [Geoprocessing with Python - GIS circa 2009](https://www.gis.usu.edu/~chrisg/python/2009/)
@@ -125,3 +126,4 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 * [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 * [unidata Python workshop](https://unidata.github.io/python-training/workshop/workshop-intro/)
 * [TernausNet - used in DSTL kaggle competition (came 3rd)](https://github.com/ternaus/TernausNet)
+* [Introduction to Python for computational science](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering)
