@@ -81,12 +81,24 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [count blue pixels](https://github.com/craic/count_shelters/blob/master/count_blue_pixels.py)
 * [Fast AI Satellite imagery resources](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
 * [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions)
+* [deepOSM](https://github.com/trailbehind/DeepOSM)
+* [Satellite imagery analysis with Python](https://github.com/parulnith/Satellite-Imagery-Analysis-with-Python)
+* [Povetry predition using satellite imagery](https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery)
+* [Crop yield prediction](https://github.com/meet-sapu/Crop-Yield-Prediction-Using-Satellite-Imagery)
+* [Remote Sensing indicies calc](https://github.com/rander38/Remote-Sensing-Indices-Derivation-Tool)
+* [Road segmentation](https://github.com/Paulymorphous/Road-Segmentation)
+* [Super resolution (srcnn)](https://github.com/WarrenGreen/srcnn)
+* [SpaceNet building detection](https://github.com/motokimura/spacenet_building_detection)
+* [Pixel decoder](https://github.com/Geoyi/pixel-decoder)
+
+<br>
 ## EO / Geospatial companies making big contributions - Github accounts only with example of work
 * [development seed](https://github.com/developmentseed)
   * [Landsat-Util](https://github.com/developmentseed/landsat-util)
   * [GeoLamda](https://github.com/developmentseed/geolambda)
 * [mapbox](https://github.com/mapbox)
   * [rasterio](https://github.com/mapbox/rasterio)
+  * [Robosat](https://github.com/mapbox/robosat)
 * [Planet Labs, now just Planet](https://github.com/planetlabs)
   * [Planet notebooks](https://github.com/planetlabs/notebooks)
 * [Digital Globe - now Maxar](https://github.com/DigitalGlobe)
@@ -95,6 +107,9 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [Azavea - RasterVision](https://github.com/azavea/raster-vision)
 * [Radiant Earth foundation](https://github.com/radiantearth)
   * [STAC Spec](https://github.com/radiantearth/stac-spec)
+* [Sentinel Hub](https://github.com/sentinel-hub)
+  * [EO Learn](https://github.com/sentinel-hub/eo-learn)
+  * [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts)
 ## Interesting Non EO parts - Python
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
 * [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19)
@@ -105,3 +120,4 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 * [Change your Jupyter Theme](https://github.com/dunovank/jupyter-themes)
 * [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 * [unidata Python workshop](https://unidata.github.io/python-training/workshop/workshop-intro/)
+* [TernausNet - used in DSTL kaggle competition (came 3rd)](https://github.com/ternaus/TernausNet)
