@@ -19,7 +19,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   <img width="300" height="300" src="https://geogerservices.files.wordpress.com/2018/06/scenefromabovepodcast.jpg?w=300&h=300">
 </p>
 
-#### Start
+#### Start Here
 ## LiDAR
   * [pyGEDI](https://github.com/EduinHSERNA/pyGEDI)
   * [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3)
