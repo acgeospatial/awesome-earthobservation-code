@@ -90,6 +90,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Super resolution (srcnn)](https://github.com/WarrenGreen/srcnn)
 * [SpaceNet building detection](https://github.com/motokimura/spacenet_building_detection)
 * [Pixel decoder](https://github.com/Geoyi/pixel-decoder)
+* [Detecting ships](https://github.com/ucalyptus/Detecting-Ships)
 
 <br>
 ## EO / Geospatial companies making big contributions - Github accounts only with example of work
