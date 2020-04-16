@@ -93,9 +93,9 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Detecting ships](https://github.com/ucalyptus/Detecting-Ships)
 * [Satellite Imagery Classification with R](https://github.com/kkgadiraju/SatelliteImageClassification)
 * [Houston Flooding with deep learning](https://github.com/Lichtphyz/Houston_flooding)
-* [Satellite imagery in Pakistan](https://github.com/iam-mhaseeb/Satellite-Imagery-Analysis-of-Vegetation-in-Southern-Pakistan/blob/master/Satellite%20Imagery%20Analysis%20of%20Vegetation%20in%20Southern%20Pakistan.ipynb)
+* [Satellite imagery in Pakistan](https://github.com/iam-mhaseeb/Satellite-Imagery-Analysis-of-Vegetation-in-Southern-Pakistan)
 
-<br>
+
 ## EO / Geospatial companies making big contributions - Github accounts only with example of work
 * [development seed](https://github.com/developmentseed)
   * [Landsat-Util](https://github.com/developmentseed/landsat-util)
