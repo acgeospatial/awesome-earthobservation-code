@@ -4,7 +4,7 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 ## List based on #scenefromabove podcast lunchtime discussions
 This is being extended frequently in April 2020. Please note that this is <b>not</b> offically an awesome list. Help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
-I will try and annotate why these are great resources once I get a good group
+Annotations are based on the headers - where available - on the github accounts
 
 <div align="center">
 
@@ -22,10 +22,10 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 #### Start Here
 ## LiDAR
   * [pyGEDI](https://github.com/EduinHSERNA/pyGEDI) - pyGEDI is a Python Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) mission, data extraction, analysis, processing and visualization. 
-  * [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3)
-  * [rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
-  * [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171)
-  * [ICESAT tools](https://github.com/icesat-2UT/PhoREAL)
+  * [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3) - Python script to take GEDI level 2 data and convert variables to a geospatial vector format
+  * [rGEDI](https://github.com/carlos-alberto-silva/rGEDI) - rGEDI: An R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing. 
+  * [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171) - Python script to convert from ICESat-2 ATL08 HDF data to shapefile. Usage: 'python icesat2_shp.py
+  * [ICESAT tools](https://github.com/icesat-2UT/PhoREAL) - Tools and code for Icesat-2 data analysis (Python)
 ## Training / learning
   * [Earth Data Lab](https://github.com/earthlab/earthlab.github.io)
   * [Andrew Cutts Github](https://github.com/acgeospatial)
