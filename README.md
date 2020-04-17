@@ -34,15 +34,17 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial) - Tutorial of fundamental remote sensing and GIS methodologies using open source software in python 
   * [Geoprocessing with Python - GIS circa 2009](https://www.gis.usu.edu/~chrisg/python/2009/) - This material is really old and some of it is outdated (not all, though!). One of these days I might get around to putting newer class materials online, but you're stuck with this for now.
 ## QGIS
-  * [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin)
+  * [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin) - Integrates Google Earth Engine and QGIS using Python API
+    * [QGIS Earth Engine Plugin - installation guide](https://gee-community.github.io/qgis-earthengine-plugin/)
 ## Radar
-  * [SAR docker](https://github.com/mortcanty/SARDocker)
+  * [SAR docker](https://github.com/mortcanty/SARDocker) - Source files for Docker image mort/sardocker/
 ## Languages other than Python
-  * [Georust](https://github.com/georust)
-  * [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl)
+  * [Georust](https://github.com/georust) - A collection of geospatial tools and libraries written in Rust
+  * [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl) - A high level API for GDAL - Geospatial Data Abstract
+    * [ArchGDAL docs](http://yeesian.com/ArchGDAL.jl/latest/)
 ## Deep / Machine Learning
-  * [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel)
-  * [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning)
+  * [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -Analyzing Sentinel-2 satellite data in Python with Keras (repository of our talks at Minds Mastering Machines 2019 and PyCon 2018) 
+  * [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery 
 ## Visualisation
   * [GEE Map](https://github.com/giswqs/geemap)
   * [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
