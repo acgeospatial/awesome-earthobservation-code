@@ -50,13 +50,19 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [Crop yield prediction](https://github.com/meet-sapu/Crop-Yield-Prediction-Using-Satellite-Imagery) - The motive here is to predict the yield of crops of a particular farm by the change in pixels of the image of farm yearly. Uses Tensorflow
   * [Houston Flooding with deep learning](https://github.com/Lichtphyz/Houston_flooding) - Using A Segmentation Neural Net to map out flooded areas of Houston TX using satellite imagery 
   * [Satellite Imagery Classification with R](https://github.com/kkgadiraju/SatelliteImageClassification) - Pixel based classification of satellite imagery - feature generation using Orfeo Toolbox, feature selection using Learning Vector Quantization, CLassification using Decision Tree, Neural Networks, Random Forests, KNN and Naive Bayes Classifier 
+  * [SpaceNet building detection](https://github.com/motokimura/spacenet_building_detection) - Project to train/test convolutional neural networks to extract buildings from SpaceNet satellite imageries. 
+  * [Road segmentation](https://github.com/Paulymorphous/Road-Segmentation) - Road Detection in satellite imagery. Semantic segmentation is the process of classifying each pixel of an image into distinct classes using deep learning. This aids in identifying regions in an image where certain objects reside.This aim of this project is to identify and segment roads in aerial imagery. Detecting roads can be an important factor in predicting further development of cities, and this concept plays a major role in GeoArchitect (A project which I started). Segmentation of roads is important to map-based applications and is used for finding distances or shortest routes between two places.
+  * [Super resolution (srcnn)](https://github.com/WarrenGreen/srcnn) - Super Resolution for Satellite Imagery 
+  * [Pixel decoder](https://github.com/Geoyi/pixel-decoder) - A tool of running deep learning algorithms for semantic segmentation with satellite imagery 
+  * [Detecting ships](https://github.com/ucalyptus/Detecting-Ships) - Using Satellite Imagery to detect ships (Basic Object Detection)
+  * [deepOSM](https://github.com/trailbehind/DeepOSM) - Train a deep learning net with OpenStreetMap features and satellite imagery.
 ## Visualisation
-  * [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
   * [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
   * [Video map](https://github.com/openearth/videomap) - Tools to create,, export and share video maps
 ## Regular blogs of significant interest
 * [Philipp Gartner blog](https://philippgaertner.github.io/)
 * [Series Temporelles](https://labo.obs-mip.fr/multitemp/)
+* [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
 ## Great Github accounts - with example projects where possible
 * [shakasom github](https://github.com/shakasom)
   * [Deep Learning for satellite imagery](https://github.com/shakasom/Deep-Learning-for-Satellite-Imagery) - Deep learning courses and projects 
@@ -98,46 +104,36 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/) - Use the GEE python api to export your data to numpy and store the result as a geotiff.
 * [Google Earth Engine Community](https://github.com/gee-community) - This organization contains content contributed by the Earth Engine developer community. This is not an officially supported Google product.
 * [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions) - 2019 material javascript and Python to be found here
-## awaiting to be grouped / moved
-* [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
-* [deepOSM](https://github.com/trailbehind/DeepOSM)
-* [Road segmentation](https://github.com/Paulymorphous/Road-Segmentation)
-* [Super resolution (srcnn)](https://github.com/WarrenGreen/srcnn)
-* [SpaceNet building detection](https://github.com/motokimura/spacenet_building_detection)
-* [Pixel decoder](https://github.com/Geoyi/pixel-decoder)
-* [Detecting ships](https://github.com/ucalyptus/Detecting-Ships)
-
-
-
+  * [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
 ## EO / Geospatial companies making big contributions - Github accounts only with example of work
 * [development seed](https://github.com/developmentseed)
-  * [Landsat-Util](https://github.com/developmentseed/landsat-util)
-  * [GeoLamda](https://github.com/developmentseed/geolambda)
+  * [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery 
+  * [GeoLamda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions 
 * [mapbox](https://github.com/mapbox)
-  * [rasterio](https://github.com/mapbox/rasterio)
-  * [Robosat](https://github.com/mapbox/robosat)
+  * [rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
+  * [Robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds 
 * [Planet Labs, now just Planet](https://github.com/planetlabs)
-  * [Planet notebooks](https://github.com/planetlabs/notebooks)
+  * [Planet notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
 * [Digital Globe - now Maxar](https://github.com/DigitalGlobe)
-  * [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools)
+  * [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) - Python SDK for using GBDX. 
 * [Azavea](https://github.com/azavea)
-  * [Azavea - RasterVision](https://github.com/azavea/raster-vision)
+  * [Azavea - RasterVision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
 * [Radiant Earth foundation](https://github.com/radiantearth)
-  * [STAC Spec](https://github.com/radiantearth/stac-spec)
+  * [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
 * [Sentinel Hub](https://github.com/sentinel-hub)
   * [EO Learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python 
   * [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub
   * [EO flow](https://github.com/sentinel-hub/eo-flow) - Collection of TensorFlow 2.0 code for Earth Observation applications 
 ## Interesting Non EO parts - Python
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
-* [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19)
-* [Deep learning with Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+* [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19) - A collection of work related to COVID-19 
+* [Deep learning with Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python" 
 * [Python data science handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [A-Z of tips and tricks for Python](https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/)
-* [Visual intro into Numpy](https://jalammar.github.io/visual-numpy/)
-* [Change your Jupyter Theme](https://github.com/dunovank/jupyter-themes)
-* [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
-* [unidata Python workshop](https://unidata.github.io/python-training/workshop/workshop-intro/)
-* [TernausNet - used in DSTL kaggle competition (came 3rd)](https://github.com/ternaus/TernausNet)
-* [Introduction to Python for computational science](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering)
+* [A-Z of tips and tricks for Python](https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/) - 'Most of these ‘tricks’ are things I’ve used or stumbled upon during my day-to-day work. '
+* [Visual intro into Numpy](https://jalammar.github.io/visual-numpy/)- Visualizing machine learning one concept at a time
+* [Change your Jupyter Theme](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes 
+* [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - awesome-semantic-segmentation 
+* [unidata Python workshop](https://unidata.github.io/python-training/workshop/workshop-intro/) - Would you like some in-depth training on the scientific Python ecosystem for atmospheric science and meteorology? Work through our workshop materials at your own pace to learn and practice the syntax, functionality, and utility of this powerful programming language, or return to the material after taking the workshop in-person to further your understanding of the material you were taught.
+* [TernausNet - used in DSTL kaggle competition (came 3rd)](https://github.com/ternaus/TernausNet) - UNet model with VGG11 encoder pre-trained on Kaggle Carvana dataset
+* [Introduction to Python for computational science](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering) - Book: Introduction to Python for Computational Science and Engineering 
 #### End
