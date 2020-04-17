@@ -47,6 +47,9 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery 
   * [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Using a U-Net for image segmentation, blending predicted patches smoothly is a must to please the human eye.
   * [Fast AI Satellite imagery resources](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
+  * [Crop yield prediction](https://github.com/meet-sapu/Crop-Yield-Prediction-Using-Satellite-Imagery) - The motive here is to predict the yield of crops of a particular farm by the change in pixels of the image of farm yearly. Uses Tensorflow
+  * [Houston Flooding with deep learning](https://github.com/Lichtphyz/Houston_flooding) - Using A Segmentation Neural Net to map out flooded areas of Houston TX using satellite imagery 
+  * [Satellite Imagery Classification with R](https://github.com/kkgadiraju/SatelliteImageClassification) - Pixel based classification of satellite imagery - feature generation using Orfeo Toolbox, feature selection using Learning Vector Quantization, CLassification using Decision Tree, Neural Networks, Random Forests, KNN and Naive Bayes Classifier 
 ## Visualisation
   * [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
   * [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
@@ -85,6 +88,9 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [count blue pixels](https://github.com/craic/count_shelters) - This project is an experiment in using simple image processing techniques on satellite images downloaded from Google Maps in order to quantify the relative density of temporary shelters in adjacent qudarants.
 * [Satellite imagery analysis with Python](https://github.com/parulnith/Satellite-Imagery-Analysis-with-Python) - Getting acquainted with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges.
   * [associated blog](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)
+* [Povetry predition using satellite imagery](https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery) - Poverty Prediction by Combination of Satellite Imagery 
+* [Remote Sensing indicies calc](https://github.com/rander38/Remote-Sensing-Indices-Derivation-Tool) - Calculate spectral remote sensing indices from satellite imagery 
+* [Satellite imagery in Pakistan](https://github.com/iam-mhaseeb/Satellite-Imagery-Analysis-of-Vegetation-in-Southern-Pakistan) - This repository contains a study how we can examine the vegetation cover of a region with the help of satellite data. The notebook in this repository aims to familiarise with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges. 
 ## Competitions
 * [challenges 2020](https://github.com/esowc/challenges_2020) - ECMWF Summer of Weather Code 2020 challenges 
 * See also Sentinel hub
@@ -94,24 +100,13 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions) - 2019 material javascript and Python to be found here
 ## awaiting to be grouped / moved
 * [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
-
-
-
-
-
 * [deepOSM](https://github.com/trailbehind/DeepOSM)
-
-* [Povetry predition using satellite imagery](https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery)
-* [Crop yield prediction](https://github.com/meet-sapu/Crop-Yield-Prediction-Using-Satellite-Imagery)
-* [Remote Sensing indicies calc](https://github.com/rander38/Remote-Sensing-Indices-Derivation-Tool)
 * [Road segmentation](https://github.com/Paulymorphous/Road-Segmentation)
 * [Super resolution (srcnn)](https://github.com/WarrenGreen/srcnn)
 * [SpaceNet building detection](https://github.com/motokimura/spacenet_building_detection)
 * [Pixel decoder](https://github.com/Geoyi/pixel-decoder)
 * [Detecting ships](https://github.com/ucalyptus/Detecting-Ships)
-* [Satellite Imagery Classification with R](https://github.com/kkgadiraju/SatelliteImageClassification)
-* [Houston Flooding with deep learning](https://github.com/Lichtphyz/Houston_flooding)
-* [Satellite imagery in Pakistan](https://github.com/iam-mhaseeb/Satellite-Imagery-Analysis-of-Vegetation-in-Southern-Pakistan)
+
 
 
 ## EO / Geospatial companies making big contributions - Github accounts only with example of work
