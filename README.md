@@ -21,7 +21,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 #### Start Here
 ## LiDAR
-  * [pyGEDI](https://github.com/EduinHSERNA/pyGEDI)
+  * [pyGEDI](https://github.com/EduinHSERNA/pyGEDI) - pyGEDI is a Python Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) mission, data extraction, analysis, processing and visualization. 
   * [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3)
   * [rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
   * [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171)
