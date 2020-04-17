@@ -46,21 +46,25 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -Analyzing Sentinel-2 satellite data in Python with Keras (repository of our talks at Minds Mastering Machines 2019 and PyCon 2018) 
   * [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery 
 ## Visualisation
-  * [GEE Map](https://github.com/giswqs/geemap)
+  * [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
   * [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
-  * [Video map](https://github.com/openearth/videomap)
+  * [Video map](https://github.com/openearth/videomap) - Tools to create,, export and share video maps
 ## Regular blogs of significant interest
 * [Philipp Gartner blog](https://philippgaertner.github.io/)
 * [Series Temporelles](https://labo.obs-mip.fr/multitemp/)
-## Great Github accounts
+## Great Github accounts - with example projects where possible
 * [shakasom github](https://github.com/shakasom)
+  * [Deep Learning for satellite imagery](https://github.com/shakasom/Deep-Learning-for-Satellite-Imagery) - Deep learning courses and projects 
 * [Remote pixel github](https://github.com/RemotePixel)
+  * [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions 
 * [Marcus Netler on github](https://github.com/neteler)
+  * [grass-dev-py3-pdal](https://github.com/neteler/grass-dev-py3-pdal) - Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL support 
 * [Christoph Rieke git hub](https://github.com/chrieke)
-  * [awesome satellite imagery datasets (for deep learning)](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+  * [awesome satellite imagery datasets (for deep learning)](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning 
 * [Fernerkundung](https://github.com/Fernerkundung/) 
-  * [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) 
-  * [Sentinel Sat](https://github.com/sentinelsat/sentinelsat)
+  * [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data 
+  * [Sentinel Sat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
+    * [Sentinel Sat docs](https://sentinelsat.readthedocs.io/en/stable/)
 ## GDAL of course
 * [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet)
 * [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)
