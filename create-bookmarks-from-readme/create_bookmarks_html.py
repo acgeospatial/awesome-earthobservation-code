@@ -4,23 +4,23 @@ from datetime import datetime
 today = str(datetime.today().strftime('%Y-%m-%d'))
 
 content = requests.get('https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/README.md').content
-lslink = []
+lslink =[]
 flag = False
 for link in BeautifulSoup(content, parse_only=SoupStrainer('a')):
-  if hasattr(link, "href"):
-    if (link['href']) == '#start-here':
-        flag = True
-    if (link['href']) == '#end':
-        flag = False
-    else:
-        pass
-    if flag == True:
-        lslink.append(link['href'])
-
-ls_final = list(filter(lambda k: 'https' in k, lslink)) ## remove all the non urls
+    if hasattr(link, "href"):
+        if (link['href']) == '#start-here':
+            flag = True
+        if (link['href']) == '#end':
+            flag = False
+        else:
+            pass
+        if flag == True:
+            if 'https' in (link['href']):
+                lslink.append(link['href'])
+            else:
+                pass
 
 ## adapted from https://pastebin.com/wf2SgCZp
-
 _OUTPUT_FILENAME = today+"-awesome-eo-code-bookmarks.html"
 
 with open(_OUTPUT_FILENAME, 'w') as f:
@@ -35,8 +35,7 @@ with open(_OUTPUT_FILENAME, 'w') as f:
     <H1>EO-Bookmarks</H1>
     <DL><p>\n""")
 
-
-    for row in ls_final:
+    for row in lslink:
             f.write('\t<DT><A HREF="')
             f.write(row)
             f.write('">')
