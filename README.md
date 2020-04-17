@@ -42,10 +42,11 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [Georust](https://github.com/georust) - A collection of geospatial tools and libraries written in Rust
   * [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl) - A high level API for GDAL - Geospatial Data Abstract
     * [ArchGDAL docs](http://yeesian.com/ArchGDAL.jl/latest/)
-## Deep / Machine Learning
+## Deep / Machine Learning (see [Christoph Rieke git hub](https://github.com/chrieke/awesome-satellite-imagery-datasets) for much much more)
   * [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -Analyzing Sentinel-2 satellite data in Python with Keras (repository of our talks at Minds Mastering Machines 2019 and PyCon 2018) 
   * [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery 
   * [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Using a U-Net for image segmentation, blending predicted patches smoothly is a must to please the human eye.
+  * [Fast AI Satellite imagery resources](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
 ## Visualisation
   * [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
   * [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
@@ -77,20 +78,29 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [pyGEDI](https://twitter.com/pyGEDI) - pyGEDI is a Python Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) mission, data extraction, analysis, processing and visualization.
 ## Useful technical blog posts
 * [GEDI canopy data](https://medium.com/@abt0020/extracting-canopy-height-with-gedi-data-5af8c87df158) - How we processed data to retrieving canopy height
+## Python processing of imagery (non deep learning)
+* [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for Python (image fusion)
+* [Python from space](https://github.com/kscottz/PythonFromSpace) - Python Examples for Remote Sensing 
+* [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p) - Satellite Stereo Pipeline 
+* [count blue pixels](https://github.com/craic/count_shelters) - This project is an experiment in using simple image processing techniques on satellite images downloaded from Google Maps in order to quantify the relative density of temporary shelters in adjacent qudarants.
+* [Satellite imagery analysis with Python](https://github.com/parulnith/Satellite-Imagery-Analysis-with-Python) - Getting acquainted with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges.
+  * [associated blog](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)
+## Competitions
+* [challenges 2020](https://github.com/esowc/challenges_2020) - ECMWF Summer of Weather Code 2020 challenges 
+* See also Sentinel hub
+## Earth Engine
+* [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/) - Use the GEE python api to export your data to numpy and store the result as a geotiff.
+* [Google Earth Engine Community](https://github.com/gee-community) - This organization contains content contributed by the Earth Engine developer community. This is not an officially supported Google product.
+* [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions) - 2019 material javascript and Python to be found here
 ## awaiting to be grouped / moved
-* [challenges 2020](https://github.com/esowc/challenges_2020)
-* [EO flow](https://github.com/sentinel-hub/eo-flow)
-* [StarFM for Python](https://github.com/nmileva/starfm4py)
-* [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/)
-* [Python from space](https://github.com/kscottz/PythonFromSpace)
 * [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
-* [Google Earth Engine Community](https://github.com/gee-community)
-* [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p)
-* [count blue pixels](https://github.com/craic/count_shelters/blob/master/count_blue_pixels.py)
-* [Fast AI Satellite imagery resources](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
-* [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions)
+
+
+
+
+
 * [deepOSM](https://github.com/trailbehind/DeepOSM)
-* [Satellite imagery analysis with Python](https://github.com/parulnith/Satellite-Imagery-Analysis-with-Python)
+
 * [Povetry predition using satellite imagery](https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery)
 * [Crop yield prediction](https://github.com/meet-sapu/Crop-Yield-Prediction-Using-Satellite-Imagery)
 * [Remote Sensing indicies calc](https://github.com/rander38/Remote-Sensing-Indices-Derivation-Tool)
@@ -120,8 +130,9 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Radiant Earth foundation](https://github.com/radiantearth)
   * [STAC Spec](https://github.com/radiantearth/stac-spec)
 * [Sentinel Hub](https://github.com/sentinel-hub)
-  * [EO Learn](https://github.com/sentinel-hub/eo-learn)
-  * [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub 
+  * [EO Learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python 
+  * [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub
+  * [EO flow](https://github.com/sentinel-hub/eo-flow) - Collection of TensorFlow 2.0 code for Earth Observation applications 
 ## Interesting Non EO parts - Python
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
 * [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19)
