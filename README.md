@@ -45,6 +45,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 ## Deep / Machine Learning
   * [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -Analyzing Sentinel-2 satellite data in Python with Keras (repository of our talks at Minds Mastering Machines 2019 and PyCon 2018) 
   * [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery 
+  * [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Using a U-Net for image segmentation, blending predicted patches smoothly is a must to please the human eye.
 ## Visualisation
   * [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
   * [Tiled video!](http://gena.github.io/experiments/mapbox/debug/tiled-video-no2.html)
@@ -66,19 +67,17 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [Sentinel Sat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
     * [Sentinel Sat docs](https://sentinelsat.readthedocs.io/en/stable/)
 ## GDAL of course
-* [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet)
-* [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)
-* [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/)
+* [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools 
+* [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/) - This cookbook has simple code snippets on how to use the Python GDAL/OGR API
+* [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/) - This blogpost gives in an introduction to GDAL/OGR and explains how the various command line tools can be used.
 ## Earth Observation coding on YouTube
 * [xArray at PyConUK2018](https://www.youtube.com/watch?v=Dgr_d8iEWk4)
 * [Visualizing & Analyzing Earth Science Data Using PyViz & PyData](https://youtu.be/-XMXNmGRk5c?t=455)
 ## Useful EO code based twitter accounts
-* [pyGEDI](https://twitter.com/pyGEDI)<br><br>
+* [pyGEDI](https://twitter.com/pyGEDI) - pyGEDI is a Python Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) mission, data extraction, analysis, processing and visualization.
 ## Useful technical blog posts
-* [GEDI canopy data](https://medium.com/@abt0020/extracting-canopy-height-with-gedi-data-5af8c87df158)
+* [GEDI canopy data](https://medium.com/@abt0020/extracting-canopy-height-with-gedi-data-5af8c87df158) - How we processed data to retrieving canopy height
 ## awaiting to be grouped / moved
-* [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts)
-* [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches)
 * [challenges 2020](https://github.com/esowc/challenges_2020)
 * [EO flow](https://github.com/sentinel-hub/eo-flow)
 * [StarFM for Python](https://github.com/nmileva/starfm4py)
@@ -122,7 +121,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
   * [STAC Spec](https://github.com/radiantearth/stac-spec)
 * [Sentinel Hub](https://github.com/sentinel-hub)
   * [EO Learn](https://github.com/sentinel-hub/eo-learn)
-  * [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts)
+  * [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub 
 ## Interesting Non EO parts - Python
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
 * [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19)
