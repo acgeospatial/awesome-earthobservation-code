@@ -23,7 +23,7 @@ ls_final = list(filter(lambda k: 'https' in k, lslink_filter)) ## remove all the
 
 ## adapted from https://pastebin.com/wf2SgCZp
 
-_OUTPUT_FILENAME = "awesome-eo-code-bookmarks17April2020.html"
+_OUTPUT_FILENAME = "awesome-eo-code-bookmarks.html"
  
 fout = open(_OUTPUT_FILENAME, 'w')
 
