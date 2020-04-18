@@ -20,7 +20,8 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 </p>
 
 # Contents
-<b>Shortcuts</b> <br>
+<b>Shortcuts</b> 
+
 * [Python processing](#python-processing-of-imagery-non-deep-learning)<br>
 * [Resources for R](#resources-for-r)<br>
 * [Languages other than Python](#languages-other-than-python)<br>
@@ -29,7 +30,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Great GitHub accounts](#great-github-accounts-with-example-projects-where-possible)
 * [GDAL of course](#gdal-of-course)
 * [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)
-<br>
+
 not finished adding yet
 #### Start Here
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
