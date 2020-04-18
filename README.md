@@ -20,6 +20,8 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 </p>
 
 #### Start Here
+OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.
+[Open EO](https://openeo.org/) - openEO develops an open API to connect R, Python, JavaScript and other clients to big Earth observation cloud back-ends in a simple and unified way.
 ## Python processing of imagery (non deep learning)
 * [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for Python (image fusion)
 * [Python from space](https://github.com/kscottz/PythonFromSpace) - Python Examples for Remote Sensing 
@@ -31,7 +33,9 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Remote Sensing indicies calc](https://github.com/rander38/Remote-Sensing-Indices-Derivation-Tool) - Calculate spectral remote sensing indices from satellite imagery 
 * [Satellite imagery in Pakistan](https://github.com/iam-mhaseeb/Satellite-Imagery-Analysis-of-Vegetation-in-Southern-Pakistan) - This repository contains a study how we can examine the vegetation cover of a region with the help of satellite data. The notebook in this repository aims to familiarise with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges. 
 ## Resources for R
-None yet... coming!
+  * [R-Spatial](https://rspatial.org/raster/rs/1-introduction.html) - This book provides a short introduction to satellite data analysis with R.
+    * [Remote Sensing analysis with R](https://rspatial.org/raster/rs/index.html) - Builds on above R-Spatial
+  * [GDAL Cubes](https://cran.r-project.org/web/packages/gdalcubes/index.html) - Earth Observation Data Cubes from Satellite Image Collections
 ## Languages other than Python
   * [Georust](https://github.com/georust) - A collection of geospatial tools and libraries written in Rust
   * [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl) - A high level API for GDAL - Geospatial Data Abstract
@@ -87,11 +91,13 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 * [Remote Sening with Python in Jupyter](https://www.youtube.com/watch?v=OsgZSlv4t-U) - In this video we're looking at using Google Earth Engine in Jupyter with the Python API.
 * [Writing Image Processing Algorithms with ArcGIS/ArcPy - Jamie Drisdelle](https://www.youtube.com/watch?v=FenT61l-xyQ) -  learn how your algorithms can integrate with the raster processing and visualization pipelines in ArcGIS. We’ll demonstrate the concept and discuss the API by diving deep into a few interesting examples with a special focus on multidimensional scientific rasters.
 * [Google Earth Engine Python - Qiusheng Wu](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3) - Introducing the geemap Python package for interactive mapping with Google Earth Engine and ipyleaflet.
+* [Google Earth Engine EE101 Condensed - Noel Gorelick](https://www.youtube.com/watch?v=m1ejxSi3l8s) - Introduction to the Earth Engine API and a conceptual overview of key functionality such as compositing, reducing, mapping, zonal statistics and cluminating with building a small app.
 ## Earth Engine
 * [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/) - Use the GEE python api to export your data to numpy and store the result as a geotiff.
 * [Google Earth Engine Community](https://github.com/gee-community) - This organization contains content contributed by the Earth Engine developer community. This is not an officially supported Google product.
 * [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions) - 2019 material javascript and Python to be found here
-## EO / Geospatial companies making big contributions - Github accounts only with example of work
+## EO / Geospatial companies/orgs making big contributions - Github accounts only with example of work
+This list aims at highlighting the great work some of the companies / organisations are doing or have done that contribute to the bigger ecosystem. Examples of the accounts work is not exhaustive, some do much more than shown below:
 * [development seed](https://github.com/developmentseed)
   * [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery 
   * [GeoLamda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions 
@@ -110,6 +116,9 @@ There are many videos relating to Earth Observation and coding, especially Pytho
   * [EO Learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python 
   * [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub
   * [EO flow](https://github.com/sentinel-hub/eo-flow) - Collection of TensorFlow 2.0 code for Earth Observation applications 
+* [Opendatacube](https://github.com/opendatacube)
+  * [Opendatacube -core](https://github.com/opendatacube/datacube-core) - Open Data Cube analyses continental scale Earth Observation data through time 
+  * [Opendatacube notebooks](https://github.com/opendatacube/datacube-notebooks) - Extra documentation about using ODC with Jupyter Notebooks 
 ## QGIS
   * [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin) - Integrates Google Earth Engine and QGIS using Python API
     * [QGIS Earth Engine Plugin - installation guide](https://gee-community.github.io/qgis-earthengine-plugin/)
