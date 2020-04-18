@@ -20,12 +20,17 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 </p>
 
 # Contents
-Shortcuts <br>
+<b>Shortcuts</b> <br>
 * [Python processing](#python-processing-of-imagery-non-deep-learning)<br>
 * [Resources for R](#resources-for-r)<br>
 * [Languages other than Python](#languages-other-than-python)<br>
 * [Training and Learning](#training-and-learning)
 * [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)
+* [Great GitHub accounts](#great-github-accounts-with-example-projects-where-possible)
+* [GDAL of course](#gdal-of-course)
+* [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)
+<br>
+not finished adding yet
 #### Start Here
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
 * [Open EO](https://openeo.org/) - openEO develops an open API to connect R, Python, JavaScript and other clients to big Earth observation cloud back-ends in a simple and unified way.
@@ -72,7 +77,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
   * [Pixel decoder](https://github.com/Geoyi/pixel-decoder) - A tool of running deep learning algorithms for semantic segmentation with satellite imagery 
   * [Detecting ships](https://github.com/ucalyptus/Detecting-Ships) - Using Satellite Imagery to detect ships (Basic Object Detection)
   * [deepOSM](https://github.com/trailbehind/DeepOSM) - Train a deep learning net with OpenStreetMap features and satellite imagery.    
-## Great Github accounts - with example projects where possible
+## Great Github accounts with example projects where possible
 * [shakasom github](https://github.com/shakasom)
   * [Deep Learning for satellite imagery](https://github.com/shakasom/Deep-Learning-for-Satellite-Imagery) - Deep learning courses and projects 
 * [Remote pixel github](https://github.com/RemotePixel)
@@ -93,7 +98,8 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 * [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools 
 * [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/) - This cookbook has simple code snippets on how to use the Python GDAL/OGR API
 * [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/) - This blogpost gives in an introduction to GDAL/OGR and explains how the various command line tools can be used.
-## Earth Observation coding on YouTube (presenters listed where possible)
+## Earth Observation coding on YouTube 
+(presenters listed where possible)<br>
 There are many videos relating to Earth Observation and coding, especially Python. This is really such a small collection of videos here. I have attempted to only include ones with good audio and code examples. 
 * [xArray at PyConUK2018 - Robin Wilson](https://www.youtube.com/watch?v=Dgr_d8iEWk4) - Processing thousands of satellite images to understand air quality in the UK - it's efficient and easy with XArray
 * [Visualizing & Analyzing Earth Science Data Using PyViz & PyData - Julia Signell](https://youtu.be/-XMXNmGRk5c?t=455) - In this talk, we'll work through some specific workflows and explore how various tools - such as Intake, Dask, Xarray, and Datashader - can be used to effectively analyze and visualize these data. Working from within the notebook, we'll iteratively build a product that is interactive, scalable, and deployable.
