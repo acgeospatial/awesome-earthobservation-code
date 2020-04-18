@@ -20,9 +20,12 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 </p>
 
 # Contents
-Shortcuts to the links <br>
+Shortcuts <br>
 * [Python processing](#python-processing-of-imagery-non-deep-learning)<br>
 * [Resources for R](#resources-for-r)<br>
+* [Languages other than Python](#languages-other-than-python)<br>
+* [Training and Learning](#training-and-learning)
+* [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)
 #### Start Here
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
 * [Open EO](https://openeo.org/) - openEO develops an open API to connect R, Python, JavaScript and other clients to big Earth observation cloud back-ends in a simple and unified way.
@@ -47,14 +50,15 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
   * [Georust](https://github.com/georust) - A collection of geospatial tools and libraries written in Rust
   * [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl) - A high level API for GDAL - Geospatial Data Abstract
     * [ArchGDAL docs](http://yeesian.com/ArchGDAL.jl/latest/)
-## Training / learning
+## Training and learning
   * [Earth Data Lab](https://github.com/earthlab/earthlab.github.io) - A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team 
   * [Andrew Cutts Github](https://github.com/acgeospatial) - I am an Earth Observation and Geospatial enthusiast, primarily using Python to automate and process images at scale using computer vision
     * [Satelite Imagery Python](https://github.com/acgeospatial/Satellite_Imagery_Python) - Sample sample scripts and notebooks on processing satellite imagery 
     * [Geospatial Python Programming Course](https://github.com/acgeospatial/Geospatial_Python_CourseV1) - This is an collection of blog posts turned into a course format 
   * [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial) - Tutorial of fundamental remote sensing and GIS methodologies using open source software in python 
   * [Geoprocessing with Python - GIS circa 2009](https://www.gis.usu.edu/~chrisg/python/2009/) - This material is really old and some of it is outdated (not all, though!). One of these days I might get around to putting newer class materials online, but you're stuck with this for now.
-## Deep / Machine Learning (see [Christoph Rieke git hub](https://github.com/chrieke/awesome-satellite-imagery-datasets) for much much more)
+## Deep learning and Machine Learning 
+(see [Christoph Rieke git hub](https://github.com/chrieke/awesome-satellite-imagery-datasets) for much much more)
   * [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -Analyzing Sentinel-2 satellite data in Python with Keras (repository of our talks at Minds Mastering Machines 2019 and PyCon 2018) 
   * [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery 
   * [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Using a U-Net for image segmentation, blending predicted patches smoothly is a must to please the human eye.
