@@ -21,8 +21,8 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 # Contents
 Shortcuts to the links <br>
-[python processing](#python-processing-of-imagery-non-deep-learning)<br>
-[resources for R](#resources-for-r)<br>
+* [Python processing](#python-processing-of-imagery-non-deep-learning)<br>
+* [Resources for R](#resources-for-r)<br>
 #### Start Here
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
 * [Open EO](https://openeo.org/) - openEO develops an open API to connect R, Python, JavaScript and other clients to big Earth observation cloud back-ends in a simple and unified way.
