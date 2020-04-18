@@ -21,7 +21,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 #### Start Here
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
-[Open EO](https://openeo.org/) - openEO develops an open API to connect R, Python, JavaScript and other clients to big Earth observation cloud back-ends in a simple and unified way.
+* [Open EO](https://openeo.org/) - openEO develops an open API to connect R, Python, JavaScript and other clients to big Earth observation cloud back-ends in a simple and unified way.
 ## Python processing of imagery (non deep learning)
 * [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for Python (image fusion)
 * [Python from space](https://github.com/kscottz/PythonFromSpace) - Python Examples for Remote Sensing 
