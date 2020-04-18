@@ -21,7 +21,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 # Contents
 <br>
-[python processing](##python-processing-of-imagery-non-deep-learning)
+[resources for R](#resources-for-R)
 
 #### Start Here
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
