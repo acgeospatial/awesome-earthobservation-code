@@ -30,8 +30,15 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Great GitHub accounts](#great-github-accounts-with-example-projects-where-possible)
 * [GDAL of course](#gdal-of-course)
 * [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)
-
-not finished adding yet
+* [Earth Engine](#earth-engine)
+* [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)
+* [QGIS](#qgis)
+* [Radar](#radar)
+* [LiDAR](#lidar)
+* [Visualisation](#visualisation)
+* [EO code Competitions](#eo-code-competitions)
+* [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)
+* [Interesting Non EO parts Python](#interesting-non-ro-parts-python)
 #### Start Here
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
 * [Open EO](https://openeo.org/) - openEO develops an open API to connect R, Python, JavaScript and other clients to big Earth observation cloud back-ends in a simple and unified way.
@@ -115,7 +122,8 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 * [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/) - Use the GEE python api to export your data to numpy and store the result as a geotiff.
 * [Google Earth Engine Community](https://github.com/gee-community) - This organization contains content contributed by the Earth Engine developer community. This is not an officially supported Google product.
 * [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions) - 2019 material javascript and Python to be found here
-## EO / Geospatial companies/orgs making big contributions - Github accounts only with example of work
+## EO Geospatial companies or orgs making big contributions
+- Github accounts only with example of work
 This list aims at highlighting the great work some of the companies / organisations are doing or have done that contribute to the bigger ecosystem. Examples of the accounts work is not exhaustive, some do much more than shown below:
 * [development seed](https://github.com/developmentseed)
   * [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery 
@@ -162,7 +170,7 @@ This list aims at highlighting the great work some of the companies / organisati
 * See also Sentinel hub
 ## Useful EO code based twitter accounts
 * [pyGEDI](https://twitter.com/pyGEDI) - pyGEDI is a Python Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) mission, data extraction, analysis, processing and visualization.
-## Interesting Non EO parts - Python
+## Interesting Non EO parts Python
 This bit could potentially become the most valuable resource. Lets not ignore other sectors/industries/data science, instead lets embrace it and learn from all that other amazing stuff!
 * [realtime covid19 graphs in USA](https://github.com/k-sys/covid-19) - A collection of work related to COVID-19 
 * [Deep learning with Python notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python" 
