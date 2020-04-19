@@ -124,6 +124,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 * [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions) - 2019 material javascript and Python to be found here
 ## EO Geospatial companies or orgs making big contributions
 - Github accounts only with example of work
+- Also contains (Python) libraries for processing satellite data
 This list aims at highlighting the great work some of the companies / organisations are doing or have done that contribute to the bigger ecosystem. Examples of the accounts work is not exhaustive, some do much more than shown below:
 * [development seed](https://github.com/developmentseed)
   * [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery 
@@ -146,6 +147,9 @@ This list aims at highlighting the great work some of the companies / organisati
 * [Opendatacube](https://github.com/opendatacube)
   * [Opendatacube -core](https://github.com/opendatacube/datacube-core) - Open Data Cube analyses continental scale Earth Observation data through time 
   * [Opendatacube notebooks](https://github.com/opendatacube/datacube-notebooks) - Extra documentation about using ODC with Jupyter Notebooks 
+ * [PyTroll](https://github.com/pytroll)
+  * [SatPy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
+  * [pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling in Python
 ## QGIS
   * [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin) - Integrates Google Earth Engine and QGIS using Python API
     * [QGIS Earth Engine Plugin - installation guide](https://gee-community.github.io/qgis-earthengine-plugin/)
