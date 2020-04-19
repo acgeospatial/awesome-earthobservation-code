@@ -147,7 +147,7 @@ This list aims at highlighting the great work some of the companies / organisati
 * [Opendatacube](https://github.com/opendatacube)
   * [Opendatacube -core](https://github.com/opendatacube/datacube-core) - Open Data Cube analyses continental scale Earth Observation data through time 
   * [Opendatacube notebooks](https://github.com/opendatacube/datacube-notebooks) - Extra documentation about using ODC with Jupyter Notebooks 
- * [PyTroll](https://github.com/pytroll)
+* [PyTroll](https://github.com/pytroll)
   * [SatPy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
   * [pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling in Python
 ## QGIS
