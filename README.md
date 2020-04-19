@@ -52,6 +52,9 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 * [Povetry predition using satellite imagery](https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery) - Poverty Prediction by Combination of Satellite Imagery 
 * [Remote Sensing indicies calc](https://github.com/rander38/Remote-Sensing-Indices-Derivation-Tool) - Calculate spectral remote sensing indices from satellite imagery 
 * [Satellite imagery in Pakistan](https://github.com/iam-mhaseeb/Satellite-Imagery-Analysis-of-Vegetation-in-Southern-Pakistan) - This repository contains a study how we can examine the vegetation cover of a region with the help of satellite data. The notebook in this repository aims to familiarise with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges. 
+* [s3 tools](https://github.com/maximlamare/s3_tools) - A collection of sentinel 3 processing tools 
+* [eumetsat -python](https://github.com/guidocioni/eumetsat-python) - Shows how to read and plot satellite data from EUMETSAT NETCDF files 
+* [unidata on GOES-16](https://unidata.github.io/python-gallery/examples/mapping_GOES16_TrueColor.html) - This notebook shows how to make a true color image from the GOES-16 Advanced Baseline Imager (ABI) level 2 data. We will plot the image with matplotlib and Cartopy.
 ## Resources for R
 R is not my area of expertise so this section is lighter than I'd like, plus I'd love to know what is a useful resource
   * [R-Spatial](https://rspatial.org/raster/rs/1-introduction.html) - This book provides a short introduction to satellite data analysis with R.
@@ -187,4 +190,5 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 * [TernausNet - used in DSTL kaggle competition (came 3rd)](https://github.com/ternaus/TernausNet) - UNet model with VGG11 encoder pre-trained on Kaggle Carvana dataset
 * [Introduction to Python for computational science](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering) - Book: Introduction to Python for Computational Science and Engineering 
 * [Another Book on Data Science](https://www.anotherbookondatascience.com/) - Learn R and Python in Parallel
+* [Xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
 #### End
