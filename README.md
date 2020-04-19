@@ -38,7 +38,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 * [Visualisation](#visualisation)
 * [EO code Competitions](#eo-code-competitions)
 * [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)
-* [Interesting Non EO parts Python](#interesting-non-ro-parts-python)
+* [Interesting Non EO parts Python](#interesting-non-eo-parts-python)
 #### Start Here
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
 * [Open EO](https://openeo.org/) - openEO develops an open API to connect R, Python, JavaScript and other clients to big Earth observation cloud back-ends in a simple and unified way.
