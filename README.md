@@ -201,7 +201,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 * [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
 * [sparkgeo](https://github.com/sparkgeo)
   - [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec 
- * [Geoscience Australia](https://github.com/GeoscienceAustralia)
+* [Geoscience Australia](https://github.com/GeoscienceAustralia)
   - [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.
   - [dea-notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Digital Earth Australia Jupyter Notebooks: tools and workflows for geospatial analysis with Open Data Cube and xarray
 * [Dymaxion Labs](https://github.com/dymaxionlabs)
