@@ -196,6 +196,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 * [CosmiQ](https://github.com/CosmiQ)
   - [Solaris](https://github.com/cosmiq/solaris) - CosmiQ Works Geospatial Machine Learning Analysis Toolkit
     - [docs](https://solaris.readthedocs.io/en/latest/)
+  - [CometTS](https://github.com/CosmiQ/CometTS) - Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons 
   - [SpaceNet6 Baseline](https://github.com/CosmiQ/CosmiQ_SN6_Baseline) - Baseline algorithm for the SpaceNet 6 Challenge 
 * [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
 * [sparkgeo](https://github.com/sparkgeo)
@@ -203,7 +204,9 @@ There are many videos relating to Earth Observation and coding, especially Pytho
  * [Geoscience Australia](https://github.com/GeoscienceAustralia)
   - [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.
   - [dea-notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Digital Earth Australia Jupyter Notebooks: tools and workflows for geospatial analysis with Open Data Cube and xarray
-
+* [Dymaxion Labs](https://github.com/dymaxionlabs)
+  - [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask 
+  - [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery
 ## QGIS
 
 - [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin) - Integrates Google Earth Engine and QGIS using Python API
