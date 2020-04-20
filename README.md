@@ -227,7 +227,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 ## EO code Competitions
 
 - [challenges 2020](https://github.com/esowc/challenges_2020) - ECMWF Summer of Weather Code 2020 challenges
-- [SpaceNet](https://spacenetchallenge.github.io/) - See also CosmiqQ blog the downlinq
+- [SpaceNet](https://spacenetchallenge.github.io/) - See also CosmiQ Works blog the downlinq
 - See also Sentinel hub
 old competitions of note
 - [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) - Use satellite data to track the human footprint in the Amazon rainforest
