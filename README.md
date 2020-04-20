@@ -80,6 +80,8 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Georust](https://github.com/georust) - A collection of geospatial tools and libraries written in Rust
 - [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl) - A high level API for GDAL - Geospatial Data Abstract
   - [ArchGDAL docs](http://yeesian.com/ArchGDAL.jl/latest/)
+- [GeoTrellis homepage](https://geotrellis.io/) - GeoTrellis is a geographic data processing engine for high performance applications.
+  - [GeoTrellis on Github - Scala](https://github.com/locationtech/geotrellis) 
 
 ## Training and learning
 
