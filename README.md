@@ -192,6 +192,8 @@ There are many videos relating to Earth Observation and coding, especially Pytho
     - [docs](https://solaris.readthedocs.io/en/latest/)
   - [SpaceNet6 Baseline](https://github.com/CosmiQ/CosmiQ_SN6_Baseline) - Baseline algorithm for the SpaceNet 6 Challenge 
 * [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
+* [sparkgeo](https://github.com/sparkgeo)
+  - [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec 
 
 ## QGIS
 
