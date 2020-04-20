@@ -115,7 +115,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Keras for computer vision (Maxime Lenormand GitHub)](https://github.com/MaxLenormand/Keras-for-computer-vision) - Introductions to Keras to perform computer vision tasks, with data exploration, error analysis and improving results. 
 
 ## Great Github accounts with example projects where possible
-
+Please do explore these accounts, there are some absolutely brilliant projects on these accounts, some have more than I have shown here!
 - [shakasom github](https://github.com/shakasom)
   - [Deep Learning for satellite imagery](https://github.com/shakasom/Deep-Learning-for-Satellite-Imagery) - Deep learning courses and projects
 - [Remote pixel github](https://github.com/RemotePixel)
@@ -135,6 +135,9 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Johntruckhenbrodt github](https://github.com/johntruckenbrodt)
   - [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - framework for large-scale SAR satellite data processing 
   - [spatialist](https://github.com/johntruckenbrodt/spatialist) - A Python module for spatial data handling 
+- [Oliverhagolle github](https://github.com/olivierhagolle)
+  - [Sentinel-download](https://github.com/olivierhagolle/Sentinel-download) - Automated download of Sentinel-2 L1C data from ESA (through wget)
+  - [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website
 
 ## GDAL of course
 
