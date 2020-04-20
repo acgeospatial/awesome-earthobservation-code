@@ -11,3 +11,18 @@ Together we are greater than the sum of our parts
 
 ### New to github or readme.md editing? Then checkout this cheatsheet for help
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+### Acknowledgements of the people/accounts who have helped with this repo, with how helped in brackets (not ordered)
+Thankyou to you all!
+- Alastair Graham (lunch time meeting / Pull request)
+- Emil Cherrington (lunch time meeting)
+- Hayley Evers King (lunch time meeting)
+- Xu Teo (lunch time meeting)
+- Sam Bancroft (lunch time meeting)
+- Gennadii Donchyts (lunch time meeting)
+- Qiusheng Wu (Pull request)
+- u/Fenr-i-r (link on Reddit)
+- u/Jirokoh (link on Reddit)
+- @OHagolle (link on twitter)
+- @Sophie_Villerot (link on twitter)
+- @gartn001 (link on twitter)
