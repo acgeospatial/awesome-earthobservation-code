@@ -239,5 +239,6 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 - [Introduction to Python for computational science](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering) - Book: Introduction to Python for Computational Science and Engineering
 - [Another Book on Data Science](https://www.anotherbookondatascience.com/) - Learn R and Python in Parallel
 - [Xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
+- [Matplotlib colab notebook tutorial](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb#scrollTo=gG7Fh4EMV2ey) - This notebook demonstrates how to use the matplotlib library to plot beautiful graphs.
 
 #### End
