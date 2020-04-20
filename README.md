@@ -188,6 +188,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
   - [Solaris](https://github.com/cosmiq/solaris) - CosmiQ Works Geospatial Machine Learning Analysis Toolkit
     - [docs](https://solaris.readthedocs.io/en/latest/)
   - [SpaceNet6 Baseline](https://github.com/CosmiQ/CosmiQ_SN6_Baseline) - Baseline algorithm for the SpaceNet 6 Challenge 
+* [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
 
 ## QGIS
 
@@ -215,7 +216,6 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 
 - [Philipp Gartner blog](https://philippgaertner.github.io/)
 - [Series Temporelles](https://labo.obs-mip.fr/multitemp/)
-- [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
 - [The downlinq](https://medium.com/the-downlinq)
 - [GEDI canopy data](https://medium.com/@abt0020/extracting-canopy-height-with-gedi-data-5af8c87df158) - How we processed data to retrieving canopy height
 
