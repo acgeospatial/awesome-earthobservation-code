@@ -63,6 +63,7 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [s3 tools](https://github.com/maximlamare/s3_tools) - A collection of sentinel 3 processing tools
 - [eumetsat -python](https://github.com/guidocioni/eumetsat-python) - Shows how to read and plot satellite data from EUMETSAT NETCDF files
 - [unidata on GOES-16](https://unidata.github.io/python-gallery/examples/mapping_GOES16_TrueColor.html) - This notebook shows how to make a true color image from the GOES-16 Advanced Baseline Imager (ABI) level 2 data. We will plot the image with matplotlib and Cartopy.
+- [esa_sentinel](https://github.com/jonas-eberle/esa_sentinel) - ESA Sentinel Search & Download API 
 
 ## Resources for R
 
@@ -86,6 +87,8 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 ## Training and learning
 
 - [Earth Data Lab](https://github.com/earthlab/earthlab.github.io) - A site dedicated to tutorials, course and other learning materials and resources developed by the Earth Lab team
+- [EO College Github](https://github.com/EO-College)
+  - [tomography_tutorial](https://github.com/EO-College/tomography_tutorial) - A tutorial for Synthetic Aperture Radar Tomography 
 - [Andrew Cutts Github](https://github.com/acgeospatial) - I am an Earth Observation and Geospatial enthusiast, primarily using Python to automate and process images at scale using computer vision
   - [Satelite Imagery Python](https://github.com/acgeospatial/Satellite_Imagery_Python) - Sample sample scripts and notebooks on processing satellite imagery
   - [Geospatial Python Programming Course](https://github.com/acgeospatial/Geospatial_Python_CourseV1) - This is an collection of blog posts turned into a course format
@@ -129,6 +132,9 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
   - [Python GEE notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
   - [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
   - [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools Python Frontend
+- [Johntruckhenbrodt github](https://github.com/johntruckenbrodt)
+  - [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - framework for large-scale SAR satellite data processing 
+  - [spatialist](https://github.com/johntruckenbrodt/spatialist) - A Python module for spatial data handling 
 
 ## GDAL of course
 
@@ -194,6 +200,9 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 * [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
 * [sparkgeo](https://github.com/sparkgeo)
   - [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec 
+ * [Geoscience Australia](https://github.com/GeoscienceAustralia)
+  - [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.
+  - [dea-notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Digital Earth Australia Jupyter Notebooks: tools and workflows for geospatial analysis with Open Data Cube and xarray
 
 ## QGIS
 
