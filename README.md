@@ -67,6 +67,7 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [esa_sentinel](https://github.com/jonas-eberle/esa_sentinel) - ESA Sentinel Search & Download API 
 - [MetPy](https://github.com/Unidata/MetPy) - MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. 
   - [MetPy docs](https://unidata.github.io/MetPy/latest/)
+- [EarthPy](https://github.com/earthlab/earthpy) - A package built to support working with spatial data using open source python. [docs](https://earthpy.readthedocs.io/en/latest/)
 
 ## Resources for R
 
@@ -90,6 +91,9 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
   - [GeoTrellis on Github - Scala](https://github.com/locationtech/geotrellis) 
 - [GDAL with GoLang](https://github.com/lukeroth/gdal) - Go (golang) wrapper for GDAL, the Geospatial Data Abstraction Library 
 - [C++ gdalcubes](https://github.com/appelmar/gdalcubes) - Earth observation data cubes from GDAL image collections 
+- [RSGLib](https://bitbucket.org/petebunting/rsgislib/src/bf7933996822/?at=default) - The remote sensing and GIS software library (RSGISLib) is a set of C++ libraries and commands for the processing of spatial data (raster and vector). Functionality is via Python interface though
+- [WhiteBox with Java](https://github.com/jblindsay/whitebox-geospatial-analysis-tools) - An open-source GIS and remote sensing package 
+- [Perl extension for GDAL](https://metacpan.org/pod/Geo::GDAL) - Geo::GDAL - Perl extension for the GDAL library for geospatial data
 
 ## Training and learning
 
@@ -139,6 +143,7 @@ Please do explore these accounts, there are some absolutely brilliant projects o
   - [Python GEE notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
   - [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
   - [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools Python Frontend
+  - [Lidar](https://github.com/giswqs/lidar) - Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM) 
 - [Johntruckhenbrodt github](https://github.com/johntruckenbrodt)
   - [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - framework for large-scale SAR satellite data processing 
   - [spatialist](https://github.com/johntruckenbrodt/spatialist) - A Python module for spatial data handling 
@@ -224,6 +229,8 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 
 ## DEM projects
 - [Tin Terrain](https://github.com/heremaps/tin-terrain) - A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes. 
+- [TauDEM](https://github.com/dtarb/TauDEM) - Terrain Analysis Using Digital Elevation Models (TauDEM) software for hydrologic terrain analysis and channel network extraction. [Docs](http://hydrology.usu.edu/taudem/taudem5/index.html)
+- [DEM.net](https://github.com/dem-net/DEM.Net) - Digital Elevation model library in C#. 3D terrain models, line/point Elevations, intervisibility reports. [Docs](https://elevationapi.com/)
 
 ## Radar
 
