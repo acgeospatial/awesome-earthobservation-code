@@ -36,6 +36,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 - [Earth Engine](#earth-engine)
 - [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)
 - [QGIS](#qgis)
+- [DEM projects](#dem-projects)
 - [Radar](#radar)
 - [LiDAR](#lidar)
 - [Visualisation](#visualisation)
@@ -73,10 +74,12 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 
 - [R-Spatial](https://rspatial.org/raster/rs/1-introduction.html) - This book provides a short introduction to satellite data analysis with R.
   - [Remote Sensing analysis with R](https://rspatial.org/raster/rs/index.html) - Builds on above R-Spatial
-- [GDAL Cubes](https://cran.r-project.org/web/packages/gdalcubes/index.html) - Earth Observation Data Cubes from Satellite Image Collections.
+- [GDAL Cubes](https://cran.r-project.org/web/packages/gdalcubes/index.html) - Earth Observation Data Cubes from Satellite Image Collections. Also [here on github](https://github.com/appelmar/gdalcubes_R)
 - [Image Classification with RandomForests in R](http://amsantac.co/blog/en/2015/11/28/classification-r.html) - The goal of this post is to demonstrate the ability of R to classify multispectral imagery using RandomForests algorithms.
 - [R code for ML in Sat imagery](https://gist.github.com/franzalex/a95e227cab9b146a6092) - # Random Forest image classification Adapted from [stackoverflow](http://gis.stackexchange.com/a/57786/12899).
 - [whiteboxR](https://github.com/giswqs/whiteboxR) - An R frontend of the advanced geospatial data analysis platform - [whitebox-tools](https://github.com/jblindsay/whitebox-tools).
+- [RasterVIS](https://cran.r-project.org/web/packages/rasterVis/index.html) - Methods for enhanced visualization and interaction with raster data. It implements visualization methods for quantitative data and categorical data, both for univariate and multivariate rasters. It also provides methods to display spatiotemporal rasters, and vector fields. 
+- [Landsat](https://cran.r-project.org/web/packages/landsat/index.html) - Processing of Landsat or other multispectral satellite imagery. Includes relative normalization, image-based radiometric correction, and topographic correction options.
 
 ## Languages other than Python
 
@@ -85,6 +88,8 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
   - [ArchGDAL docs](http://yeesian.com/ArchGDAL.jl/latest/)
 - [GeoTrellis homepage](https://geotrellis.io/) - GeoTrellis is a geographic data processing engine for high performance applications.
   - [GeoTrellis on Github - Scala](https://github.com/locationtech/geotrellis) 
+- [GDAL with GoLang](https://github.com/lukeroth/gdal) - Go (golang) wrapper for GDAL, the Geospatial Data Abstraction Library 
+- [C++ gdalcubes](https://github.com/appelmar/gdalcubes) - Earth observation data cubes from GDAL image collections 
 
 ## Training and learning
 
@@ -217,6 +222,9 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin) - Integrates Google Earth Engine and QGIS using Python API
   - [QGIS Earth Engine Plugin - installation guide](https://gee-community.github.io/qgis-earthengine-plugin/)
 
+## DEM projects
+- [Tin Terrain](https://github.com/heremaps/tin-terrain) - A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes. 
+
 ## Radar
 
 - [SAR docker](https://github.com/mortcanty/SARDocker) - Source files for Docker image mort/sardocker/
@@ -270,5 +278,6 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 - [Another Book on Data Science](https://www.anotherbookondatascience.com/) - Learn R and Python in Parallel
 - [Xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
 - [Matplotlib colab notebook tutorial](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb#scrollTo=gG7Fh4EMV2ey) - This notebook demonstrates how to use the matplotlib library to plot beautiful graphs.
+- [PostGIS raster cheatsheet](http://www.postgis.us/downloads/postgis20_raster_cheatsheet.pdf) - Useful tips on rasters in PostGIS
 
 #### End
