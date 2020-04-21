@@ -68,6 +68,7 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [MetPy](https://github.com/Unidata/MetPy) - MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. 
   - [MetPy docs](https://unidata.github.io/MetPy/latest/)
 - [EarthPy](https://github.com/earthlab/earthpy) - A package built to support working with spatial data using open source python. [docs](https://earthpy.readthedocs.io/en/latest/)
+- [RasterFrames / pyrasterframes](https://github.com/locationtech/rasterframes) - brings together Earth-observation (EO) data access, cloud computing, and DataFrame-based data science. [docs](https://rasterframes.io/)
 
 ## Resources for R
 
