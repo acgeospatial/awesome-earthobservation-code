@@ -82,6 +82,8 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [whiteboxR](https://github.com/giswqs/whiteboxR) - An R frontend of the advanced geospatial data analysis platform - [whitebox-tools](https://github.com/jblindsay/whitebox-tools).
 - [RasterVIS](https://cran.r-project.org/web/packages/rasterVis/index.html) - Methods for enhanced visualization and interaction with raster data. It implements visualization methods for quantitative data and categorical data, both for univariate and multivariate rasters. It also provides methods to display spatiotemporal rasters, and vector fields. 
 - [Landsat](https://cran.r-project.org/web/packages/landsat/index.html) - Processing of Landsat or other multispectral satellite imagery. Includes relative normalization, image-based radiometric correction, and topographic correction options.
+- [rnoaa](https://github.com/ropensci/rnoaa) - R interface to many NOAA data APIs
+- [MODISTools](https://github.com/ropensci/MODISTools) - Interface to the MODIS Land Products Subsets Web Services [Docs](https://docs.ropensci.org/MODISTools/)
 
 ## Languages other than Python
 
