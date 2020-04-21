@@ -64,6 +64,8 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [eumetsat -python](https://github.com/guidocioni/eumetsat-python) - Shows how to read and plot satellite data from EUMETSAT NETCDF files
 - [unidata on GOES-16](https://unidata.github.io/python-gallery/examples/mapping_GOES16_TrueColor.html) - This notebook shows how to make a true color image from the GOES-16 Advanced Baseline Imager (ABI) level 2 data. We will plot the image with matplotlib and Cartopy.
 - [esa_sentinel](https://github.com/jonas-eberle/esa_sentinel) - ESA Sentinel Search & Download API 
+- [MetPy](https://github.com/Unidata/MetPy) - MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. 
+  - [MetPy docs](https://unidata.github.io/MetPy/latest/)
 
 ## Resources for R
 
@@ -172,42 +174,42 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - Also contains (Python) libraries for processing satellite data
   This list aims at highlighting the great work some of the companies / organisations are doing or have done that contribute to the bigger ecosystem. Examples of the accounts work is not exhaustive, some do much more than shown below:
 
-* [development seed](https://github.com/developmentseed)
+- [development seed](https://github.com/developmentseed)
   - [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery
   - [GeoLamda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions
-* [mapbox](https://github.com/mapbox)
+- [mapbox](https://github.com/mapbox)
   - [rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
   - [Robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds
-* [Planet Labs, now just Planet](https://github.com/planetlabs)
+- [Planet Labs, now just Planet](https://github.com/planetlabs)
   - [Planet notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
-* [Digital Globe - now Maxar](https://github.com/DigitalGlobe)
+- [Digital Globe - now Maxar](https://github.com/DigitalGlobe)
   - [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) - Python SDK for using GBDX.
-* [Azavea](https://github.com/azavea)
+- [Azavea](https://github.com/azavea)
   - [Azavea - RasterVision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
-* [Radiant Earth foundation](https://github.com/radiantearth)
+- [Radiant Earth foundation](https://github.com/radiantearth)
   - [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
-* [Sentinel Hub](https://github.com/sentinel-hub)
+- [Sentinel Hub](https://github.com/sentinel-hub)
   - [EO Learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python
   - [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub
   - [EO flow](https://github.com/sentinel-hub/eo-flow) - Collection of TensorFlow 2.0 code for Earth Observation applications
-* [Opendatacube](https://github.com/opendatacube)
+- [Opendatacube](https://github.com/opendatacube)
   - [Opendatacube -core](https://github.com/opendatacube/datacube-core) - Open Data Cube analyses continental scale Earth Observation data through time
   - [Opendatacube notebooks](https://github.com/opendatacube/datacube-notebooks) - Extra documentation about using ODC with Jupyter Notebooks
-* [PyTroll](https://github.com/pytroll)
+- [PyTroll](https://github.com/pytroll)
   - [SatPy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
   - [pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling in Python
-* [CosmiQ](https://github.com/CosmiQ)
+- [CosmiQ](https://github.com/CosmiQ)
   - [Solaris](https://github.com/cosmiq/solaris) - CosmiQ Works Geospatial Machine Learning Analysis Toolkit
     - [docs](https://solaris.readthedocs.io/en/latest/)
   - [CometTS](https://github.com/CosmiQ/CometTS) - Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons 
   - [SpaceNet6 Baseline](https://github.com/CosmiQ/CosmiQ_SN6_Baseline) - Baseline algorithm for the SpaceNet 6 Challenge 
-* [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
-* [sparkgeo](https://github.com/sparkgeo)
+- [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
+- [sparkgeo](https://github.com/sparkgeo)
   - [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec 
-* [Geoscience Australia](https://github.com/GeoscienceAustralia)
+- [Geoscience Australia](https://github.com/GeoscienceAustralia)
   - [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.
   - [dea-notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Digital Earth Australia Jupyter Notebooks: tools and workflows for geospatial analysis with Open Data Cube and xarray
-* [Dymaxion Labs](https://github.com/dymaxionlabs)
+- [Dymaxion Labs](https://github.com/dymaxionlabs)
   - [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask 
   - [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery
 ## QGIS
