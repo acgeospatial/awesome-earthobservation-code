@@ -157,6 +157,7 @@ Please do explore these accounts, there are some absolutely brilliant projects o
 - [Oliverhagolle github](https://github.com/olivierhagolle)
   - [Sentinel-download](https://github.com/olivierhagolle/Sentinel-download) - Automated download of Sentinel-2 L1C data from ESA (through wget)
   - [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website
+- [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/) - Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with [Open Data Cube](https://www.opendatacube.org/) and `xarray`
 
 ## GDAL of course
 
