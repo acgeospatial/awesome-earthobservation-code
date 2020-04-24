@@ -37,7 +37,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 - [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)
 - [QGIS](#qgis)
 - [DEM projects](#dem-projects)
-- [Radar](#radar)
+- [SAR](#sar)
 - [LiDAR](#lidar)
 - [InSAR](#insar)
 - [Visualisation](#visualisation)
@@ -244,9 +244,10 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [DEM.net](https://github.com/dem-net/DEM.Net) - Digital Elevation model library in C#. 3D terrain models, line/point Elevations, intervisibility reports. [Docs](https://elevationapi.com/)
 - [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p) - Satellite Stereo Pipeline
 
-## Radar
+## SAR
 
 - [SAR docker](https://github.com/mortcanty/SARDocker) - Source files for Docker image mort/sardocker/
+- [awesome SAR](https://github.com/lveci/awesome-sar) - A curated list of awesome Synthetic Aperture Radar (SAR) software, libraries, and resources. 
 
 ## LiDAR
 
