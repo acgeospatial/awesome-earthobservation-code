@@ -39,6 +39,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 - [DEM projects](#dem-projects)
 - [Radar](#radar)
 - [LiDAR](#lidar)
+- [InSAR](#insar)
 - [Visualisation](#visualisation)
 - [EO code Competitions](#eo-code-competitions)
 - [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)
@@ -55,7 +56,6 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 
 - [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for Python (image fusion)
 - [Python from space](https://github.com/kscottz/PythonFromSpace) - Python Examples for Remote Sensing
-- [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p) - Satellite Stereo Pipeline
 - [count blue pixels](https://github.com/craic/count_shelters) - This project is an experiment in using simple image processing techniques on satellite images downloaded from Google Maps in order to quantify the relative density of temporary shelters in adjacent qudarants.
 - [Satellite imagery analysis with Python](https://github.com/parulnith/Satellite-Imagery-Analysis-with-Python) - Getting acquainted with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges.
   - [associated blog](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)
@@ -241,6 +241,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [Tin Terrain](https://github.com/heremaps/tin-terrain) - A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes. 
 - [TauDEM](https://github.com/dtarb/TauDEM) - Terrain Analysis Using Digital Elevation Models (TauDEM) software for hydrologic terrain analysis and channel network extraction. [Docs](http://hydrology.usu.edu/taudem/taudem5/index.html)
 - [DEM.net](https://github.com/dem-net/DEM.Net) - Digital Elevation model library in C#. 3D terrain models, line/point Elevations, intervisibility reports. [Docs](https://elevationapi.com/)
+- [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p) - Satellite Stereo Pipeline
 
 ## Radar
 
@@ -253,6 +254,13 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [rGEDI](https://github.com/carlos-alberto-silva/rGEDI) - rGEDI: An R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing.
 - [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171) - Python script to convert from ICESat-2 ATL08 HDF data to shapefile. Usage: 'python icesat2_shp.py
 - [ICESAT tools](https://github.com/icesat-2UT/PhoREAL) - Tools and code for Icesat-2 data analysis (Python)
+
+## InSAR
+- [ISCE](https://github.com/isce-framework/isce3) - InSAR Scientific Computing Environment version 3 alpha 
+- [LiCSBAS](https://github.com/yumorishita/LiCSBAS) - LiCSBAS package to carry out InSAR time series analysis using LiCSAR products
+- [MintPy](https://github.com/insarlab/MintPy) - Miami InSAR time-series software in Python
+- [Pyrocko](https://pyrocko.org/) - Can be utilized flexibly for a variety of geophysical tasks, like seismological data processing and analysis, modelling of InSAR, GPS data and dynamic waveforms, or for seismic source characterization.
+- [InSARFlow](https://github.com/levuvietphong/InSARFlow) - Parallel InSAR processing for Time-series analysis 
 
 ## Visualisation
 
