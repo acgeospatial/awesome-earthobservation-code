@@ -157,7 +157,7 @@ Please do explore these accounts, there are some absolutely brilliant projects o
 - [Oliverhagolle github](https://github.com/olivierhagolle)
   - [Sentinel-download](https://github.com/olivierhagolle/Sentinel-download) - Automated download of Sentinel-2 L1C data from ESA (through wget)
   - [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website
-- [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks/) - Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with [Open Data Cube](https://www.opendatacube.org/) and `xarray`
+
 
 ## GDAL of course
 
@@ -226,7 +226,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
   - [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec 
 - [Geoscience Australia](https://github.com/GeoscienceAustralia)
   - [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.
-  - [dea-notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Digital Earth Australia Jupyter Notebooks: tools and workflows for geospatial analysis with Open Data Cube and xarray
+  - [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - R- Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with Open Data Cube (link above) and `xarray`
 - [Dymaxion Labs](https://github.com/dymaxionlabs)
   - [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask 
   - [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery
