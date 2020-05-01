@@ -323,6 +323,7 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 ## Interesting Non EO parts other languages
 This section is aimed more a data science/programming resources that 'might' be applicable to Earth Observation, that are <b>not </b>Python
 - [Efficient R programming](https://csgillespie.github.io/efficientR/) - This is the online version of the O’Reilly book: Efficient R programming. Code is [here](https://github.com/csgillespie/efficientR)
+- [jupyterhub-platform-tutorials](https://github.com/luigidifraia/jupyterhub-platform-tutorials) = Tutorials to install and manage JupyterHub platforms with Kubernetes 
 
 ## A footnote on awesome
 There are many awesome lists relating to 'Geo'. I use that term as widely as possible. This list is not meant to replace these lists. Earth Observation is still <b>way</b> behind the GIS world in terms of audience, reach, number of users etc. Things are changing though, by bringing these links together I hope you can see that there has been so much progress in the last 5 years. I do hope these links are helpful espcially to those who are new to Earth Observation, but also to people like me who with several years of experience think they may have seen it all - we haven't and there is still so much to learn. Earth Observation is not just an academic 'thing' or a basemap anymore, it forms the basis for a growing and diverse business environment. Lets embrace this.
