@@ -4,7 +4,7 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 
 ## This list was started based on #scenefromabove podcast lunchtime discussions
 
-This is being extended frequently in April 2020. Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
+This is being extended frequently in May 2020. Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
 Annotations are based on the headers - where available - on the github accounts
 
@@ -138,6 +138,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Detecting ships](https://github.com/ucalyptus/Detecting-Ships) - Using Satellite Imagery to detect ships (Basic Object Detection)
 - [deepOSM](https://github.com/trailbehind/DeepOSM) - Train a deep learning net with OpenStreetMap features and satellite imagery.
 - [Keras for computer vision (Maxime Lenormand GitHub)](https://github.com/MaxLenormand/Keras-for-computer-vision) - Introductions to Keras to perform computer vision tasks, with data exploration, error analysis and improving results. 
+- [Airplane image classification](https://medium.com/@kylepob61392/airplane-image-classification-using-a-keras-cnn-22be506fdb53) - This article details building a ML pipeline to classify the presence of planes in satellite images using a Convolutional Neural Network (CNN).
 
 ## Great Github accounts with example projects where possible
 Please do explore these accounts, there are some absolutely brilliant projects on these accounts, some have more than I have shown here!
