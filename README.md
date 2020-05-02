@@ -79,7 +79,7 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [cresi](https://github.com/avanetten/cresi) - Road network extraction from satellite imagery, with speed and travel time estmates 
 - [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service 
 
-## Resources for R
+## Resources for `R`
 
 R is not my area of expertise so this section is lighter than I'd like, plus I'd love to know what is a useful resource
 
@@ -250,9 +250,9 @@ There are many videos relating to Earth Observation and coding, especially Pytho
   - [Telluric](https://github.com/satellogic/telluric) - telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way 
   - [Orbit predictor](https://github.com/satellogic/orbit-predictor) - Python library to propagate satellite orbits. 
 - [senbox-org](https://github.com/senbox-org) - SNAP - ESA's SentiNel Application Platform 
-  - [s3tbx](https://github.com/senbox-org/s3tbx) - A toolbox for the OLCI and SLSTR instruments on board of ESA's Sentinel-3 satellite - java
-  - [s2tbx](https://github.com/senbox-org/s2tbx) - Sentinel 2 Toolbox (s2tbx) - `java`
-  - [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - java
+  - [s3tbx](https://github.com/senbox-org/s3tbx) - A toolbox for the OLCI and SLSTR instruments on board of ESA's Sentinel-3 satellite - `Java`
+  - [s2tbx](https://github.com/senbox-org/s2tbx) - Sentinel 2 Toolbox (s2tbx) - `Java`
+  - [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - `Java`
 ## QGIS
 
 - [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin) - Integrates Google Earth Engine and QGIS using Python API
