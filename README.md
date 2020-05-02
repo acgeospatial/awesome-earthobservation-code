@@ -166,7 +166,10 @@ Please do explore these accounts, there are some absolutely brilliant projects o
 - [Oliverhagolle github](https://github.com/olivierhagolle)
   - [Sentinel-download](https://github.com/olivierhagolle/Sentinel-download) - Automated download of Sentinel-2 L1C data from ESA (through wget)
   - [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website
-
+- [PerryGeo](https://github.com/perrygeo)
+  - [RasterStats](https://github.com/perrygeo/python-rasterstats) - Summary statistics of geospatial raster datasets based on vector geometries. 
+  - [docker-base-gdal](https://github.com/perrygeo/docker-gdal-base) - A base docker image for geospatial applications 
+  - [pyimpute](https://github.com/perrygeo/pyimpute) - Spatial classification and regression using Scikit-learn and Rasterio 
 
 ## GDAL of course
 
