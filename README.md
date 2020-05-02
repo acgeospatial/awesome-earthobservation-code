@@ -251,7 +251,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
   - [Orbit predictor](https://github.com/satellogic/orbit-predictor) - Python library to propagate satellite orbits. 
 - [senbox-org](https://github.com/senbox-org) - SNAP - ESA's SentiNel Application Platform 
   - [s3tbx](https://github.com/senbox-org/s3tbx) - A toolbox for the OLCI and SLSTR instruments on board of ESA's Sentinel-3 satellite - java
-  - [s2tbx](https://github.com/senbox-org/s2tbx) - Sentinel 2 Toolbox (s2tbx) - java
+  - [s2tbx](https://github.com/senbox-org/s2tbx) - Sentinel 2 Toolbox (s2tbx) - `java`
   - [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - java
 ## QGIS
 
