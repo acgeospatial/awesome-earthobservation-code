@@ -51,12 +51,12 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
 
-- [Open EO](https://openeo.org/) - openEO develops an open API to connect R, Python, JavaScript and other clients to big Earth observation cloud back-ends in a simple and unified way.
+- [Open EO](https://openeo.org/) - openEO develops an open API to connect `R`, `Python`, `JavaScript` and other clients to big Earth observation cloud back-ends in a simple and unified way.
 
-## Python processing of imagery non deep learning
+## `Python` processing of imagery non deep learning
 
-- [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for Python (image fusion)
-- [Python from space](https://github.com/kscottz/PythonFromSpace) - Python Examples for Remote Sensing
+- [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for `Python` (image fusion)
+- [Python from space](https://github.com/kscottz/PythonFromSpace) - `Python` Examples for Remote Sensing
 - [count blue pixels](https://github.com/craic/count_shelters) - This project is an experiment in using simple image processing techniques on satellite images downloaded from Google Maps in order to quantify the relative density of temporary shelters in adjacent qudarants.
 - [Satellite imagery analysis with Python](https://github.com/parulnith/Satellite-Imagery-Analysis-with-Python) - Getting acquainted with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges.
   - [associated blog](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)
@@ -95,10 +95,10 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [MODISTools](https://github.com/ropensci/MODISTools) - Interface to the MODIS Land Products Subsets Web Services [Docs](https://docs.ropensci.org/MODISTools/)
 - [A Step-by-Step Guide to Making 3D Maps with Satellite Imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/) - Walk you through [on] how to obtain the data required to make these types of maps, as well as the R code used to generate them 
 
-## Languages other than Python
+## Languages other than `Python`
 
-- [Georust](https://github.com/georust) - A collection of geospatial tools and libraries written in Rust
-- [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl) - A high level API for GDAL - Geospatial Data Abstract
+- [Georust](https://github.com/georust) - A collection of geospatial tools and libraries written in `Rust`
+- [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl) - `Julia` A high level API for GDAL - Geospatial Data Abstract
   - [ArchGDAL docs](http://yeesian.com/ArchGDAL.jl/latest/)
 - [GeoTrellis homepage](https://geotrellis.io/) - GeoTrellis is a geographic data processing engine for high performance applications.
   - [GeoTrellis on Github - Scala](https://github.com/locationtech/geotrellis) 
