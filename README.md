@@ -178,6 +178,7 @@ Please do explore these accounts, there are some absolutely brilliant projects o
 - [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools
 - [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/) - This cookbook has simple code snippets on how to use the Python GDAL/OGR API
 - [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/) - This blogpost gives in an introduction to GDAL/OGR and explains how the various command line tools can be used.
+- [Evan Roualt github](https://github.com/rouault) - Free and open source geospatial developper, extensively supports GDAL
 
 ## Earth Observation coding on YouTube
 
