@@ -79,6 +79,7 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [cresi](https://github.com/avanetten/cresi) - Road network extraction from satellite imagery, with speed and travel time estmates 
 - [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service 
 - [6S_emulator](https://github.com/samsammurphy/6S_emulator) - Atmospheric correction in Python using a 6S emulator 
+- [bv](https://github.com/daleroberts/bv) - Quickly view satellite imagery, hyperspectral imagery, and machine learning image outputs directly in your iTerm2 terminal. `Python`
 
 ## Resources for `R`
 
