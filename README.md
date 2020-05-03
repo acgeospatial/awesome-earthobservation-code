@@ -80,6 +80,7 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service 
 - [6S_emulator](https://github.com/samsammurphy/6S_emulator) - Atmospheric correction in Python using a 6S emulator 
 - [bv](https://github.com/daleroberts/bv) - Quickly view satellite imagery, hyperspectral imagery, and machine learning image outputs directly in your iTerm2 terminal. `Python`
+- [mapchete](https://github.com/ungarj/mapchete) - Tile-based geodata processing using rasterio & Fiona  `Python`
 
 ## Resources for `R`
 
