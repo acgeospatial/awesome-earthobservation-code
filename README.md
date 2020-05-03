@@ -106,7 +106,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
   - [GeoTrellis on Github - Scala](https://github.com/locationtech/geotrellis) 
 - [GDAL with GoLang](https://github.com/lukeroth/gdal) - `Go` (golang) wrapper for GDAL, the Geospatial Data Abstraction Library 
 - [C++ gdalcubes](https://github.com/appelmar/gdalcubes) - Earth observation data cubes from GDAL image collections  `C++`
-- [RSGLib](https://bitbucket.org/petebunting/rsgislib/src/bf7933996822/?at=default) - The remote sensing and GIS software library (RSGISLib) is a set of `C++` libraries and commands for the processing of spatial data (raster and vector). Functionality is via Python interface though
+- [RSGLib](https://bitbucket.org/petebunting/rsgislib/src/bf7933996822/?at=default) - The remote sensing and GIS software library (RSGISLib) is a set of `C++` libraries and commands for the processing of spatial data (raster and vector). Functionality is via `Python` interface though
 - [WhiteBox with Java](https://github.com/jblindsay/whitebox-geospatial-analysis-tools) - An open-source GIS and remote sensing package - `Java`
 - [Perl extension for GDAL](https://metacpan.org/pod/Geo::GDAL) - Geo::GDAL - `Perl` extension for the GDAL library for geospatial data
 - [PDAL](https://github.com/PDAL/PDAL) - PDAL is Point Data Abstraction Library. GDAL for point cloud data. 
@@ -119,10 +119,10 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
   - [tomography_tutorial](https://github.com/EO-College/tomography_tutorial) - A tutorial for Synthetic Aperture Radar Tomography 
 - [profLewis-geog0111](https://github.com/profLewis/geog0111) - UCL Geography: 4th year course, Scientific Computing
 - [Intro to Geospatial Vector and Raster](https://carpentries-incubator.github.io/geospatial-python/) - Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain.
-- [Andrew Cutts Github](https://github.com/acgeospatial) - I am an Earth Observation and Geospatial enthusiast, primarily using Python to automate and process images at scale using computer vision
+- [Andrew Cutts Github](https://github.com/acgeospatial) - I am an Earth Observation and Geospatial enthusiast, primarily using `Python` to automate and process images at scale using computer vision
   - [Satelite Imagery Python](https://github.com/acgeospatial/Satellite_Imagery_Python) - Sample sample scripts and notebooks on processing satellite imagery
   - [Geospatial Python Programming Course](https://github.com/acgeospatial/Geospatial_Python_CourseV1) - This is an collection of blog posts turned into a course format
-- [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial) - Tutorial of fundamental remote sensing and GIS methodologies using open source software in python
+- [Open Geo Tutorial](https://github.com/patrickcgray/open-geo-tutorial) - Tutorial of fundamental remote sensing and GIS methodologies using open source software in `Python`
 - [Foss4gUKJupyter](https://github.com/samfranklin/foss4guk19-jupyter) - FOSS4G UK 2019 Workshop "Geoprocessing with Jupyter Notebooks" 
 - [Geoprocessing with Python - GIS circa 2009](https://www.gis.usu.edu/~chrisg/python/2009/) - This material is really old and some of it is outdated (not all, though!). One of these days I might get around to putting newer class materials online, but you're stuck with this for now.
 
