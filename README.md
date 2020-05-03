@@ -220,10 +220,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 
 ## EO Geospatial companies or orgs making big contributions
 
-- Github accounts only with example of work
-- Also contains (Python) libraries for processing satellite data
-  This list aims at highlighting the great work some of the companies / organisations are doing or have done that contribute to the bigger ecosystem. Examples of the accounts work is not exhaustive, some do much more than shown below:
-
+Github accounts only with examples of work. Also contains (Python) libraries for processing satellite data. This list aims at highlighting the great work some of the companies / organisations are doing or have done that contribute to the bigger ecosystem. Examples of the accounts work is not exhaustive, some do much more than shown below:
 - [development seed](https://github.com/developmentseed)
   - [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery
   - [GeoLamda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions
