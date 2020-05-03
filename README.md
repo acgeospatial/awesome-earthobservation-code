@@ -174,7 +174,7 @@ Please do explore these accounts, there are some absolutely brilliant projects o
   - [RasterStats](https://github.com/perrygeo/python-rasterstats) - Summary statistics of geospatial raster datasets based on vector geometries. 
   - [docker-base-gdal](https://github.com/perrygeo/docker-gdal-base) - A base docker image for geospatial applications 
   - [pyimpute](https://github.com/perrygeo/pyimpute) - Spatial classification and regression using Scikit-learn and Rasterio 
- - [rhammell](https://github.com/rhammell) 
+- [rhammell](https://github.com/rhammell) 
   - [Planet Movement](https://github.com/rhammell/planet-movement) - Find and process Planet image pairs to highlight object movement 
   - [Planesnet](https://github.com/rhammell/planesnet) - Labeled training data for detection of aircraft in Planet satellite imagery 
   - [Planesnet detector](https://github.com/rhammell/planesnet-detector) - Detect airplanes in Planet imagery using machine learning 
