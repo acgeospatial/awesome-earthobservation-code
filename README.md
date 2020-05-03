@@ -100,14 +100,15 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Georust](https://github.com/georust) - A collection of geospatial tools and libraries written in `Rust`
 - [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl) - `Julia` A high level API for GDAL - Geospatial Data Abstract
   - [ArchGDAL docs](http://yeesian.com/ArchGDAL.jl/latest/)
-- [GeoTrellis homepage](https://geotrellis.io/) - GeoTrellis is a geographic data processing engine for high performance applications.
+- [GeoTrellis homepage](https://geotrellis.io/) - GeoTrellis is a geographic data processing engine for high performance applications. `Scala`
   - [GeoTrellis on Github - Scala](https://github.com/locationtech/geotrellis) 
-- [GDAL with GoLang](https://github.com/lukeroth/gdal) - Go (golang) wrapper for GDAL, the Geospatial Data Abstraction Library 
-- [C++ gdalcubes](https://github.com/appelmar/gdalcubes) - Earth observation data cubes from GDAL image collections 
-- [RSGLib](https://bitbucket.org/petebunting/rsgislib/src/bf7933996822/?at=default) - The remote sensing and GIS software library (RSGISLib) is a set of C++ libraries and commands for the processing of spatial data (raster and vector). Functionality is via Python interface though
-- [WhiteBox with Java](https://github.com/jblindsay/whitebox-geospatial-analysis-tools) - An open-source GIS and remote sensing package 
-- [Perl extension for GDAL](https://metacpan.org/pod/Geo::GDAL) - Geo::GDAL - Perl extension for the GDAL library for geospatial data
+- [GDAL with GoLang](https://github.com/lukeroth/gdal) - `Go` (golang) wrapper for GDAL, the Geospatial Data Abstraction Library 
+- [C++ gdalcubes](https://github.com/appelmar/gdalcubes) - Earth observation data cubes from GDAL image collections  `C++`
+- [RSGLib](https://bitbucket.org/petebunting/rsgislib/src/bf7933996822/?at=default) - The remote sensing and GIS software library (RSGISLib) is a set of `C++` libraries and commands for the processing of spatial data (raster and vector). Functionality is via Python interface though
+- [WhiteBox with Java](https://github.com/jblindsay/whitebox-geospatial-analysis-tools) - An open-source GIS and remote sensing package - `Java`
+- [Perl extension for GDAL](https://metacpan.org/pod/Geo::GDAL) - Geo::GDAL - `Perl` extension for the GDAL library for geospatial data
 - [PDAL](https://github.com/PDAL/PDAL) - PDAL is Point Data Abstraction Library. GDAL for point cloud data. 
+- [force](https://github.com/davidfrantz/force) - Framework for Operational Radiometric Correction for Environmental monitoring in `c`
 
 ## Training and learning
 
