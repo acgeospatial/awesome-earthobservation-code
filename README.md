@@ -155,6 +155,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [TorchSat](https://github.com/sshuair/torchsat) - an open-source deep learning framework for satellite imagery analysis based on PyTorch. `Python` [docs](https://torchsat.readthedocs.io/en/latest/)
 - [ml_drought](https://github.com/esowc/ml_drought) - Machine learning to better predict and understand drought `Python`. [docs](https://ml-clim.github.io/drought-prediction/)
 - [pycrop yield prediction](https://github.com/gabrieltseng/pycrop-yield-prediction) - A PyTorch Implementation of Jiaxuan You's Deep Gaussian Process for Crop Yield Prediction `Python`
+- [neat-EO](https://datapink.io/datapink/neat-EO/) - Efficient AI4EO OpenSource framework `Python`
 
 ## Great Github accounts with example projects where possible
 Please do explore these accounts, there are some absolutely brilliant projects on these accounts, some have more than I have shown here!
