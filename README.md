@@ -99,6 +99,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [rnoaa](https://github.com/ropensci/rnoaa) - R interface to many NOAA data APIs
 - [MODISTools](https://github.com/ropensci/MODISTools) - Interface to the MODIS Land Products Subsets Web Services [Docs](https://docs.ropensci.org/MODISTools/)
 - [A Step-by-Step Guide to Making 3D Maps with Satellite Imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/) - Walk you through [on] how to obtain the data required to make these types of maps, as well as the R code used to generate them 
+- [landsatlinkr](https://github.com/jdbcode/LandsatLinkr) - An automated system for creating spectrally consistent and cloud-free Landsat image time series stacks from a combination of MSS, TM, ETM+, and OLI sensors [project](http://jdbcode.github.io/LandsatLinkr/)
 
 ## Languages other than `Python`
 
@@ -114,6 +115,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Perl extension for GDAL](https://metacpan.org/pod/Geo::GDAL) - Geo::GDAL - `Perl` extension for the GDAL library for geospatial data
 - [PDAL](https://github.com/PDAL/PDAL) - PDAL is Point Data Abstraction Library. GDAL for point cloud data. 
 - [force](https://github.com/davidfrantz/force) - Framework for Operational Radiometric Correction for Environmental monitoring in `c`
+- [LLR-landTrendr](https://github.com/jdbcode/LLR-LandTrendr) - Landsat-based Detection of Trends in Disturbance and Recovery algorimth modified to accept LandsatLinkr-processed imagery. `IDL`
 
 ## Training and learning
 
