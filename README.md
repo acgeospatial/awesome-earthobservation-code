@@ -193,7 +193,11 @@ Please do explore these accounts, there are some absolutely brilliant projects o
 - [jgomezdans github](https://github.com/jgomezdans) - [blog](http://jgomezdans.github.io/)
   - [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository `Python`
   - [prosail](https://github.com/jgomezdans/prosail) - `Python` bindings for the PROSAIL canopy reflectance model 
-
+- [yannforget github](https://github.com/yannforget)
+  - [landsatexplore](https://github.com/yannforget/landsatxplore) - Search and download Landsat scenes from EarthExplorer. `Python`
+  - [pylandsat](https://github.com/yannforget/pylandsat) - Search, download, and preprocess Landsat imagery `Python`
+  - [landsat and sentinel fusion](https://github.com/yannforget/landsat-sentinel-fusion) - Complementarity Between Sentinel-1 and Landsat 8 Imagery for Built-Up Mapping in Sub-Saharan Africa `Python`
+  - [conda recipes](https://github.com/yannforget/conda-recipes) - Conda recipes for remote sensing `Shell`
 ## GDAL of course
 
 - [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools
