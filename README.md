@@ -45,7 +45,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 - [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)
 - [Interesting Non EO parts Python](#interesting-non-eo-parts-python)
 - [Interesting Non EO parts other languages](#interesting-non-eo-parts-other-languages)
-- [Data#(#data)
+- [Data](#data)
 - [A footnote on awesome](#a-footnote-on-awesome)
 
 #### Start Here
