@@ -84,6 +84,7 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [mapchete](https://github.com/ungarj/mapchete) - Tile-based geodata processing using rasterio & Fiona  `Python`
 - [Climate data science](https://github.com/willyhagi/climate-data-science) - Climate Data Science and Earth Observation with `Python`
 - [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools for spectral mixture analysis of multispectral raster data in `Python`
+- [Sedas API](https://github.com/SatelliteApplicationsCatapult/sedas_pyapi) - Python client library for the SeDAS API 
 
 ## Resources for `R`
 
