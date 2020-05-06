@@ -238,7 +238,9 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [from GEE to Numpy to Geotiff](https://mygeoblog.com/2017/10/06/from-gee-to-numpy-to-geotiff/) - Use the GEE python api to export your data to numpy and store the result as a geotiff.
 - [Google Earth Engine Community](https://github.com/gee-community) - This organization contains content contributed by the Earth Engine developer community. This is not an officially supported Google product.
 - [Geo4Good 2019 workshop materials](https://sites.google.com/earthoutreach.org/geoforgood19/agenda/breakout-sessions) - 2019 material javascript and Python to be found here
+- [2018 GEE summit - Dublin materials](https://sites.google.com/earthoutreach.org/eeus2018/agenda/session-descriptions) - 2018 material javascript and Python to be found here
 - [10 tips for becoming an Earth Engine expert](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b) - Keiko Nomura shares her 10 favourite tips
+- [Earth Engine Developer list](https://groups.google.com/forum/#!forum/google-earth-engine-developers) - registration required (I think)
 
 ## EO Geospatial companies or orgs making big contributions
 
