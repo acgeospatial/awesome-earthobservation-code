@@ -213,6 +213,10 @@ Please do explore these accounts, there are some absolutely brilliant projects o
   - [GEE code archive](https://github.com/gena/ee-code-editor-archive) - Unsorted archived Earth Engine scripts `JavaScript`
   - [gdbx-surface-water](https://github.com/gena/gbdx-surface-water) - Reservoir surface area detection with Digital Globe imagery and Bayesian methods 
   - [Landsat7 errors](https://github.com/gena/landsat7-errors) - Identifies errors in raw values of Landsat 7 
+ - [samapriya github](https://github.com/samapriya)
+  - [gee-up](https://github.com/samapriya/geeup) - Simple CLI for Google Earth Engine Uploads [docs](https://pypi.org/project/geeup/)
+  - [gee_asset_manager](https://github.com/samapriya/gee_asset_manager_addon) - Google Earth Engine Asset Manager with Addons [docs](https://samapriya.github.io/gee_asset_manager_addon/)
+  - [Planet-GEE_Pipeline](https://github.com/samapriya/Planet-GEE-Pipeline-CLI) -Planet and Google Earth Engine Pipeline Command Line Interface Tool [docs](https://pypi.org/project/ppipe/)
 
 ## GDAL of course
 
@@ -247,6 +251,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [10 tips for becoming an Earth Engine expert](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b) - Keiko Nomura shares her 10 favourite tips
 - [Earth Engine Developer list](https://groups.google.com/forum/#!forum/google-earth-engine-developers) - registration required
 - [Earth Engine Beginner's Cookbook](https://developers.google.com/earth-engine/tutorials/community/beginners-cookbook) - n this tutorial, we will introduce several types of geospatial data, and enumerate key Earth Engine functions for analyzing and visualizing them. This cookbook was originally created as a workshop during Yale-NUS Data 2.0 hackathon, and later updated for Yale GIS Day 2018 and 2019. `JavaScript`
+- [Google Earth Engine Repos](https://github.com/topics/earth-engine) - all the repos matching `earth-engine`
 
 ## EO Geospatial companies or orgs making big contributions
 
