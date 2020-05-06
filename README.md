@@ -53,6 +53,9 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
 
 - [Open EO](https://openeo.org/) - openEO develops an open API to connect `R`, `Python`, `JavaScript` and other clients to big Earth observation cloud back-ends in a simple and unified way.
+You may also wish to navigate a search of the terms `satellite-imagery` and `earth-observation` to get the lastest list of topics that have these terms in their headers
+- [satellite-imagery](https://github.com/topics/satellite-imagery)
+- [earth-observation](https://github.com/topics/earth-observation)
 
 ## `Python` processing of imagery non deep learning
 
@@ -120,6 +123,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [PDAL](https://github.com/PDAL/PDAL) - PDAL is Point Data Abstraction Library. GDAL for point cloud data. 
 - [force](https://github.com/davidfrantz/force) - Framework for Operational Radiometric Correction for Environmental monitoring in `c`
 - [LLR-landTrendr](https://github.com/jdbcode/LLR-LandTrendr) - Landsat-based Detection of Trends in Disturbance and Recovery algorimth modified to accept LandsatLinkr-processed imagery. `IDL`
+- [Global Forest Watch](https://github.com/Vizzuality/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool 
 
 ## Training and learning
 
