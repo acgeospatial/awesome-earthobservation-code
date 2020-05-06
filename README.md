@@ -203,6 +203,12 @@ Please do explore these accounts, there are some absolutely brilliant projects o
   - [pylandsat](https://github.com/yannforget/pylandsat) - Search, download, and preprocess Landsat imagery `Python`
   - [landsat and sentinel fusion](https://github.com/yannforget/landsat-sentinel-fusion) - Complementarity Between Sentinel-1 and Landsat 8 Imagery for Built-Up Mapping in Sub-Saharan Africa `Python`
   - [conda recipes](https://github.com/yannforget/conda-recipes) - Conda recipes for remote sensing `Shell`
+- [robintw](https://github.com/robintw)
+  - [Py6S](https://github.com/robintw/Py6S) - A `Python`interface to the 6S Radiative Transfer Model 
+  - [Xarray pyconuk 2018](https://github.com/robintw/XArray_PyConUK2018) - Code and slides for my talk at PyCon UK 2018 on XArray `Python`
+  - [cloud frequency app](https://github.com/robintw/CloudFrequencyApp) - CloudFrequency webapp, using Google App Engine `Python` `JavaScript`
+  - [PyProSail](https://github.com/robintw/PyProSAIL) - Python interface to the ProSAIL leaf/canopy reflectance model 
+
 ## GDAL of course
 
 - [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools
