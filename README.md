@@ -257,6 +257,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [Earth Engine Developer list](https://groups.google.com/forum/#!forum/google-earth-engine-developers) - registration required
 - [Earth Engine Beginner's Cookbook](https://developers.google.com/earth-engine/tutorials/community/beginners-cookbook) - n this tutorial, we will introduce several types of geospatial data, and enumerate key Earth Engine functions for analyzing and visualizing them. This cookbook was originally created as a workshop during Yale-NUS Data 2.0 hackathon, and later updated for Yale GIS Day 2018 and 2019. `JavaScript`
 - [Google Earth Engine Repos](https://github.com/topics/earth-engine) - all the repos matching `earth-engine`
+- [geetools](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine Code Editor `JavaScript` [docs](https://github.com/fitoprincipe/geetools-code-editor/wiki)
 
 ## EO Geospatial companies or orgs making big contributions
 
