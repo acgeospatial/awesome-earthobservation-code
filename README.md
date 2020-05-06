@@ -85,6 +85,7 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [Climate data science](https://github.com/willyhagi/climate-data-science) - Climate Data Science and Earth Observation with `Python`
 - [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools for spectral mixture analysis of multispectral raster data in `Python`
 - [Sedas API](https://github.com/SatelliteApplicationsCatapult/sedas_pyapi) - `Python` client library for the SeDAS API 
+- [SentinelBot](https://github.com/JamesOConnor/Sentinel_bot) - A twitter bot which processes raw sentinel data `Python` [SentinelBot on twitter](https://twitter.com/sentinel_bot)
 
 ## Resources for `R`
 
