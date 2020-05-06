@@ -84,7 +84,7 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [mapchete](https://github.com/ungarj/mapchete) - Tile-based geodata processing using rasterio & Fiona  `Python`
 - [Climate data science](https://github.com/willyhagi/climate-data-science) - Climate Data Science and Earth Observation with `Python`
 - [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools for spectral mixture analysis of multispectral raster data in `Python`
-- [Sedas API](https://github.com/SatelliteApplicationsCatapult/sedas_pyapi) - Python client library for the SeDAS API 
+- [Sedas API](https://github.com/SatelliteApplicationsCatapult/sedas_pyapi) - `Python` client library for the SeDAS API 
 
 ## Resources for `R`
 
@@ -282,6 +282,7 @@ Github accounts only with examples of work. Also contains (Python) libraries for
   - [s3tbx](https://github.com/senbox-org/s3tbx) - A toolbox for the OLCI and SLSTR instruments on board of ESA's Sentinel-3 satellite - `Java`
   - [s2tbx](https://github.com/senbox-org/s2tbx) - Sentinel 2 Toolbox (s2tbx) - `Java`
   - [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - `Java`
+  - [snap_engine](https://github.com/senbox-org/snap-engine) - ESA Earth Observation Toolbox and `Java` Development Platform
 - [Nasa-gibs](https://github.com/nasa-gibs) - for info [here](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs)
   - [onearth](https://github.com/nasa-gibs/onearth) - High-performance web services for tiled raster imagery and vector tiles 
   - [Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
