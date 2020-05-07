@@ -10,6 +10,8 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 
 This is being extended frequently in May 2020. Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
+<b> Update May 2020</b> We now have almost 300 links/resources. The focus at the moment is resorting and ordering all these links and potentially reclassifiying where needed. I think there are still 100-200 more resources potentially to add
+
 Annotations are based on the headers - where available - on the github accounts
 
 <div align="center">
