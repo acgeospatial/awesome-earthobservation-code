@@ -27,8 +27,8 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 <b>Shortcuts</b>
 
-- [Python processing](#python-processing-of-imagery-non-deep-learning)<br>
-- [Resources for R](#resources-for-r)<br>
+|[Python processing](#python-processing-of-imagery-non-deep-learning)|[Resources for R](#resources-for-r)|
+
 - [Languages other than Python](#languages-other-than-python)<br>
 - [Training and Learning](#training-and-learning)
 - [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)
