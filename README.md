@@ -1,5 +1,4 @@
 # Awesome-EarthObservation-Code
-# Awesome-EarthObservation-Code
 
 A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 
