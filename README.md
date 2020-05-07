@@ -27,8 +27,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 <b>Shortcuts</b>
 
-|   [Python processing](#python-processing-of-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python](#languages-other-than-python)   |
-|   [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [List of Great GitHub accounts](#great-github-accounts)   |
+|   [Python processing](#python-processing-of-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python](#languages-other-than-python)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [List of Great GitHub accounts](#great-github-accounts)   |
 - [GDAL of course](#gdal-of-course)
 - [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)
 - [Earth Engine](#earth-engine)
