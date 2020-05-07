@@ -1,4 +1,5 @@
 # Awesome-EarthObservation-Code
+# Awesome-EarthObservation-Code
 
 A curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 
@@ -30,12 +31,12 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 - [Languages other than Python](#languages-other-than-python)<br>
 - [Training and Learning](#training-and-learning)
 - [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)
-- [Great GitHub accounts](#great-github-accounts-with-example-projects-where-possible)
+- [List of Great GitHub accounts](#great-github-accounts-with-example-projects-where-possible)
 - [GDAL of course](#gdal-of-course)
 - [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)
 - [Earth Engine](#earth-engine)
 - [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)
-- [QGIS](#qgis)
+- [QGIS and Grass](#qgis-and-grass)
 - [DEM projects](#dem-projects)
 - [SAR](#sar)
 - [LiDAR](#lidar)
@@ -59,7 +60,7 @@ You may also wish to navigate a search of the terms `satellite-imagery` and `ear
 - [earth-observation](https://github.com/topics/earth-observation)
 
 ## `Python` processing of imagery non deep learning
-
+This section is probably in need of sorting and ordering
 - [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for `Python` (image fusion)
 - [Python from space](https://github.com/kscottz/PythonFromSpace) - `Python` Examples for Remote Sensing
 - [count blue pixels](https://github.com/craic/count_shelters) - This project is an experiment in using simple image processing techniques on satellite images downloaded from Google Maps in order to quantify the relative density of temporary shelters in adjacent qudarants. `Python` `Ruby`
@@ -90,6 +91,26 @@ You may also wish to navigate a search of the terms `satellite-imagery` and `ear
 - [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools for spectral mixture analysis of multispectral raster data in `Python`
 - [Sedas API](https://github.com/SatelliteApplicationsCatapult/sedas_pyapi) - `Python` client library for the SeDAS API 
 - [SentinelBot](https://github.com/JamesOConnor/Sentinel_bot) - A twitter bot which processes raw sentinel data `Python` [SentinelBot on twitter](https://twitter.com/sentinel_bot)
+- [Py6S](https://github.com/robintw/Py6S) - A `Python`interface to the 6S Radiative Transfer Model 
+- [Xarray pyconuk 2018](https://github.com/robintw/XArray_PyConUK2018) - Code and slides for my talk at PyCon UK 2018 on XArray `Python`
+- [cloud frequency app](https://github.com/robintw/CloudFrequencyApp) - CloudFrequency webapp, using Google App Engine `Python` `JavaScript`
+- [PyProSail](https://github.com/robintw/PyProSAIL) - Python interface to the ProSAIL leaf/canopy reflectance model 
+- [gdbx-surface-water](https://github.com/gena/gbdx-surface-water) - Reservoir surface area detection with Digital Globe imagery and Bayesian methods 
+- [Landsat7 errors](https://github.com/gena/landsat7-errors) - Identifies errors in raw values of Landsat 7 
+- [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository `Python`
+- [prosail](https://github.com/jgomezdans/prosail) - `Python` bindings for the PROSAIL canopy reflectance model 
+- [landsatexplore](https://github.com/yannforget/landsatxplore) - Search and download Landsat scenes from EarthExplorer. `Python`
+- [pylandsat](https://github.com/yannforget/pylandsat) - Search, download, and preprocess Landsat imagery `Python`
+- [landsat and sentinel fusion](https://github.com/yannforget/landsat-sentinel-fusion) - Complementarity Between Sentinel-1 and Landsat 8 Imagery for Built-Up Mapping in Sub-Saharan Africa `Python`
+- [pyimpute](https://github.com/perrygeo/pyimpute) - Spatial classification and regression using Scikit-learn and Rasterio 
+- [Planet Movement](https://github.com/rhammell/planet-movement) - Find and process Planet image pairs to highlight object movement 
+- [Sentinel-download](https://github.com/olivierhagolle/Sentinel-download) - Automated download of Sentinel-2 L1C data from ESA (through wget)
+- [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions
+- [Sentinel Sat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images [Sentinel Sat docs](https://sentinelsat.readthedocs.io/en/stable/)
+- [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools ``Python Frontend
+- [spatialist](https://github.com/johntruckenbrodt/spatialist) - A `Python` module for spatial data handling 
+- [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website
+- [RasterStats](https://github.com/perrygeo/python-rasterstats) - Summary statistics of geospatial raster datasets based on vector geometries. 
 
 ## Resources for `R`
 
@@ -125,6 +146,8 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [force](https://github.com/davidfrantz/force) - Framework for Operational Radiometric Correction for Environmental monitoring in `c`
 - [LLR-landTrendr](https://github.com/jdbcode/LLR-LandTrendr) - Landsat-based Detection of Trends in Disturbance and Recovery algorimth modified to accept LandsatLinkr-processed imagery. `IDL`
 - [Global Forest Watch](https://github.com/Vizzuality/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool 
+- [conda recipes](https://github.com/yannforget/conda-recipes) - Conda recipes for remote sensing `Shell`
+
 
 ## Training and learning
 
@@ -166,69 +189,37 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [pycrop yield prediction](https://github.com/gabrieltseng/pycrop-yield-prediction) - A PyTorch Implementation of Jiaxuan You's Deep Gaussian Process for Crop Yield Prediction `Python`
 - [neat-EO](https://datapink.io/datapink/neat-EO/) - Efficient AI4EO OpenSource framework `Python`
 - [dfc2020_baseline](https://github.com/lukasliebel/dfc2020_baseline) - Simple Baseline for the IEEE GRSS Data Fusion Contest 2020 `Python`
+- [Planesnet](https://github.com/rhammell/planesnet) - Labeled training data for detection of aircraft in Planet satellite imagery 
+- [Planesnet detector](https://github.com/rhammell/planesnet-detector) - Detect airplanes in Planet imagery using machine learning 
+- [shipsnet](https://github.com/rhammell/shipsnet-detector) - Detect container ships in Planet imagery using machine learning 
+- [Deep Learning for satellite imagery](https://github.com/shakasom/Deep-Learning-for-Satellite-Imagery) - Deep learning courses and projects
 
-## Great Github accounts with example projects where possible
-Please do explore these accounts, there are some absolutely brilliant projects on these accounts, some have more than I have shown here!
-- [shakasom github](https://github.com/shakasom)
-  - [Deep Learning for satellite imagery](https://github.com/shakasom/Deep-Learning-for-Satellite-Imagery) - Deep learning courses and projects
-- [Remote pixel github](https://github.com/RemotePixel)
-  - [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions
-- [Marcus Netler on github](https://github.com/neteler)
-  - [grass-dev-py3-pdal](https://github.com/neteler/grass-dev-py3-pdal) - Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL support
+## Great Github accounts
+Please do explore these accounts, there are some absolutely brilliant projects on these accounts. This was previously a section containing examples, but these are better grouped into the other headings and repitition of links removed. However I feel its very important to highlight individuals wherever possible, ordered by github account name.
 - [Christoph Rieke git hub](https://github.com/chrieke)
-  - [awesome satellite imagery datasets (for deep learning)](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning
 - [Fernerkundung](https://github.com/Fernerkundung/)
-  - [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data
-  - [Sentinel Sat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images
-    - [Sentinel Sat docs](https://sentinelsat.readthedocs.io/en/stable/)
-- [giswqs - Qiusheng Wu github](https://github.com/giswqs)
-  - [Python GEE notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
-  - [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
-  - [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools Python Frontend
-  - [Lidar](https://github.com/giswqs/lidar) - Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM) 
-- [Johntruckhenbrodt github](https://github.com/johntruckenbrodt)
-  - [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - framework for large-scale SAR satellite data processing 
-  - [spatialist](https://github.com/johntruckenbrodt/spatialist) - A Python module for spatial data handling 
-- [Oliverhagolle github](https://github.com/olivierhagolle)
-  - [Sentinel-download](https://github.com/olivierhagolle/Sentinel-download) - Automated download of Sentinel-2 L1C data from ESA (through wget)
-  - [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website
-- [PerryGeo](https://github.com/perrygeo)
-  - [RasterStats](https://github.com/perrygeo/python-rasterstats) - Summary statistics of geospatial raster datasets based on vector geometries. 
-  - [docker-base-gdal](https://github.com/perrygeo/docker-gdal-base) - A base docker image for geospatial applications 
-  - [pyimpute](https://github.com/perrygeo/pyimpute) - Spatial classification and regression using Scikit-learn and Rasterio 
-- [rhammell](https://github.com/rhammell) 
-  - [Planet Movement](https://github.com/rhammell/planet-movement) - Find and process Planet image pairs to highlight object movement 
-  - [Planesnet](https://github.com/rhammell/planesnet) - Labeled training data for detection of aircraft in Planet satellite imagery 
-  - [Planesnet detector](https://github.com/rhammell/planesnet-detector) - Detect airplanes in Planet imagery using machine learning 
-  - [shipsnet](https://github.com/rhammell/shipsnet-detector) - Detect container ships in Planet imagery using machine learning 
+- [gena github](https://github.com/gena)
 - [jgomezdans github](https://github.com/jgomezdans) - [blog](http://jgomezdans.github.io/)
-  - [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository `Python`
-  - [prosail](https://github.com/jgomezdans/prosail) - `Python` bindings for the PROSAIL canopy reflectance model 
-- [yannforget github](https://github.com/yannforget)
-  - [landsatexplore](https://github.com/yannforget/landsatxplore) - Search and download Landsat scenes from EarthExplorer. `Python`
-  - [pylandsat](https://github.com/yannforget/pylandsat) - Search, download, and preprocess Landsat imagery `Python`
-  - [landsat and sentinel fusion](https://github.com/yannforget/landsat-sentinel-fusion) - Complementarity Between Sentinel-1 and Landsat 8 Imagery for Built-Up Mapping in Sub-Saharan Africa `Python`
-  - [conda recipes](https://github.com/yannforget/conda-recipes) - Conda recipes for remote sensing `Shell`
+- [Johntruckhenbrodt github](https://github.com/johntruckenbrodt)
+- [Marcus Netler on github](https://github.com/neteler)
+- [Oliverhagolle github](https://github.com/olivierhagolle)
+- [PerryGeo](https://github.com/perrygeo)
+- [giswqs - Qiusheng Wu github](https://github.com/giswqs)
+- [rhammell](https://github.com/rhammell) 
+- [Remote pixel github](https://github.com/RemotePixel)
 - [robintw](https://github.com/robintw)
-  - [Py6S](https://github.com/robintw/Py6S) - A `Python`interface to the 6S Radiative Transfer Model 
-  - [Xarray pyconuk 2018](https://github.com/robintw/XArray_PyConUK2018) - Code and slides for my talk at PyCon UK 2018 on XArray `Python`
-  - [cloud frequency app](https://github.com/robintw/CloudFrequencyApp) - CloudFrequency webapp, using Google App Engine `Python` `JavaScript`
-  - [PyProSail](https://github.com/robintw/PyProSAIL) - Python interface to the ProSAIL leaf/canopy reflectance model 
- - [gena github](https://github.com/gena)
-  - [GEE code archive](https://github.com/gena/ee-code-editor-archive) - Unsorted archived Earth Engine scripts `JavaScript`
-  - [gdbx-surface-water](https://github.com/gena/gbdx-surface-water) - Reservoir surface area detection with Digital Globe imagery and Bayesian methods 
-  - [Landsat7 errors](https://github.com/gena/landsat7-errors) - Identifies errors in raw values of Landsat 7 
- - [samapriya github](https://github.com/samapriya)
-  - [gee-up](https://github.com/samapriya/geeup) - Simple CLI for Google Earth Engine Uploads [docs](https://pypi.org/project/geeup/)
-  - [gee_asset_manager](https://github.com/samapriya/gee_asset_manager_addon) - Google Earth Engine Asset Manager with Addons [docs](https://samapriya.github.io/gee_asset_manager_addon/)
-  - [Planet-GEE_Pipeline](https://github.com/samapriya/Planet-GEE-Pipeline-CLI) -Planet and Google Earth Engine Pipeline Command Line Interface Tool [docs](https://pypi.org/project/ppipe/)
+- [Evan Roualt github](https://github.com/rouault)
+- [samapriya github](https://github.com/samapriya)
+- [shakasom github](https://github.com/shakasom)
+- [yannforget github](https://github.com/yannforget)
+
 
 ## GDAL of course
 
 - [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools
 - [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/) - This cookbook has simple code snippets on how to use the Python GDAL/OGR API
 - [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/) - This blogpost gives in an introduction to GDAL/OGR and explains how the various command line tools can be used.
-- [Evan Roualt github](https://github.com/rouault) - Free and open source geospatial developper, extensively supports GDAL
+- [docker-base-gdal](https://github.com/perrygeo/docker-gdal-base) - A base docker image for geospatial applications 
 
 ## Earth Observation coding on YouTube
 
@@ -258,6 +249,12 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [Earth Engine Beginner's Cookbook](https://developers.google.com/earth-engine/tutorials/community/beginners-cookbook) - n this tutorial, we will introduce several types of geospatial data, and enumerate key Earth Engine functions for analyzing and visualizing them. This cookbook was originally created as a workshop during Yale-NUS Data 2.0 hackathon, and later updated for Yale GIS Day 2018 and 2019. `JavaScript`
 - [Google Earth Engine Repos](https://github.com/topics/earth-engine) - all the repos matching `earth-engine`
 - [geetools](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine Code Editor `JavaScript` [docs](https://github.com/fitoprincipe/geetools-code-editor/wiki)
+- [gee-up](https://github.com/samapriya/geeup) - Simple CLI for Google Earth Engine Uploads [docs](https://pypi.org/project/geeup/)
+- [gee_asset_manager](https://github.com/samapriya/gee_asset_manager_addon) - Google Earth Engine Asset Manager with Addons [docs](https://samapriya.github.io/gee_asset_manager_addon/)
+- [Planet-GEE_Pipeline](https://github.com/samapriya/Planet-GEE-Pipeline-CLI) -Planet and Google Earth Engine Pipeline Command Line Interface Tool [docs](https://pypi.org/project/ppipe/)
+- [GEE code archive](https://github.com/gena/ee-code-editor-archive) - Unsorted archived Earth Engine scripts `JavaScript`
+- [Python GEE notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
+- [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
 
 ## EO Geospatial companies or orgs making big contributions
 
@@ -318,10 +315,11 @@ Github accounts only with examples of work. Also contains (Python) libraries for
   - [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks.
   - [actinia plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes 
 
-## QGIS
+## QGIS and Grass
 
 - [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin) - Integrates Google Earth Engine and QGIS using Python API
   - [QGIS Earth Engine Plugin - installation guide](https://gee-community.github.io/qgis-earthengine-plugin/)
+- [grass-dev-py3-pdal](https://github.com/neteler/grass-dev-py3-pdal) - Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL suppor
 
 ## DEM projects
 - [Tin Terrain](https://github.com/heremaps/tin-terrain) - A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes. 
@@ -333,6 +331,7 @@ Github accounts only with examples of work. Also contains (Python) libraries for
 
 - [SAR docker](https://github.com/mortcanty/SARDocker) - Source files for Docker image mort/sardocker/
 - [awesome SAR](https://github.com/lveci/awesome-sar) - A curated list of awesome Synthetic Aperture Radar (SAR) software, libraries, and resources. 
+- [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - framework for large-scale SAR satellite data processing 
 
 ## LiDAR
 
@@ -341,7 +340,8 @@ Github accounts only with examples of work. Also contains (Python) libraries for
 - [rGEDI](https://github.com/carlos-alberto-silva/rGEDI) - rGEDI: An R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing.
 - [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171) - Python script to convert from ICESat-2 ATL08 HDF data to shapefile. Usage: 'python icesat2_shp.py
 - [ICESAT tools](https://github.com/icesat-2UT/PhoREAL) - Tools and code for Icesat-2 data analysis (Python)
-- [usgs-lidar](https://github.com/hobu/usgs-lidar) - AWS Entwine Point Tiles USGS LiDAR Public Dataset GitHub repo 
+- [usgs-lidar](https://github.com/hobu/usgs-lidar) - AWS Entwine Point Tiles USGS LiDAR Public Dataset GitHub repo
+- [Lidar](https://github.com/giswqs/lidar) - Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM)  
 
 ## InSAR
 - [ISCE](https://github.com/isce-framework/isce3) - InSAR Scientific Computing Environment version 3 alpha 
@@ -414,6 +414,7 @@ There are many awesome lists relating to 'Geo'. I use that term as widely as pos
 
 Finally, I wanted to acknowledge a couple of awesome Earth Observation lists that you may list to check out:
 
+- [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - curated list of awesome tools, tutorials and APIs for Copernicus Sentinel satellite data
 - [awesome-remote-sensing](https://github.com/attibalazs/awesome-remote-sensing) - Collection of Remote Sensing Resources 
 - [awesome-remote-sensing-papers](https://github.com/sacridini/awesome-remote-sensing-papers) - Selection of remote sensing papers 
 - [awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources 
