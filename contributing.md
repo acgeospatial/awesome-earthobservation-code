@@ -29,3 +29,4 @@ Thankyou to you all!
 - [@mustuner2](https://twitter.com/mustuner2) (suggestion of InSAR section and several Python InSAR links on twitter)
 - Robbi Bishop-Taylor (Pull request)
 - Keiko Nomura (Pull request)
+- Fernerkundung (Kersten) (Pull request)
