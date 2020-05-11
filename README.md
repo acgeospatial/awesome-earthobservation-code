@@ -79,7 +79,7 @@ This section full of great code and projects related to processing optical satel
 - [Planet Movement](https://github.com/rhammell/planet-movement) - Find and process Planet image pairs to highlight object movement. `Python` 
 - [Sentinel-download](https://github.com/olivierhagolle/Sentinel-download) - Automated download of Sentinel-2 L1C data from ESA (through wget) `Python`
 - [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions
-- [Sentinel Sat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images [Sentinel Sat docs](https://sentinelsat.readthedocs.io/en/stable/) `Python`
+- [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images [sentinelsat docs](https://sentinelsat.readthedocs.io/en/stable/) `Python`
 - [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools `Python` Frontend
 - [spatialist](https://github.com/johntruckenbrodt/spatialist) - A `Python` module for spatial data handling 
 - [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website
