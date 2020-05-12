@@ -10,7 +10,7 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 
 This is being extended frequently in May 2020. Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
-<b> Update May 2020</b> We now have almost 300 links/resources. The focus at the moment is resorting and ordering all these links and potentially reclassifiying where needed. I think there are still 100-200 more resources potentially to add
+<b> Update May 2020</b> We now have almost 300 links/resources. The focus at the moment is resorting and ordering all these links and potentially reclassifiying where needed. I think there are still 100-200 more resources potentially to add. I plan to add to <b>EO Geospatial companies or orgs making big contributions</b> section and then break into sections and just keep company. Still more to add prior to this.
 
 Annotations are based on the headers - where available - on the github accounts
 
@@ -234,7 +234,10 @@ Github accounts only with examples of work. Also contains (Python) libraries for
   - [rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
   - [Robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds
 - [Planet Labs, now just Planet](https://github.com/planetlabs)
-  - [Planet notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering
+  - [Planet notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering `Python`
+  - [staccato](https://github.com/planetlabs/staccato) - `Java` implementation of the STAC spec 
+  - [Planet-client-API](https://github.com/planetlabs/planet-client-python) - `Python` client for Planet APIs 
+  - [training-workshop](https://github.com/planetlabs/training-workshop) - This repo contains all materials used on Planet's training workshop for Bahrain Defense Force
 - [Digital Globe - now Maxar](https://github.com/DigitalGlobe)
   - [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) - Python SDK for using GBDX.
 - [Azavea](https://github.com/azavea)
@@ -289,6 +292,7 @@ Github accounts only with examples of work. Also contains (Python) libraries for
 - [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin) - Integrates Google Earth Engine and QGIS using Python API
   - [QGIS Earth Engine Plugin - installation guide](https://gee-community.github.io/qgis-earthengine-plugin/)
 - [grass-dev-py3-pdal](https://github.com/neteler/grass-dev-py3-pdal) - Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL suppor
+- [qgis-plugin-planet](https://github.com/planetlabs/qgis-planet-plugin) - Browse, filter, preview and download Planet Inc imagery in QGIS. `Python`
 
 ## Climate and weather based resources
 These are `Python` resources. Please see [R resources](#resources-for-r) for info on R
