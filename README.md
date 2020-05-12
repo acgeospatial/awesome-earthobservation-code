@@ -242,6 +242,10 @@ Github accounts only with examples of work. Also contains (Python) libraries for
   - [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) - Python SDK for using GBDX.
 - [Azavea](https://github.com/azavea)
   - [Azavea - RasterVision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
+  - [pystac](https://github.com/azavea/pystac) - `Python` library for working with any SpatioTemporal Asset Catalog (STAC) 
+  - [loam](https://github.com/azavea/loam) - `Javascript` wrapper for GDAL in the browser 
+  - [raster-vision-aws](https://github.com/azavea/raster-vision-aws) - A CloudFormation template for deploying Raster Vision Batch jobs to AWS. 
+  - [stac4s](https://github.com/azavea/stac4s)  -a `scala` library with primitives to build applications using the SpatioTemporal Asset Catalogs specification 
 - [Radiant Earth foundation](https://github.com/radiantearth)
   - [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
 - [Sentinel Hub](https://github.com/sentinel-hub)
