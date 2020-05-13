@@ -295,7 +295,7 @@ Github accounts only with examples of work. Also contains (Python) libraries for
   - [Opendatacube notebooks](https://github.com/opendatacube/datacube-notebooks) - Extra documentation about using ODC with Jupyter Notebooks
 - [data_cube_ui](https://github.com/ceos-seo/data_cube_ui) - Data Cube user interface allowing users to interact with the Data Cube and run sample analysis cases
 - [data_cube_utilities](https://github.com/ceos-seo/data_cube_utilities) - Various algorithms and processing functions for Data Cube raster data
-  - [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - R- Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with Open Data Cube and `xarray`
+- [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - R- Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with Open Data Cube and `xarray` `Python`
 
 ## QGIS and Grass
 
