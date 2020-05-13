@@ -27,7 +27,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 <b>Shortcuts</b>
 
-|   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python](#languages-other-than-python)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [List of Great GitHub accounts](#great-github-accounts)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |   [Open Datacube](#open-datacube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)|
+|   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python](#languages-other-than-python)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [List of Great GitHub accounts](#great-github-accounts)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |   [Open Data Cube](#open-data-cube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)|
 
 These sections are non EO code specific, but included to be relevant
 |   [Interesting Non EO parts Python](#interesting-non-eo-parts-python)   |   [Interesting Non EO parts other languages](#interesting-non-eo-parts-other-languages)   |   [Data](#data)   |   [A footnote on awesome](#a-footnote-on-awesome)
@@ -289,13 +289,13 @@ Github accounts only with examples of work. Also contains (Python) libraries for
   - [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks.
   - [actinia plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes 
 
-## Open Datacube
+## Open Data Cube
 - [Opendatacube](https://github.com/opendatacube)
   - [Opendatacube -core](https://github.com/opendatacube/datacube-core) - Open Data Cube analyses continental scale Earth Observation data through time
   - [Opendatacube notebooks](https://github.com/opendatacube/datacube-notebooks) - Extra documentation about using ODC with Jupyter Notebooks
 - [data_cube_ui](https://github.com/ceos-seo/data_cube_ui) - Data Cube user interface allowing users to interact with the Data Cube and run sample analysis cases
 - [data_cube_utilities](https://github.com/ceos-seo/data_cube_utilities) - Various algorithms and processing functions for Data Cube raster data
-- [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - R- Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with Open Data Cube and `xarray` `Python`
+- [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with Open Data Cube and `xarray` `Python`
 
 ## QGIS and Grass
 
