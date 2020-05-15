@@ -227,73 +227,60 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 
 ## EO Geospatial companies or orgs making big contributions
 
-Github accounts only with examples of work. Also contains (Python) libraries for processing satellite data. This list aims at highlighting the great work some of the companies / organisations are doing or have done that contribute to the bigger ecosystem. Examples of the accounts work is not exhaustive, some do much more than shown below:
-- [development seed](https://github.com/developmentseed)
-  - [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery `Python`
-  - [GeoLamda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions `Python`
-  - [LabelMaker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning [docs](http://devseed.com/label-maker/) `Python`
-  - [rio-viz](https://github.com/developmentseed/rio-viz) - Visualize Cloud Optimized GeoTIFF in browser  `html` `Python`
-  - [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) - Create and use COG mosaic based on mosaicJSON `Pythoon`
-  - [Sentinel-2-cog](https://github.com/developmentseed/sentinel-2-cog) - Convert Sentinel-2 JPEG 2000 to COG with AWS Lambda `Python`
-  - [Sentinel-s3](https://github.com/developmentseed/sentinel-s3) - Python libraries for extracting Sentinel-2's metadata from Amazon S3 
-- [mapbox](https://github.com/mapbox)
-  - [rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
-  - [Robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds
-- [Planet Labs, now just Planet](https://github.com/planetlabs)
-  - [Planet notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering `Python`
-  - [staccato](https://github.com/planetlabs/staccato) - `Java` implementation of the STAC spec 
-  - [Planet-client-API](https://github.com/planetlabs/planet-client-python) - `Python` client for Planet APIs 
-  - [training-workshop](https://github.com/planetlabs/training-workshop) - This repo contains all materials used on Planet's training workshop for Bahrain Defense Force
-- [Digital Globe - now Maxar](https://github.com/DigitalGlobe)
-  - [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) - Python SDK for using GBDX.
-- [Azavea](https://github.com/azavea)
-  - [Azavea - RasterVision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
-  - [pystac](https://github.com/azavea/pystac) - `Python` library for working with any SpatioTemporal Asset Catalog (STAC) 
-  - [loam](https://github.com/azavea/loam) - `Javascript` wrapper for GDAL in the browser 
-  - [raster-vision-aws](https://github.com/azavea/raster-vision-aws) - A CloudFormation template for deploying Raster Vision Batch jobs to AWS. 
-  - [stac4s](https://github.com/azavea/stac4s)  -a `scala` library with primitives to build applications using the SpatioTemporal Asset Catalogs specification 
-- [Radiant Earth foundation](https://github.com/radiantearth)
-  - [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
-  - [stac-browser](https://github.com/radiantearth/stac-browser) - A Vue-based STAC browser intended for static + dynamic deployment
-  - [mlhub-tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets `Python` [mlhub](https://mlhub.earth/)
-- [Sentinel Hub](https://github.com/sentinel-hub)
-  - [EO Learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python
-  - [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub
-  - [EO flow](https://github.com/sentinel-hub/eo-flow) - Collection of TensorFlow 2.0 code for Earth Observation applications
-  - [SentinelHub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services. 
-  - [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
-  - [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js) - Download and process satellite imagery in `JavaScript` or `TypeScript` using Sentinel Hub services. 
-- [PyTroll](https://github.com/pytroll)
-  - [SatPy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
-  - [pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling in Python
-- [CosmiQ](https://github.com/CosmiQ)
-  - [Solaris](https://github.com/cosmiq/solaris) - CosmiQ Works Geospatial Machine Learning Analysis Toolkit
-    - [docs](https://solaris.readthedocs.io/en/latest/)
-  - [CometTS](https://github.com/CosmiQ/CometTS) - Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons 
-  - [SpaceNet6 Baseline](https://github.com/CosmiQ/CosmiQ_SN6_Baseline) - Baseline algorithm for the SpaceNet 6 Challenge 
-- [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)
-- [sparkgeo](https://github.com/sparkgeo)
-  - [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec 
-- [Geoscience Australia](https://github.com/GeoscienceAustralia)
-  - [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.
-- [Dymaxion Labs](https://github.com/dymaxionlabs)
-  - [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask 
-  - [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery
-- [Satellogic](https://github.com/satellogic)
-  - [Telluric](https://github.com/satellogic/telluric) - telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way 
-  - [Orbit predictor](https://github.com/satellogic/orbit-predictor) - Python library to propagate satellite orbits. 
-- [senbox-org](https://github.com/senbox-org) - SNAP - ESA's SentiNel Application Platform 
-  - [s3tbx](https://github.com/senbox-org/s3tbx) - A toolbox for the OLCI and SLSTR instruments on board of ESA's Sentinel-3 satellite - `Java`
-  - [s2tbx](https://github.com/senbox-org/s2tbx) - Sentinel 2 Toolbox (s2tbx) - `Java`
-  - [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - `Java`
-  - [snap_engine](https://github.com/senbox-org/snap-engine) - ESA Earth Observation Toolbox and `Java` Development Platform
-- [Nasa-gibs](https://github.com/nasa-gibs) - for info [here](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs)
-  - [onearth](https://github.com/nasa-gibs/onearth) - High-performance web services for tiled raster imagery and vector tiles 
-  - [Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
-  - [mrf](https://github.com/nasa-gibs/mrf) - GDAL-compatible file format driver designed for fast access to imagery 
-- [mundialis](https://github.com/mundialis)
-  - [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks.
-  - [actinia plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes 
+Github accounts only with examples of work. Also contains (Python) libraries for processing satellite data. This list aims at highlighting the great work some of the companies / organisations are doing or have done that contribute to the bigger ecosystem. Examples of the accounts work is not exhaustive, some do much more than shown below: <b> re-org happening </b>
+
+|   [development seed](https://github.com/developmentseed)  |   [mapbox](https://github.com/mapbox)   |   [Planet Labs, now just Planet](https://github.com/planetlabs)   |   [Digital Globe - now Maxar](https://github.com/DigitalGlobe)   |   [Azavea](https://github.com/azavea)   |   [Radiant Earth foundation](https://github.com/radiantearth)   |   [Sentinel Hub](https://github.com/sentinel-hub)   |   [PyTroll](https://github.com/pytroll)   |   [CosmiQ](https://github.com/CosmiQ)   |   [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)   |   sparkgeo](https://github.com/sparkgeo)   |   [Geoscience Australia](https://github.com/GeoscienceAustralia)   |   [Dymaxion Labs](https://github.com/dymaxionlabs)   |   - [Satellogic](https://github.com/satellogic)   |   [senbox-org](https://github.com/senbox-org)   |   [Nasa-gibs](https://github.com/nasa-gibs)   |   [mundialis](https://github.com/mundialis)   |
+
+
+- [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery `Python`
+- [GeoLamda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions `Python`
+- [LabelMaker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning [docs](http://devseed.com/label-maker/) `Python`
+- [rio-viz](https://github.com/developmentseed/rio-viz) - Visualize Cloud Optimized GeoTIFF in browser  `html` `Python`
+- [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) - Create and use COG mosaic based on mosaicJSON `Pythoon`
+- [Sentinel-2-cog](https://github.com/developmentseed/sentinel-2-cog) - Convert Sentinel-2 JPEG 2000 to COG with AWS Lambda `Python`
+- [Sentinel-s3](https://github.com/developmentseed/sentinel-s3) - Python libraries for extracting Sentinel-2's metadata from Amazon S3 
+- [rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
+- [Robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds
+- [Planet notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering `Python`
+- [staccato](https://github.com/planetlabs/staccato) - `Java` implementation of the STAC spec 
+- [Planet-client-API](https://github.com/planetlabs/planet-client-python) - `Python` client for Planet APIs 
+- [training-workshop](https://github.com/planetlabs/training-workshop) - This repo contains all materials used on Planet's training workshop for Bahrain Defense Force
+- [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) - Python SDK for using GBDX.
+- [Azavea - RasterVision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
+- [pystac](https://github.com/azavea/pystac) - `Python` library for working with any SpatioTemporal Asset Catalog (STAC) 
+- [loam](https://github.com/azavea/loam) - `Javascript` wrapper for GDAL in the browser 
+- [raster-vision-aws](https://github.com/azavea/raster-vision-aws) - A CloudFormation template for deploying Raster Vision Batch jobs to AWS. 
+- [stac4s](https://github.com/azavea/stac4s)  -a `scala` library with primitives to build applications using the SpatioTemporal Asset Catalogs specification 
+- [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
+- [stac-browser](https://github.com/radiantearth/stac-browser) - A Vue-based STAC browser intended for static + dynamic deployment
+- [mlhub-tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets `Python` [mlhub](https://mlhub.earth/)
+- [EO Learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python
+- [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub
+- [EO flow](https://github.com/sentinel-hub/eo-flow) - Collection of TensorFlow 2.0 code for Earth Observation applications
+- [SentinelHub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services. 
+- [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
+- [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js) - Download and process satellite imagery in `JavaScript` or `TypeScript` using Sentinel Hub services. 
+- [SatPy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
+- [pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling in Python
+- [Solaris](https://github.com/cosmiq/solaris) - CosmiQ Works Geospatial Machine Learning Analysis Toolkit [docs](https://solaris.readthedocs.io/en/latest/)
+- [CometTS](https://github.com/CosmiQ/CometTS) - Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons 
+- [SpaceNet6 Baseline](https://github.com/CosmiQ/CosmiQ_SN6_Baseline) - Baseline algorithm for the SpaceNet 6 Challenge 
+- [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec 
+- [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.
+- [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask 
+- [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery
+- [Telluric](https://github.com/satellogic/telluric) - telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way 
+- [Orbit predictor](https://github.com/satellogic/orbit-predictor) - Python library to propagate satellite orbits. 
+- [s3tbx](https://github.com/senbox-org/s3tbx) - A toolbox for the OLCI and SLSTR instruments on board of ESA's Sentinel-3 satellite - `Java`
+- [s2tbx](https://github.com/senbox-org/s2tbx) - Sentinel 2 Toolbox (s2tbx) - `Java`
+- [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - `Java`
+- [snap_engine](https://github.com/senbox-org/snap-engine) - ESA Earth Observation Toolbox and `Java` Development Platform
+- for info [here](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs)
+- [onearth](https://github.com/nasa-gibs/onearth) - High-performance web services for tiled raster imagery and vector tiles 
+- [Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
+- [mrf](https://github.com/nasa-gibs/mrf) - GDAL-compatible file format driver designed for fast access to imagery 
+- [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks.
+- [actinia plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes 
 
 ## Open Data Cube
 - [Opendatacube](https://github.com/opendatacube)
