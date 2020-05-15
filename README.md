@@ -182,6 +182,10 @@ Please do explore these accounts, there are some absolutely brilliant projects o
 - [GDAL / OGR cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/) - This cookbook has simple code snippets on how to use the Python GDAL/OGR API
 - [GDAL tutorial](https://jakobmiksch.eu/post/gdal_ogr/) - This blogpost gives in an introduction to GDAL/OGR and explains how the various command line tools can be used.
 - [docker-base-gdal](https://github.com/perrygeo/docker-gdal-base) - A base docker image for geospatial applications 
+- [An Introduction to GDAL](https://www.youtube.com/watch?v=N_dmiQI1s24) - An Introduction to GDAL - Robert Simmon
+- [A Gentle Introduction to GDAL prt 1](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-1-a3253eb96082) - command line working
+- [A Gentel Introduction to GDAL prt 2](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-2-map-projections-gdalwarp-e05173bd710a) - Map Projections
+- [A Gentel Introduction to GDAL prt 3](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-3-geodesy-local-map-projections-794c6ff675ca) - Geodesy
 
 ## Earth Observation coding on YouTube
 
