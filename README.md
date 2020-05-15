@@ -239,7 +239,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 
 ## EO Geospatial companies or orgs making big contributions
 
-Github accounts only with examples of work. Also contains (Python) libraries for processing satellite data. This list aims at highlighting the great work some of the companies / organisations are doing or have done that contribute to the bigger ecosystem. Examples of the accounts work is not exhaustive, some do much more than shown below: <b> re-org happening </b>
+Github accounts only with examples of work. Also contains (Python) libraries for processing satellite data.  <b> re-org happening - links below companies are going to be regrouped for ease of finding </b>
 
 |   [development seed](https://github.com/developmentseed)  |   [mapbox](https://github.com/mapbox)   |   [Planet Labs, now just Planet](https://github.com/planetlabs)   |   [Digital Globe - now Maxar](https://github.com/DigitalGlobe)   |   [Azavea](https://github.com/azavea)   |   [Radiant Earth foundation](https://github.com/radiantearth)   |   [Sentinel Hub](https://github.com/sentinel-hub)   |   [PyTroll](https://github.com/pytroll)   |   [CosmiQ](https://github.com/CosmiQ)   |   [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)   |   [sparkgeo](https://github.com/sparkgeo)   |   [Geoscience Australia](https://github.com/GeoscienceAustralia)   |   [Dymaxion Labs](https://github.com/dymaxionlabs)   |   [Satellogic](https://github.com/satellogic)   |   [senbox-org](https://github.com/senbox-org)   |   [Nasa-gibs](https://github.com/nasa-gibs)   |   [mundialis](https://github.com/mundialis)   |
 
