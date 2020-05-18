@@ -10,7 +10,7 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 
 This is being extended frequently in May 2020. Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
-<b> Update May 2020</b> We now have almost 300 links/resources. The focus at the moment is resorting and ordering all these links and potentially reclassifiying where needed. I think there are still 100-200 more resources potentially to add. I plan to add to <b>EO Geospatial companies or orgs making big contributions</b> section and then break into sections and just keep company. Still more to add prior to this.
+<b> Update May 2020</b> We now have almost 300 links/resources. The focus at the moment is resorting and ordering all these links and potentially reclassifiying where needed. The Geospatial companies section has been regrouped. next on reorganisation is breaking up of '`Python` processing of optical imagery non deep learning' section. 
 
 Annotations are based on the headers - where available - on the github accounts
 
@@ -99,6 +99,16 @@ This section full of great code and projects related to processing optical satel
 - [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
 - [SentinelHub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services. 
 - [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
+- [SatPy](https://github.com/pytroll/satpy) - `Python` package for earth-observing satellite data processing
+- [pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling in `Python`
+- [CometTS](https://github.com/CosmiQ/CometTS) - Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons 
+- [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec `Python`
+- [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask `Python` 
+- [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery `Python`
+- [Telluric](https://github.com/satellogic/telluric) - telluric is a `Python` library to manage vector and raster geospatial data in an interactive and easy way 
+- [onearth](https://github.com/nasa-gibs/onearth) - High-performance web services for tiled raster imagery and vector tiles `Python`
+- [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks. `Python`
+- [actinia plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
 
 ## Resources for `R`
 
@@ -146,6 +156,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [s2tbx](https://github.com/senbox-org/s2tbx) - Sentinel 2 Toolbox (s2tbx) - `Java`
 - [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - `Java`
 - [snap_engine](https://github.com/senbox-org/snap-engine) - ESA Earth Observation Toolbox and `Java` Development Platform
+- [Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
 
 
 ## Training and learning
@@ -264,22 +275,10 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 
 ## EO Geospatial companies or orgs making big contributions
 
-Github accounts only with examples of work. Also contains (Python) libraries for processing satellite data.  <b> re-org happening - links below companies are going to be regrouped for ease of finding </b>
+Github accounts only with examples of work. This section used to contain examples of work, these have been now regrouped into other sections to make them easier to find.
 
 |   [development seed](https://github.com/developmentseed)  |   [mapbox](https://github.com/mapbox)   |   [Planet Labs, now just Planet](https://github.com/planetlabs)   |   [Digital Globe - now Maxar](https://github.com/DigitalGlobe)   |   [Azavea](https://github.com/azavea)   |   [Radiant Earth foundation](https://github.com/radiantearth)   |   [Sentinel Hub](https://github.com/sentinel-hub)   |   [PyTroll](https://github.com/pytroll)   |   [CosmiQ](https://github.com/CosmiQ)   |   [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)   |   [sparkgeo](https://github.com/sparkgeo)   |   [Geoscience Australia](https://github.com/GeoscienceAustralia)   |   [Dymaxion Labs](https://github.com/dymaxionlabs)   |   [Satellogic](https://github.com/satellogic)   |   [senbox-org](https://github.com/senbox-org)   |   [Nasa-gibs](https://github.com/nasa-gibs)   |   [mundialis](https://github.com/mundialis)   |
 
-- [SatPy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
-- [pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling in Python
-- [CometTS](https://github.com/CosmiQ/CometTS) - Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons 
-- [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec 
-- [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask 
-- [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery
-- [Telluric](https://github.com/satellogic/telluric) - telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way 
-- [gibs](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs)
-- [onearth](https://github.com/nasa-gibs/onearth) - High-performance web services for tiled raster imagery and vector tiles 
-- [Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
-- [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks.
-- [actinia plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes 
 
 ## Open Data Cube
 - [Opendatacube](https://github.com/opendatacube)
@@ -396,6 +395,7 @@ This section is aimed more a data science/programming resources that 'might' be 
 ## Data
 I don't really want to add many data resources to this list as it creeps out of scope but this part contains some good data links [not necessarily EO]
 - [Environmental_Intelligence](https://github.com/rockita/Environmental_Intelligence) - Data for Environmental Intelligence: A mega list of Earth System Datasets covering earth observations, climate, water, forests, biodiversity, ecology, protected areas, natural hazards, marine and the tracking of UN's Sustainable Development Goals 
+- [gibs](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs) - This is EO
 
 ## A footnote on awesome
 There are many awesome lists relating to 'Geo'. I use that term as widely as possible. This list is not meant to replace these lists. Earth Observation is still <b>way</b> behind the GIS world in terms of audience, reach, number of users etc. Things are changing though, by bringing these links together I hope you can see that there has been so much progress in the last 5 years. I do hope these links are helpful espcially to those who are new to Earth Observation, but also to people like me who with several years of experience think they may have seen it all - we haven't and there is still so much to learn. Earth Observation is not just an academic 'thing' or a basemap anymore, it forms the basis for a growing and diverse business environment. Lets embrace this.
