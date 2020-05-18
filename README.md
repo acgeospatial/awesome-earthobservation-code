@@ -235,7 +235,8 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
 - [cloud frequency app](https://github.com/robintw/CloudFrequencyApp) - CloudFrequency webapp, using Google App Engine `Python` `JavaScript`
 - [rgee](https://github.com/csaybar/rgee) - Google Earth Engine for `R` [docs](https://csaybar.github.io/rgee/) 
-- [Landsat-Project-cost-Estimator](https://github.com/philippgaertner/Landsat-Project-Cost-Estimator) - Calculate the cost of a Landsat based project, if the data wasn't freely available. 
+- [Landsat-Project-cost-Estimator](https://github.com/philippgaertner/Landsat-Project-Cost-Estimator) - Calculate the cost of a Landsat based project, if the data wasn't freely available. `Javascript`
+- [ee-tensorflow-notebooks](https://github.com/gee-community/ee-tensorflow-notebooks) - Repository to place example notebooks for Deep Learning applications with TensorFlow and Earth Engine. 
 
 ## EO Geospatial companies or orgs making big contributions
 
