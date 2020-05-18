@@ -27,7 +27,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 <b>Shortcuts</b>
 
-|   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python](#languages-other-than-python)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [List of Great GitHub accounts](#great-github-accounts)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |   [Open Data Cube](#open-data-cube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)|
+|   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python and R](#languages-other-than-python-and-r)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [List of Great GitHub accounts](#great-github-accounts)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |   [Open Data Cube](#open-data-cube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)|
 
 These sections are non EO code specific, but included to be relevant
 |   [Interesting Non EO parts Python](#interesting-non-eo-parts-python)   |   [Interesting Non EO parts other languages](#interesting-non-eo-parts-other-languages)   |   [Data](#data)   |   [A footnote on awesome](#a-footnote-on-awesome)
@@ -97,6 +97,8 @@ This section full of great code and projects related to processing optical satel
 - [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) - Python SDK for using GBDX.
 - [pystac](https://github.com/azavea/pystac) - `Python` library for working with any SpatioTemporal Asset Catalog (STAC) 
 - [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
+- [SentinelHub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services. 
+- [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
 
 ## Resources for `R`
 
@@ -116,7 +118,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [landsatlinkr](https://github.com/jdbcode/LandsatLinkr) - An automated system for creating spectrally consistent and cloud-free Landsat image time series stacks from a combination of MSS, TM, ETM+, and OLI sensors [project](http://jdbcode.github.io/LandsatLinkr/)
 - [planetR](https://github.com/bevingtona/planetR) - (early development) R tools to search, activate and download satellite imagery from the Planet API
 
-## Languages other than `Python`
+## Languages other than `Python` and `R`
 
 - [Georust](https://github.com/georust) - A collection of geospatial tools and libraries written in `Rust`
 - [ArchGDAL - Julia](https://github.com/yeesian/ArchGDAL.jl) - `Julia` A high level API for GDAL - Geospatial Data Abstract
@@ -137,6 +139,13 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Landsat-solar-elevation](https://github.com/jdbcode/landsat-solar-elevation) - A web app that plots annual solar elevation at the time of Landsat overpass for locations throughout the earth `JavaScript
 - [staccato](https://github.com/planetlabs/staccato) - `Java` implementation of the STAC spec 
 - [stac4s](https://github.com/azavea/stac4s)  -a `scala` library with primitives to build applications using the SpatioTemporal Asset Catalogs specification 
+- [stac-browser](https://github.com/radiantearth/stac-browser) - A Vue-based STAC browser intended for static + dynamic deployment
+- [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub `JavaScript`
+- [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js) - Download and process satellite imagery in `JavaScript` or `TypeScript` using Sentinel Hub services. 
+- [s3tbx](https://github.com/senbox-org/s3tbx) - A toolbox for the OLCI and SLSTR instruments on board of ESA's Sentinel-3 satellite - `Java`
+- [s2tbx](https://github.com/senbox-org/s2tbx) - Sentinel 2 Toolbox (s2tbx) - `Java`
+- [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - `Java`
+- [snap_engine](https://github.com/senbox-org/snap-engine) - ESA Earth Observation Toolbox and `Java` Development Platform
 
 
 ## Training and learning
@@ -259,12 +268,6 @@ Github accounts only with examples of work. Also contains (Python) libraries for
 
 |   [development seed](https://github.com/developmentseed)  |   [mapbox](https://github.com/mapbox)   |   [Planet Labs, now just Planet](https://github.com/planetlabs)   |   [Digital Globe - now Maxar](https://github.com/DigitalGlobe)   |   [Azavea](https://github.com/azavea)   |   [Radiant Earth foundation](https://github.com/radiantearth)   |   [Sentinel Hub](https://github.com/sentinel-hub)   |   [PyTroll](https://github.com/pytroll)   |   [CosmiQ](https://github.com/CosmiQ)   |   [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)   |   [sparkgeo](https://github.com/sparkgeo)   |   [Geoscience Australia](https://github.com/GeoscienceAustralia)   |   [Dymaxion Labs](https://github.com/dymaxionlabs)   |   [Satellogic](https://github.com/satellogic)   |   [senbox-org](https://github.com/senbox-org)   |   [Nasa-gibs](https://github.com/nasa-gibs)   |   [mundialis](https://github.com/mundialis)   |
 
-
-- [stac-browser](https://github.com/radiantearth/stac-browser) - A Vue-based STAC browser intended for static + dynamic deployment
-- [EO Browser Custom Scripts](https://github.com/sentinel-hub/custom-scripts) - A repository of custom scripts to be used with Sentinel Hub `JavaScript`
-- [SentinelHub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services. 
-- [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
-- [sentinelhub-js](https://github.com/sentinel-hub/sentinelhub-js) - Download and process satellite imagery in `JavaScript` or `TypeScript` using Sentinel Hub services. 
 - [SatPy](https://github.com/pytroll/satpy) - Python package for earth-observing satellite data processing
 - [pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling in Python
 - [CometTS](https://github.com/CosmiQ/CometTS) - Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons 
@@ -272,10 +275,6 @@ Github accounts only with examples of work. Also contains (Python) libraries for
 - [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask 
 - [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery
 - [Telluric](https://github.com/satellogic/telluric) - telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way 
-- [s3tbx](https://github.com/senbox-org/s3tbx) - A toolbox for the OLCI and SLSTR instruments on board of ESA's Sentinel-3 satellite - `Java`
-- [s2tbx](https://github.com/senbox-org/s2tbx) - Sentinel 2 Toolbox (s2tbx) - `Java`
-- [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - `Java`
-- [snap_engine](https://github.com/senbox-org/snap-engine) - ESA Earth Observation Toolbox and `Java` Development Platform
 - [gibs](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs)
 - [onearth](https://github.com/nasa-gibs/onearth) - High-performance web services for tiled raster imagery and vector tiles 
 - [Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
