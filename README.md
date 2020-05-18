@@ -109,6 +109,7 @@ This section full of great code and projects related to processing optical satel
 - [onearth](https://github.com/nasa-gibs/onearth) - High-performance web services for tiled raster imagery and vector tiles `Python`
 - [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks. `Python`
 - [actinia plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
+- [local_structire_wpb-severity](https://github.com/mikoontz/local-structure-wpb-severity) - Analysis of drone imagery to characterize forest structure and severity of a tree killing insect `Python`
 
 ## Resources for `R`
 
@@ -127,6 +128,8 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [A Step-by-Step Guide to Making 3D Maps with Satellite Imagery in R](https://www.tylermw.com/a-step-by-step-guide-to-making-3d-maps-with-satellite-imagery-in-r/) - Walk you through [on] how to obtain the data required to make these types of maps, as well as the R code used to generate them 
 - [landsatlinkr](https://github.com/jdbcode/LandsatLinkr) - An automated system for creating spectrally consistent and cloud-free Landsat image time series stacks from a combination of MSS, TM, ETM+, and OLI sensors [project](http://jdbcode.github.io/LandsatLinkr/)
 - [planetR](https://github.com/bevingtona/planetR) - (early development) R tools to search, activate and download satellite imagery from the Planet API
+- [ForestTools](https://github.com/andrew-plowright/ForestTools) - Detect and segment individual tree from remotely sensed data
+- [lidR](https://github.com/Jean-Romain/lidR) - `R` package for airborne LiDAR data manipulation and visualisation for forestry application. Plus [lidRplugins](https://github.com/Jean-Romain/lidRplugins) - Extra functions and algorithms for lidR package 
 
 ## Languages other than `Python` and `R`
 
@@ -272,6 +275,8 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [rgee](https://github.com/csaybar/rgee) - Google Earth Engine for `R` [docs](https://csaybar.github.io/rgee/) 
 - [Landsat-Project-cost-Estimator](https://github.com/philippgaertner/Landsat-Project-Cost-Estimator) - Calculate the cost of a Landsat based project, if the data wasn't freely available. `Javascript`
 - [ee-tensorflow-notebooks](https://github.com/gee-community/ee-tensorflow-notebooks) - Repository to place example notebooks for Deep Learning applications with TensorFlow and Earth Engine. 
+- [remote-sensing-resistance](https://github.com/mikoontz/remote-sensing-resistance) - Does heterogeneity in forest structure make a forest resistant to wildfire?
+- [GoogleEarthEngine](https://github.com/evan-delancey/GoogleEarthEngine) - forestry related work
 
 ## EO Geospatial companies or orgs making big contributions
 
@@ -387,6 +392,7 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 - [65 data science books on Springer](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189) - not checked but perhaps useful
 - [Intro to Numerical Computing - youtube](https://www.youtube.com/watch?v=V0D2mhVt7NE) - Intro to Numerical Computing with NumPy (Beginner) | SciPy 2018 Tutorial | Alex Chabot-Leclerc
 - [Classification-Algorithm](https://github.com/usmanr149/Classification-Algorithm) - Classification algorithm workshop for WiMLDS `Python`
+- [dtreeviz](https://github.com/parrt/dtreeviz) - A `Python` library for decision tree visualization and model interpretation. 
 
 ## Interesting Non EO parts other languages
 This section is aimed more a data science/programming resources that 'might' be applicable to Earth Observation, that are <b>not </b>Python
