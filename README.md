@@ -27,7 +27,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 <b>Shortcuts</b>
 
-|   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python and R](#languages-other-than-python-and-r)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [List of Great GitHub accounts](#great-github-accounts)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |   [Open Data Cube](#open-data-cube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)|
+|   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python and R](#languages-other-than-python-and-r)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [Open Data Cube](#open-data-cube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)|   [List of Great GitHub accounts](#great-github-accounts)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |
 
 These sections are non EO code specific, but included to be relevant
 |   [Interesting Non EO parts Python](#interesting-non-eo-parts-python)   |   [Interesting Non EO parts other languages](#interesting-non-eo-parts-other-languages)   |   [Data](#data)   |   [A footnote on awesome](#a-footnote-on-awesome)
@@ -218,12 +218,6 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Azavea - RasterVision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
 - [raster-vision-aws](https://github.com/azavea/raster-vision-aws) - A CloudFormation template for deploying Raster Vision Batch jobs to AWS. 
 
-## Great Github accounts
-Please do explore these accounts, there are some absolutely brilliant projects on these accounts. This was previously a section containing examples, but these are better grouped into the other headings and repitition of links removed. However I feel its very important to highlight individuals wherever possible, ordered by github account name.
-
-|   [Christoph Rieke git hub](https://github.com/chrieke)   |   [Fernerkundung](https://github.com/Fernerkundung/)   |   [gena github](https://github.com/gena)   |   [jgomezdans github](https://github.com/jgomezdans) - [blog](http://jgomezdans.github.io/)   |   [Johntruckhenbrodt github](https://github.com/johntruckenbrodt)   |   [Marcus Netler on github](https://github.com/neteler)   |   [Oliverhagolle github](https://github.com/olivierhagolle)   |   [PerryGeo](https://github.com/perrygeo)   |   [giswqs - Qiusheng Wu github](https://github.com/giswqs)   |   [rhammell](https://github.com/rhammell)   |   [Remote pixel github](https://github.com/RemotePixel)   |   [robintw](https://github.com/robintw)   |   [Evan Roualt github](https://github.com/rouault)   |   [samapriya github](https://github.com/samapriya)   |   [shakasom github](https://github.com/shakasom)   |   [yannforget github](https://github.com/yannforget)   |
-
-
 ## GDAL of course
 
 - [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools
@@ -278,12 +272,6 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [remote-sensing-resistance](https://github.com/mikoontz/remote-sensing-resistance) - Does heterogeneity in forest structure make a forest resistant to wildfire?
 - [GoogleEarthEngine](https://github.com/evan-delancey/GoogleEarthEngine) - forestry related work
 
-## EO Geospatial companies or orgs making big contributions
-
-Github accounts only with examples of work. This section used to contain examples of work, these have been now regrouped into other sections to make them easier to find.
-
-|   [development seed](https://github.com/developmentseed)  |   [mapbox](https://github.com/mapbox)   |   [Planet Labs, now just Planet](https://github.com/planetlabs)   |   [Digital Globe - now Maxar](https://github.com/DigitalGlobe)   |   [Azavea](https://github.com/azavea)   |   [Radiant Earth foundation](https://github.com/radiantearth)   |   [Sentinel Hub](https://github.com/sentinel-hub)   |   [PyTroll](https://github.com/pytroll)   |   [CosmiQ](https://github.com/CosmiQ)   |   [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)   |   [sparkgeo](https://github.com/sparkgeo)   |   [Geoscience Australia](https://github.com/GeoscienceAustralia)   |   [Dymaxion Labs](https://github.com/dymaxionlabs)   |   [Satellogic](https://github.com/satellogic)   |   [senbox-org](https://github.com/senbox-org)   |   [Nasa-gibs](https://github.com/nasa-gibs)   |   [mundialis](https://github.com/mundialis)   |
-
 
 ## Open Data Cube
 - [Opendatacube](https://github.com/opendatacube)
@@ -310,7 +298,6 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
   - [aqua-monitor](https://github.com/Deltares/aqua-monitor) - Monitoring surface water changes from space at global scale. Also checkout the [app](https://aqua-monitor.appspot.com/) `Python`
 - [Ocean Color - Modis](https://github.com/JackieVeatch/ocean_color) - introduction to accessing and plotting ocean color satellite data from MODIS `Python`
 - [Climate data science](https://github.com/willyhagi/climate-data-science) - Climate Data Science and Earth Observation with `Python`
-
 
 ## DEM projects
 - [Tin Terrain](https://github.com/heremaps/tin-terrain) - A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes. 
@@ -370,6 +357,17 @@ old competitions of note
 ## Useful EO code based twitter accounts
 
 - [pyGEDI](https://twitter.com/pyGEDI) - pyGEDI is a Python Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) mission, data extraction, analysis, processing and visualization.
+
+## Great Github accounts
+Please do explore these accounts, there are some absolutely brilliant projects on these accounts. This was previously a section containing examples, but these are better grouped into the other headings and repitition of links removed. However I feel its very important to highlight individuals wherever possible, ordered by github account name.
+
+|   [Christoph Rieke git hub](https://github.com/chrieke)   |   [Fernerkundung](https://github.com/Fernerkundung/)   |   [gena github](https://github.com/gena)   |   [jgomezdans github](https://github.com/jgomezdans) - [blog](http://jgomezdans.github.io/)   |   [Johntruckhenbrodt github](https://github.com/johntruckenbrodt)   |   [Marcus Netler on github](https://github.com/neteler)   |   [Oliverhagolle github](https://github.com/olivierhagolle)   |   [PerryGeo](https://github.com/perrygeo)   |   [giswqs - Qiusheng Wu github](https://github.com/giswqs)   |   [rhammell](https://github.com/rhammell)   |   [Remote pixel github](https://github.com/RemotePixel)   |   [robintw](https://github.com/robintw)   |   [Evan Roualt github](https://github.com/rouault)   |   [samapriya github](https://github.com/samapriya)   |   [shakasom github](https://github.com/shakasom)   |   [yannforget github](https://github.com/yannforget)   |
+
+## EO Geospatial companies or orgs making big contributions
+
+Github accounts only with examples of work. This section used to contain examples of work, these have been now regrouped into other sections to make them easier to find.
+
+|   [development seed](https://github.com/developmentseed)  |   [mapbox](https://github.com/mapbox)   |   [Planet Labs, now just Planet](https://github.com/planetlabs)   |   [Digital Globe - now Maxar](https://github.com/DigitalGlobe)   |   [Azavea](https://github.com/azavea)   |   [Radiant Earth foundation](https://github.com/radiantearth)   |   [Sentinel Hub](https://github.com/sentinel-hub)   |   [PyTroll](https://github.com/pytroll)   |   [CosmiQ](https://github.com/CosmiQ)   |   [Theia software and tools](https://www.theia-land.fr/en/softwares-and-tools/)   |   [sparkgeo](https://github.com/sparkgeo)   |   [Geoscience Australia](https://github.com/GeoscienceAustralia)   |   [Dymaxion Labs](https://github.com/dymaxionlabs)   |   [Satellogic](https://github.com/satellogic)   |   [senbox-org](https://github.com/senbox-org)   |   [Nasa-gibs](https://github.com/nasa-gibs)   |   [mundialis](https://github.com/mundialis)   |
 
 ## Interesting Non EO parts Python
 
