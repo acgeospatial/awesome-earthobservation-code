@@ -130,6 +130,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [planetR](https://github.com/bevingtona/planetR) - (early development) R tools to search, activate and download satellite imagery from the Planet API
 - [ForestTools](https://github.com/andrew-plowright/ForestTools) - Detect and segment individual tree from remotely sensed data
 - [lidR](https://github.com/Jean-Romain/lidR) - `R` package for airborne LiDAR data manipulation and visualisation for forestry application. Plus [lidRplugins](https://github.com/Jean-Romain/lidRplugins) - Extra functions and algorithms for lidR package 
+- [Spatiotemporal Arrays: Raster and Vector Datacubes](https://github.com/r-spatial/stars) - Spatiotemporal Arrays, Raster and Vector Data Cube
 
 ## Languages other than `Python` and `R`
 
