@@ -13,7 +13,7 @@ Together we are greater than the sum of our parts
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### Acknowledgements of the people/accounts who have helped with this repo, with how helped in brackets (not ordered)
-Thankyou to you all!
+<b>Thankyou to you all!</b>
 - Alastair Graham (lunch time meeting / Pull request)
 - Emil Cherrington (lunch time meeting)
 - Hayley Evers King (lunch time meeting)
@@ -31,3 +31,4 @@ Thankyou to you all!
 - Keiko Nomura (Pull request)
 - Fernerkundung (Kersten) (Pull request)
 - [@abevingtona](https://twitter.com/abevingtona) (multiple `R` link via twitter)
+- Roy Mendelssohn (via email) (rerddap)
