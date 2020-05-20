@@ -30,3 +30,4 @@ Thankyou to you all!
 - Robbi Bishop-Taylor (Pull request)
 - Keiko Nomura (Pull request)
 - Fernerkundung (Kersten) (Pull request)
+- [@abevingtona](https://twitter.com/abevingtona) (multiple `R` link via twitter)
