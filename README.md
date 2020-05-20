@@ -217,6 +217,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [EO flow](https://github.com/sentinel-hub/eo-flow) - Collection of TensorFlow 2.0 code for Earth Observation applications
 - [Azavea - RasterVision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
 - [raster-vision-aws](https://github.com/azavea/raster-vision-aws) - A CloudFormation template for deploying Raster Vision Batch jobs to AWS. 
+- [TensorBoard with sat imagery](https://up42.com/blog/tech/using-tensorboard-while-training-land-cover-models-with-satellite-imagery) - training land cover segmentation models with high resolution satellite imagery and how to use TensorBoard to create a visual understanding of model training.
 
 ## GDAL of course
 
