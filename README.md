@@ -131,6 +131,10 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [ForestTools](https://github.com/andrew-plowright/ForestTools) - Detect and segment individual tree from remotely sensed data
 - [lidR](https://github.com/Jean-Romain/lidR) - `R` package for airborne LiDAR data manipulation and visualisation for forestry application. Plus [lidRplugins](https://github.com/Jean-Romain/lidRplugins) - Extra functions and algorithms for lidR package 
 - [Spatiotemporal Arrays: Raster and Vector Datacubes](https://github.com/r-spatial/stars) - Spatiotemporal Arrays, Raster and Vector Data Cube
+- [getSpatialData](https://github.com/16EAGLE/getSpatialData) - An `R` package making it easy to query, preview, download and preprocess multiple kinds of spatial data [docs](http://jxsw.de/getSpatialData/)
+- [RStoolbox](https://bleutner.github.io/RStoolbox/) - RStoolbox is a R package providing a wide range of tools for your every-day remote sensing processing needs. 
+- [rHarmonics](https://github.com/MBalthasar/rHarmonics) - `R` package for harmonic modelling of time-series data
+
 
 ## Languages other than `Python` and `R`
 
@@ -268,7 +272,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [Python GEE notebooks](https://github.com/giswqs/earthengine-py-notebooks) - A collection of 360+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping
 - [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
 - [cloud frequency app](https://github.com/robintw/CloudFrequencyApp) - CloudFrequency webapp, using Google App Engine `Python` `JavaScript`
-- [rgee](https://github.com/csaybar/rgee) - Google Earth Engine for `R` [docs](https://csaybar.github.io/rgee/) 
+- [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for `R` [docs](https://csaybar.github.io/rgee/) 
 - [Landsat-Project-cost-Estimator](https://github.com/philippgaertner/Landsat-Project-Cost-Estimator) - Calculate the cost of a Landsat based project, if the data wasn't freely available. `Javascript`
 - [ee-tensorflow-notebooks](https://github.com/gee-community/ee-tensorflow-notebooks) - Repository to place example notebooks for Deep Learning applications with TensorFlow and Earth Engine. 
 - [remote-sensing-resistance](https://github.com/mikoontz/remote-sensing-resistance) - Does heterogeneity in forest structure make a forest resistant to wildfire?
