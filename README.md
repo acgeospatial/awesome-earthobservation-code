@@ -134,6 +134,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [getSpatialData](https://github.com/16EAGLE/getSpatialData) - An `R` package making it easy to query, preview, download and preprocess multiple kinds of spatial data [docs](http://jxsw.de/getSpatialData/)
 - [RStoolbox](https://bleutner.github.io/RStoolbox/) - RStoolbox is a R package providing a wide range of tools for your every-day remote sensing processing needs. 
 - [rHarmonics](https://github.com/MBalthasar/rHarmonics) - `R` package for harmonic modelling of time-series data
+- [rerddap](https://github.com/ropensci/rerddap) - `R` client for working with ERDDAP servers [docs](https://docs.ropensci.org/rerddap/) reference the [ERDDAP Server](https://upwell.pfeg.noaa.gov/erddap/index.html)
 
 
 ## Languages other than `Python` and `R`
