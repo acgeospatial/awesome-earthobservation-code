@@ -168,6 +168,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - `Java`
 - [snap_engine](https://github.com/senbox-org/snap-engine) - ESA Earth Observation Toolbox and `Java` Development Platform
 - [Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
+- [orfeotoolbox](https://github.com/orfeotoolbox/OTB) - or [gitlab](https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb)
 
 
 ## Training and learning
