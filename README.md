@@ -110,6 +110,7 @@ This section full of great code and projects related to processing optical satel
 - [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks. `Python`
 - [actinia plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
 - [local_structire_wpb-severity](https://github.com/mikoontz/local-structure-wpb-severity) - Analysis of drone imagery to characterize forest structure and severity of a tree killing insect `Python`
+- [ACOLITE_MR](https://github.com/acolite/acolite_mr) - ACOLITE_MR: Atmospheric correction for aquatic applications of metre-scale satellites 
 
 ## Resources for `R`
 
