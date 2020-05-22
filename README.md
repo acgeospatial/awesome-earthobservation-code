@@ -115,7 +115,7 @@ This section full of great code and projects related to processing optical satel
 - [async-cog-reader](https://github.com/geospatial-jeff/async-cog-reader) - Read Cloud Optimized GeoTiffs without GDAL`Python`
 - [cedar-datacube](https://github.com/ceholden/cedar-datacube) - cedar - Create Earth engine Datacubes of Analytical Readiness `Python` [docs](https://ceholden.github.io/cedar-datacube/master/)
 - [stems - Spatio-temporal Tools for Earth Monitoring Science](https://github.com/ceholden/stems) - Spatio-temporal Tools for Earth Monitoring Science `Python`  [docs](https://ceholden.github.io/stems/master/)
-- [pyimpute: geospatial prediction using scikit-learn and rasterio](https://github.com/perrygeo/pyimpute) - Spatial classification and regression using Scikit-learn and Rasterio `Python`
+
 
 ## Resources for `R`
 
