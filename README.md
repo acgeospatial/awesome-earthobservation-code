@@ -306,6 +306,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
   - [QGIS Earth Engine Plugin - installation guide](https://gee-community.github.io/qgis-earthengine-plugin/)
 - [grass-dev-py3-pdal](https://github.com/neteler/grass-dev-py3-pdal) - Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL suppor
 - [qgis-plugin-planet](https://github.com/planetlabs/qgis-planet-plugin) - Browse, filter, preview and download Planet Inc imagery in QGIS. `Python`
+- [TSTools - archived](https://github.com/ceholden/TSTools) - QGIS2 plugin tools for remote sensing timeseries `Python`
 
 ## Climate and weather based resources
 These are `Python` resources. Please see [R resources](#resources-for-r) for info on R
