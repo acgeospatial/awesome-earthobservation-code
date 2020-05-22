@@ -173,6 +173,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [snap_engine](https://github.com/senbox-org/snap-engine) - ESA Earth Observation Toolbox and `Java` Development Platform
 - [Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
 - [orfeotoolbox](https://github.com/orfeotoolbox/OTB) - or [gitlab](https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb)
+- [landsat_preprocess](https://github.com/ceholden/landsat_preprocess) - IPython notebook documenting a workflow for preprocessing Landsat data `Shell`
 
 
 ## Training and learning
@@ -377,7 +378,7 @@ old competitions of note
 ## Great Github accounts
 Please do explore these accounts, there are some absolutely brilliant projects on these accounts. This was previously a section containing examples, but these are better grouped into the other headings and repitition of links removed. However I feel its very important to highlight individuals wherever possible, ordered by github account name.
 
-|   [Christoph Rieke git hub](https://github.com/chrieke)   |   [Fernerkundung](https://github.com/Fernerkundung/)   |   [gena github](https://github.com/gena)   |   [jgomezdans github](https://github.com/jgomezdans) - [blog](http://jgomezdans.github.io/)   |   [Johntruckhenbrodt github](https://github.com/johntruckenbrodt)   |   [Marcus Netler on github](https://github.com/neteler)   |   [Oliverhagolle github](https://github.com/olivierhagolle)   |   [PerryGeo](https://github.com/perrygeo)   |   [giswqs - Qiusheng Wu github](https://github.com/giswqs)   |   [rhammell](https://github.com/rhammell)   |   [Remote pixel github](https://github.com/RemotePixel)   |   [robintw](https://github.com/robintw)   |   [Evan Roualt github](https://github.com/rouault)   |   [samapriya github](https://github.com/samapriya)   |   [shakasom github](https://github.com/shakasom)   |   [yannforget github](https://github.com/yannforget)   |
+|   [Chis Holden github](https://github.com/ceholden)   |   [Christoph Rieke git hub](https://github.com/chrieke)   |   [Fernerkundung](https://github.com/Fernerkundung/)   |   [gena github](https://github.com/gena)   |   [jgomezdans github](https://github.com/jgomezdans) - [blog](http://jgomezdans.github.io/)   |   [Johntruckhenbrodt github](https://github.com/johntruckenbrodt)   |   [Marcus Netler on github](https://github.com/neteler)   |   [Oliverhagolle github](https://github.com/olivierhagolle)   |   [PerryGeo](https://github.com/perrygeo)   |   [giswqs - Qiusheng Wu github](https://github.com/giswqs)   |   [rhammell](https://github.com/rhammell)   |   [Remote pixel github](https://github.com/RemotePixel)   |   [robintw](https://github.com/robintw)   |   [Evan Roualt github](https://github.com/rouault)   |   [samapriya github](https://github.com/samapriya)   |   [shakasom github](https://github.com/shakasom)   |   [yannforget github](https://github.com/yannforget)   |
 
 ## EO Geospatial companies or orgs making big contributions
 
