@@ -139,6 +139,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [rHarmonics](https://github.com/MBalthasar/rHarmonics) - `R` package for harmonic modelling of time-series data
 - [rerddap](https://github.com/ropensci/rerddap) - `R` client for working with ERDDAP servers [docs](https://docs.ropensci.org/rerddap/) reference the [ERDDAP Server](https://upwell.pfeg.noaa.gov/erddap/index.html)
 - [Spatial_Data_in_R](https://github.com/joheisig/Spatial_Data_in_R) - SWIRL-course on spatial data in R
+- [cognition-datasources](https://github.com/geospatial-jeff/cognition-datasources) - Standardized query interface for searching geospatial assets via STAC. 
 
 
 ## Languages other than `Python` and `R`
