@@ -116,6 +116,7 @@ This section full of great code and projects related to processing optical satel
 - [cedar-datacube](https://github.com/ceholden/cedar-datacube) - cedar - Create Earth engine Datacubes of Analytical Readiness `Python` [docs](https://ceholden.github.io/cedar-datacube/master/)
 - [stems - Spatio-temporal Tools for Earth Monitoring Science](https://github.com/ceholden/stems) - Spatio-temporal Tools for Earth Monitoring Science `Python`  [docs](https://ceholden.github.io/stems/master/)
 - [ipyearth](https://github.com/davidbrochart/ipyearth) - An IPython Widget for Earth Maps `Python`
+- [Python-for-remote-sensing](https://github.com/Seyed-Ali-Ahmadi/Python-for-Remote-Sensing) - `Python` codes for remote sensing applications will be uploaded. [blog](https://earthobserv.com/)
 
 
 ## Resources for `R`
