@@ -416,6 +416,7 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 - [Classification-Algorithm](https://github.com/usmanr149/Classification-Algorithm) - Classification algorithm workshop for WiMLDS `Python`
 - [dtreeviz](https://github.com/parrt/dtreeviz) - A `Python` library for decision tree visualization and model interpretation. 
 - [Python_tips](https://github.com/gpetepg/python_tips) - Some Python tips for beginner to intermediate users. Also used as a personal cheat sheet.
+- [introduction to ml with Python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with `Python`" 
 
 ## Interesting Non EO parts other languages
 This section is aimed more a data science/programming resources that 'might' be applicable to Earth Observation, that are <b>not </b>Python
