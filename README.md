@@ -304,6 +304,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [data_cube_ui](https://github.com/ceos-seo/data_cube_ui) - Data Cube user interface allowing users to interact with the Data Cube and run sample analysis cases
 - [data_cube_utilities](https://github.com/ceos-seo/data_cube_utilities) - Various algorithms and processing functions for Data Cube raster data
 - [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with Open Data Cube and `xarray` `Python`
+- [Google Earth Engine Python examples](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples) - Various examples for Google Earth Engine in `Python` using Jupyter Notebook 
 
 ## QGIS and Grass
 
