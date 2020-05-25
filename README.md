@@ -294,6 +294,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [GoogleEarthEngine](https://github.com/evan-delancey/GoogleEarthEngine) - forestry related work
 - [ee-jupyter-examples](https://github.com/tylere/ee-jupyter-examples) - Example Jupyter Notebooks, including ones that use the Earth Engine `Python` API 
 - [jupyterlab-ee](https://github.com/tylere/jupyterlab-ee) - Experiments related to getting JupyterLab and Earth Engine to work together. `Python`
+- [EEwPython](https://github.com/csaybar/EEwPython) - A series of Jupyter notebook to learn Google Earth Engine with `Python`
 
 
 ## Open Data Cube
