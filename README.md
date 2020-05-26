@@ -363,6 +363,7 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 - [ARIRA-tools](https://github.com/aria-tools/ARIA-tools) - Tools for exploiting ARIA standard products  `Python`
 - [ISCE_utils](https://github.com/EJFielding/ISCE_utils) - Small utility scripts for working with InSAR Scientific Computing Environment (ISCE) products `Python`
 - [ROI_PAC-Sentinel1](https://github.com/RaphaelGrandin/ROI_PAC-Sentinel1) - InSAR processing of Sentinel-1 using ROI_PAC 
+- [insar_scripts](https://github.com/scottyhq/insar_scripts) - Useful scripts for working with roipac data `Python`
 
 ## Visualisation
 
