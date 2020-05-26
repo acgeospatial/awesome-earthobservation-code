@@ -338,6 +338,8 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 - [SAR docker](https://github.com/mortcanty/SARDocker) - Source files for Docker image mort/sardocker/
 - [awesome SAR](https://github.com/lveci/awesome-sar) - A curated list of awesome Synthetic Aperture Radar (SAR) software, libraries, and resources. 
 - [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - framework for large-scale SAR satellite data processing 
+- [PyRAT](https://github.com/birgander2/PyRAT) - General purpose Synthetic Aperture Radar (SAR) postprocessing software package `Python`
+- [RITSAR](https://github.com/dm6718/RITSAR) - Synthetic Aperture Radar (SAR) Image Processing Toolbox for `Python`
 
 ## LiDAR
 
@@ -356,6 +358,8 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 - [Pyrocko](https://pyrocko.org/) - Can be utilized flexibly for a variety of geophysical tasks, like seismological data processing and analysis, modelling of InSAR, GPS data and dynamic waveforms, or for seismic source characterization.
 - [InSARFlow](https://github.com/levuvietphong/InSARFlow) - Parallel InSAR processing for Time-series analysis 
 - [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.
+- [ARIRA-tools](https://github.com/aria-tools/ARIA-tools) - Tools for exploiting ARIA standard products  `Python`
+- [ISCE_utils](https://github.com/EJFielding/ISCE_utils) - Small utility scripts for working with InSAR Scientific Computing Environment (ISCE) products `Python`
 
 ## Visualisation
 
