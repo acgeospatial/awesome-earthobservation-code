@@ -362,6 +362,7 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 - [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.
 - [ARIRA-tools](https://github.com/aria-tools/ARIA-tools) - Tools for exploiting ARIA standard products  `Python`
 - [ISCE_utils](https://github.com/EJFielding/ISCE_utils) - Small utility scripts for working with InSAR Scientific Computing Environment (ISCE) products `Python`
+- [ROI_PAC-Sentinel1](https://github.com/RaphaelGrandin/ROI_PAC-Sentinel1) - InSAR processing of Sentinel-1 using ROI_PAC 
 
 ## Visualisation
 
