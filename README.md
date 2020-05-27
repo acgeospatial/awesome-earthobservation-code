@@ -118,6 +118,7 @@ This section full of great code and projects related to processing optical satel
 - [ipyearth](https://github.com/davidbrochart/ipyearth) - An IPython Widget for Earth Maps `Python`
 - [Python-for-remote-sensing](https://github.com/Seyed-Ali-Ahmadi/Python-for-Remote-Sensing) - `Python` codes for remote sensing applications will be uploaded. [blog](https://earthobserv.com/)
 - [esda dissertation](https://github.com/Rabscuttler/esda-dissertation) - MSc Energy Systems & Data Analytics dissertation project notebooks - identifying solar PV from aerial imagery with computer vision `Python`
+- [tiffhax](https://github.com/emilyselwood/tiffhax) - tiff metadata hex viewer  `Python`
 
 
 ## Resources for `R`
