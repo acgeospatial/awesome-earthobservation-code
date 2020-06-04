@@ -180,6 +180,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
 - [orfeotoolbox](https://github.com/orfeotoolbox/OTB) - or [gitlab](https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb)
 - [landsat_preprocess](https://github.com/ceholden/landsat_preprocess) - IPython notebook documenting a workflow for preprocessing Landsat data `Shell`
+- [stac-mode-validator](https://github.com/m-mohr/stac-node-validator) - Simple proof-of-concept to validate STAC Items, Catalogs, Collections and core extensions with node. `JavaScript`
 
 
 ## Training and learning
