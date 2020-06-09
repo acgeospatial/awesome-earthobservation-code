@@ -8,9 +8,9 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 
 ## This list was started based on #scenefromabove podcast lunchtime discussions
 
-This is being extended frequently in May 2020. Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
+Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md)
 
-<b> Update May 2020</b> We now have almost 300 links/resources. The focus at the moment is resorting and ordering all these links and potentially reclassifiying where needed. The Geospatial companies section has been regrouped. next on reorganisation is breaking up of '`Python` processing of optical imagery non deep learning' section. 
+<b> Update June 2020</b> We now have almost 400 links/resources! The focus is to discuss resorting and ordering all these links and potentially reclassifiying where needed many links are in the '`Python` processing of optical imagery non deep learning' section and this potentially could be broken up. A podcast will discuss this before July.
 
 Annotations are based on the headers - where available - on the github accounts
 
