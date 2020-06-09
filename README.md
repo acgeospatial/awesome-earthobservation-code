@@ -201,7 +201,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 
 ## Deep learning and Machine Learning
 <b>Curated lists</b>
-- [Christoph Rieke git hub](https://github.com/chrieke/awesome-satellite-imagery-datasets) for much much more
+- [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
 - [Deep Vector](https://github.com/deepVector/geospatial-machine-learning) - A curated list of resources focused on Machine Learning in Geospatial Data Science. 
 - [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery
 <b>Specific examples</b>
