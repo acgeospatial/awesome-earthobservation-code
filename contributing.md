@@ -32,3 +32,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Fernerkundung (Kersten) (Pull request)
 - [@abevingtona](https://twitter.com/abevingtona) (multiple `R` link via twitter)
 - Roy Mendelssohn (via email) (rerddap)
+- Christoph Rieke (Pull request)
