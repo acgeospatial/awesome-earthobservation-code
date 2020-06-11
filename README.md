@@ -242,6 +242,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [TensorBoard with sat imagery](https://up42.com/blog/tech/using-tensorboard-while-training-land-cover-models-with-satellite-imagery) - training land cover segmentation models with high resolution satellite imagery and how to use TensorBoard to create a visual understanding of model training.
 - [predicting_poverty](https://github.com/nealjean/predicting-poverty) - Combining satellite imagery and machine learning to predict poverty [website](http://sustain.stanford.edu/predicting-poverty)
 - [satellite led liverpool](https://github.com/darribas/satellite_led_liverpool) - Data and code for the paper "Remote Sensing-Based Measurement of Living Environment Deprivation - Improving Classical Approaches with Machine Learning", by Dani Arribas-Bel, Jorge Patiño and Juanca Duque 
+- [pixel_level_land_classification](https://github.com/Azure/pixel_level_land_classification) - Tutorial demonstrating how to create a semantic segmentation (pixel-level classification) model to predict land cover from aerial imagery. This model can be used to identify newly developed or flooded land. Uses ground-truth labels and processed NAIP imagery provided by the Chesapeake Conservancy. 
 
 ## GDAL of course
 
