@@ -181,6 +181,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [orfeotoolbox](https://github.com/orfeotoolbox/OTB) - or [gitlab](https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb)
 - [landsat_preprocess](https://github.com/ceholden/landsat_preprocess) - IPython notebook documenting a workflow for preprocessing Landsat data `Shell`
 - [stac-mode-validator](https://github.com/m-mohr/stac-node-validator) - Simple proof-of-concept to validate STAC Items, Catalogs, Collections and core extensions with node. `JavaScript`
+- [aiforearth-landcover-app](https://github.com/vannizhang/aiforearth-landcover-app) - web mapping app to test, tweak and train the land cover classification from a deep neural network model
 
 
 ## Training and learning
@@ -243,6 +244,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [predicting_poverty](https://github.com/nealjean/predicting-poverty) - Combining satellite imagery and machine learning to predict poverty [website](http://sustain.stanford.edu/predicting-poverty)
 - [satellite led liverpool](https://github.com/darribas/satellite_led_liverpool) - Data and code for the paper "Remote Sensing-Based Measurement of Living Environment Deprivation - Improving Classical Approaches with Machine Learning", by Dani Arribas-Bel, Jorge Patiño and Juanca Duque 
 - [pixel_level_land_classification](https://github.com/Azure/pixel_level_land_classification) - Tutorial demonstrating how to create a semantic segmentation (pixel-level classification) model to predict land cover from aerial imagery. This model can be used to identify newly developed or flooded land. Uses ground-truth labels and processed NAIP imagery provided by the Chesapeake Conservancy. 
+- [geospatial-machine-learning](https://github.com/deepVector/geospatial-machine-learning) - A curated list of resources focused on Machine Learning in Geospatial Data Science. 
 
 ## GDAL of course
 
