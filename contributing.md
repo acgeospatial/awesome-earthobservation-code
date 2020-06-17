@@ -33,3 +33,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - [@abevingtona](https://twitter.com/abevingtona) (multiple `R` link via twitter)
 - Roy Mendelssohn (via email) (rerddap)
 - Christoph Rieke (Pull request)
+- Emily Selwood (Pull request)
