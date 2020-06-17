@@ -118,7 +118,6 @@ This section full of great code and projects related to processing optical satel
 - [ipyearth](https://github.com/davidbrochart/ipyearth) - An IPython Widget for Earth Maps `Python`
 - [Python-for-remote-sensing](https://github.com/Seyed-Ali-Ahmadi/Python-for-Remote-Sensing) - `Python` codes for remote sensing applications will be uploaded. [blog](https://earthobserv.com/)
 - [esda dissertation](https://github.com/Rabscuttler/esda-dissertation) - MSc Energy Systems & Data Analytics dissertation project notebooks - identifying solar PV from aerial imagery with computer vision `Python`
-- [tiffhax](https://github.com/emilyselwood/tiffhax) - tiff metadata hex viewer  `Python`
 
 
 ## Resources for `R`
@@ -182,6 +181,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [landsat_preprocess](https://github.com/ceholden/landsat_preprocess) - IPython notebook documenting a workflow for preprocessing Landsat data `Shell`
 - [stac-mode-validator](https://github.com/m-mohr/stac-node-validator) - Simple proof-of-concept to validate STAC Items, Catalogs, Collections and core extensions with node. `JavaScript`
 - [aiforearth-landcover-app](https://github.com/vannizhang/aiforearth-landcover-app) - web mapping app to test, tweak and train the land cover classification from a deep neural network model
+- [tiffhax](https://github.com/emilyselwood/tiffhax) - tiff metadata hex viewer  `Go`
 
 
 ## Training and learning
