@@ -121,6 +121,7 @@ This section full of great code and projects related to processing optical satel
 - [esda dissertation](https://github.com/Rabscuttler/esda-dissertation) - MSc Energy Systems & Data Analytics dissertation project notebooks - identifying solar PV from aerial imagery with computer vision `Python`
 - [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools for spectral mixture analysis of multispectral raster data in 'Python' 
 - [geff_notebooks](https://github.com/cvitolo/geff_notebooks) - Jupyter notebooks to post-process fire danger data using `Python`/`xarray` 
+- [Opensource-OBIA_processing_chain](https://github.com/tgrippa/Opensource_OBIA_processing_chain) - An open-source semi-automated processing chain for urban OBIA classification. `Grass` `Python`
 
 
 ## Resources for `R`
