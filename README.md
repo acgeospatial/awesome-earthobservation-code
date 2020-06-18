@@ -126,6 +126,11 @@ This section full of great code and projects related to processing optical satel
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analysis for `Python` 
 - [verde](https://github.com/fatiando/verde) - Processing and gridding spatial data using Green's functions
 - [s2p](https://github.com/cmla/s2p) - Satellite Stereo Pipeline `Python`
+- [xcube](https://github.com/dcs4cop/xcube) - xcube is a `Python` package for generating and exploiting data cubes powered by xarray, dask, and zarr
+- [geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis `Python`
+- [rioxarray](https://github.com/corteva/rioxarray) - geospatial xarray extension powered by rasterio [docs](https://corteva.github.io/rioxarray/stable/)
+- [COG Dumper](https://github.com/mapbox/COGDumper) - Dumps tiles out of a cloud optimized geotiff `Python`
+
 
 ## Resources for `R`
 
