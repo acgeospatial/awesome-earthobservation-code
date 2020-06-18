@@ -37,6 +37,7 @@ These sections are non EO code specific, but included to be relevant
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
 
 - [Open EO](https://openeo.org/) - openEO develops an open API to connect `R`, `Python`, `JavaScript` and other clients to big Earth observation cloud back-ends in a simple and unified way.
+- [openeo-processes](https://github.com/Open-EO/openeo-processes) - Interoperable processes for openEO's big Earth observation cloud processing [website](https://processes.openeo.org/)
 
 You may also wish to navigate a search of the terms `satellite-imagery` and `earth-observation` to get the lastest list of topics that have these terms in their headers
 - [satellite-imagery](https://github.com/topics/satellite-imagery)
@@ -374,6 +375,7 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 - [insar_scripts](https://github.com/scottyhq/insar_scripts) - Useful scripts for working with roipac data `Python`
 - [pygmtsar](https://github.com/bakerunavco/https://github.com/bakerunavco/pygmtsar) - Collection of `Python` scripts for InSAR processing with GMTSAR 
 - [isce2](https://github.com/isce-framework/isce2) - InSAR Scientific Computing Environment version 2 `Python`
+- [snap2stamps](https://github.com/mdelgadoblasco/snap2stamps) - Using SNAP as InSAR processor for StaMPS 
 
 ## Visualisation
 
