@@ -122,7 +122,10 @@ This section full of great code and projects related to processing optical satel
 - [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools for spectral mixture analysis of multispectral raster data in 'Python' 
 - [geff_notebooks](https://github.com/cvitolo/geff_notebooks) - Jupyter notebooks to post-process fire danger data using `Python`/`xarray` 
 - [Opensource-OBIA_processing_chain](https://github.com/tgrippa/Opensource_OBIA_processing_chain) - An open-source semi-automated processing chain for urban OBIA classification. `Grass` `Python`
-
+- [aiocogeo](https://github.com/geospatial-jeff/aiocogeo) - Asynchronous cogeotiff reader `Python`
+- [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analysis for `Python` 
+- [verde](https://github.com/fatiando/verde) - Processing and gridding spatial data using Green's functions
+- [s2p](https://github.com/cmla/s2p) - Satellite Stereo Pipeline `Python`
 
 ## Resources for `R`
 
