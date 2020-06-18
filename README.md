@@ -119,6 +119,7 @@ This section full of great code and projects related to processing optical satel
 - [Python-for-remote-sensing](https://github.com/Seyed-Ali-Ahmadi/Python-for-Remote-Sensing) - `Python` codes for remote sensing applications will be uploaded. [blog](https://earthobserv.com/)
 - [esda dissertation](https://github.com/Rabscuttler/esda-dissertation) - MSc Energy Systems & Data Analytics dissertation project notebooks - identifying solar PV from aerial imagery with computer vision `Python`
 - [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools for spectral mixture analysis of multispectral raster data in 'Python' 
+- [geff_notebooks](https://github.com/cvitolo/geff_notebooks) - Jupyter notebooks to post-process fire danger data using `Python`/`xarray` 
 
 
 ## Resources for `R`
