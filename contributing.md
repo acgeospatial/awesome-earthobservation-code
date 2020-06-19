@@ -34,3 +34,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Roy Mendelssohn (via email) (rerddap)
 - Christoph Rieke (Pull request)
 - Emily Selwood (Pull request)
+- Riccardo (Pull request)
