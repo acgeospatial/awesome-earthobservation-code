@@ -131,7 +131,8 @@ This section full of great code and projects related to processing optical satel
 - [rioxarray](https://github.com/corteva/rioxarray) - geospatial xarray extension powered by rasterio [docs](https://corteva.github.io/rioxarray/stable/)
 - [COG Dumper](https://github.com/mapbox/COGDumper) - Dumps tiles out of a cloud optimized geotiff `Python`
 - [tatortot](https://github.com/GeoBigData/tatortot) - Prototype for a simple image annotation tool `Python`
-- [tiletanic](https://github.com/DigitalGlobe/tiletanic) - `Python` library to support generalized geographic tiling schemes 
+- [tiletanic](https://github.com/DigitalGlobe/tiletanic) - `Python` library to support generalized geographic tiling schemes
+- [Intro to Python GIS](https://automating-gis-processes.github.io) - Great free 3-day course by the University of Helsinki on GIS processing with Python
 
 
 ## Resources for `R`
