@@ -323,6 +323,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [EEwPython](https://github.com/csaybar/EEwPython) - A series of Jupyter notebook to learn Google Earth Engine with `Python`
 - [GoogleEarthEngine-side-projects](https://github.com/chrieke/GoogleEarthEngine-side-projects) - Google Earth Engine side projects and tutorial scripts `JavaScript`
 - [ox_gee_tutorial](https://github.com/tommylees112/ox_gee_tutorial) - Oxford MSc Introduction to Hydrological Applications in Google Earth Engine 
+- [crop_yield_prediction](https://github.com/JiaxuanYou/crop_yield_prediction) - Crop Yield Prediction with Deep Learning  with GEE
 
 
 ## Open Data Cube
