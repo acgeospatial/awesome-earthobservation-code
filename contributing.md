@@ -35,3 +35,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Christoph Rieke (Pull request)
 - Emily Selwood (Pull request)
 - Riccardo (Pull request)
+- [@burdGIS](https://twitter.com/burdGIS) - added QGIS youtube GEE video playlist
