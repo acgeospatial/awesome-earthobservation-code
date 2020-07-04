@@ -7,10 +7,11 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
 </p>
 
 ## This list was started based on #scenefromabove podcast lunchtime discussions
+I have written a blog post about how this repo came into being. It includes a video of a talk I gave about it AND a podcast episode devoted to it. http://www.acgeospatial.co.uk/awesome-earthobservation-code/
 
 Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
 
-<b> Update June 2020</b> We now have almost 400 links/resources! The focus is to discuss resorting and ordering all these links and potentially reclassifiying where needed many links are in the '`Python` processing of optical imagery non deep learning' section and this potentially could be broken up. A podcast will discuss this before July.
+<b> Update July 2020</b> We now have over 400 links/resources! The focus is to discuss resorting and ordering all these links and potentially reclassifiying where needed many links are in the '`Python` processing of optical imagery non deep learning' section and this potentially could be broken up. A podcast will discuss this before July.
 
 Annotations are based on the headers - where available - on the github accounts
 
