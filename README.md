@@ -264,6 +264,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [pixel_level_land_classification](https://github.com/Azure/pixel_level_land_classification) - Tutorial demonstrating how to create a semantic segmentation (pixel-level classification) model to predict land cover from aerial imagery. This model can be used to identify newly developed or flooded land. Uses ground-truth labels and processed NAIP imagery provided by the Chesapeake Conservancy. 
 - [satellite-image-object-detection](https://github.com/marcbelmont/satellite-image-object-detection) - YOLO/YOLOv2 inspired deep network for object detection on satellite images (Tensorflow, Numpy, Pandas). `Python`
 - [contrastive_sensor_fusion](https://github.com/descarteslabs/contrastive_sensor_fusion) - Open-source code for the paper "Representation Learning for Remote Sensing: An Unsupervised Sensor Fusion Approach ". `Python`
+- [ai4eo](https://github.com/ESA-PhiLab/ai4eo) - `Python` routines for Machine Learning applications for Earth Observation 
 
 
 ## GDAL of course
