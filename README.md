@@ -374,6 +374,7 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 - [RITSAR](https://github.com/dm6718/RITSAR) - Synthetic Aperture Radar (SAR) Image Processing Toolbox for `Python`
 - [PySAR](https://github.com/bminchew/PySAR) - PyAR is a perpetually incomplete, general-purpose toolbox for common post-processing tasks involving synthetic aperture radar (SAR).`Python` `C++`
 - [sarbian](https://github.com/EO-College/sarbian) - a plug’n play Operation System (based on Debian Linux) with all the freely and openly available SAR processing software
+- [OpeSARToolkit](https://github.com/ESA-PhiLab/OpenSarToolkit) - High-level functionality for the inventory, download and pre-processing of Sentinel-1 data in the `python` language. 
 
 ## LiDAR
 
