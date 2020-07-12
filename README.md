@@ -265,7 +265,8 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [satellite-image-object-detection](https://github.com/marcbelmont/satellite-image-object-detection) - YOLO/YOLOv2 inspired deep network for object detection on satellite images (Tensorflow, Numpy, Pandas). `Python`
 - [contrastive_sensor_fusion](https://github.com/descarteslabs/contrastive_sensor_fusion) - Open-source code for the paper "Representation Learning for Remote Sensing: An Unsupervised Sensor Fusion Approach ". `Python`
 - [ai4eo](https://github.com/ESA-PhiLab/ai4eo) - `Python` routines for Machine Learning applications for Earth Observation 
-
+- [NGVEO](https://github.com/ESA-PhiLab/NGVEO) - Deep learning for Earth Observation `Python`
+- [iris](https://github.com/ESA-PhiLab/iris) - Semi-automatic tool for manual segmentation of multi-spectral and geo-spatial imagery. 
 
 ## GDAL of course
 
@@ -329,6 +330,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [ox_gee_tutorial](https://github.com/tommylees112/ox_gee_tutorial) - Oxford MSc Introduction to Hydrological Applications in Google Earth Engine 
 - [crop_yield_prediction](https://github.com/JiaxuanYou/crop_yield_prediction) - Crop Yield Prediction with Deep Learning  with GEE
 - [geecrop](https://github.com/profLewis/geecrop) - Earth Engine-based crop information
+- [radiometric-slope-correction](https://github.com/ESA-PhiLab/radiometric-slope-correction) - Radiometric Slope Correction of Sentinel-1 data on Google Earth Engine 
 
 
 ## Open Data Cube
@@ -375,6 +377,8 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 - [PySAR](https://github.com/bminchew/PySAR) - PyAR is a perpetually incomplete, general-purpose toolbox for common post-processing tasks involving synthetic aperture radar (SAR).`Python` `C++`
 - [sarbian](https://github.com/EO-College/sarbian) - a plug’n play Operation System (based on Debian Linux) with all the freely and openly available SAR processing software
 - [OpeSARToolkit](https://github.com/ESA-PhiLab/OpenSarToolkit) - High-level functionality for the inventory, download and pre-processing of Sentinel-1 data in the `python` language. 
+- [infrastructure](https://github.com/ESA-PhiLab/infrastructure) - Mapping and monitoring of infrastructure in desert regions with Sentinel-1 
+- [OST_Notebook](https://github.com/ESA-PhiLab/OST_Notebooks) - The notebooks within this repository provide getting started tutorials for the use of the Open SAR Toolkit, found here in the ESA-philab github channel.
 
 ## LiDAR
 
