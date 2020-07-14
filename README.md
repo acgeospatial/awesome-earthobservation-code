@@ -331,6 +331,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [crop_yield_prediction](https://github.com/JiaxuanYou/crop_yield_prediction) - Crop Yield Prediction with Deep Learning  with GEE
 - [geecrop](https://github.com/profLewis/geecrop) - Earth Engine-based crop information
 - [radiometric-slope-correction](https://github.com/ESA-PhiLab/radiometric-slope-correction) - Radiometric Slope Correction of Sentinel-1 data on Google Earth Engine 
+- [geebap](https://github.com/fitoprincipe/geebap) - Best Available Pixel (BAP) composite in Google Earth Engine (GEE) using the `Python` API 
 
 
 ## Open Data Cube
