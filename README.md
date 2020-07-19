@@ -136,6 +136,8 @@ This section full of great code and projects related to processing optical satel
 - [Intro to Python GIS](https://automating-gis-processes.github.io) - Great free 3-day course by the University of Helsinki on GIS processing with Python
 - [openaq-s5](https://github.com/JamesOConnor/openaq-s5) - Map openaq data onto Sentinel5P data using AWS lambda 
 - [vegetation health](https://github.com/tommylees112/vegetation_health) - Predicting vegetation health from precipitation and temperature
+- [Satellite-Image-Analysis](https://github.com/MasterPhysicist/Satellite-Image-Analysis) - PlanetScope, Landsat-8 and Sentinel-2 Image analysis `Python` codes 
+
 
 ## Resources for `R`
 
@@ -164,6 +166,8 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Spatial_Data_in_R](https://github.com/joheisig/Spatial_Data_in_R) - SWIRL-course on spatial data in `R`
 - [cognition-datasources](https://github.com/geospatial-jeff/cognition-datasources) - Standardized query interface for searching geospatial assets via STAC. 
 - [caliver](https://github.com/ecmwf/caliver) - caliver: CALIbration and VERification of gridded fire danger models `R`
+- [clip_time_series](https://github.com/lecrabe/clip_time_series) - create snippets of Landsat and Sentinel imagery 
+- [RGISTools](https://github.com/spatialstatisticsupna/RGISTools) - Tools for Downloading, Customizing, and Processing Time Series of Satellite Images from Landsat, MODIS, and Sentinel 
 
 
 ## Languages other than `Python` and `R`
@@ -200,6 +204,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [stac-mode-validator](https://github.com/m-mohr/stac-node-validator) - Simple proof-of-concept to validate STAC Items, Catalogs, Collections and core extensions with node. `JavaScript`
 - [aiforearth-landcover-app](https://github.com/vannizhang/aiforearth-landcover-app) - web mapping app to test, tweak and train the land cover classification from a deep neural network model
 - [tiffhax](https://github.com/emilyselwood/tiffhax) - tiff metadata hex viewer  `Go`
+- [Fmask](https://github.com/GERSL/Fmask) - The software called Fmask (Function of mask) is used for automated clouds, cloud shadows, and snow masking for Landsats 4-8 and Sentinel 2 images. `Matlab`
 
 
 ## Training and learning
@@ -217,6 +222,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Foss4gUKJupyter](https://github.com/samfranklin/foss4guk19-jupyter) - FOSS4G UK 2019 Workshop "Geoprocessing with Jupyter Notebooks" 
 - [Geoprocessing with Python - GIS circa 2009](https://www.gis.usu.edu/~chrisg/python/2009/) - This material is really old and some of it is outdated (not all, though!). One of these days I might get around to putting newer class materials online, but you're stuck with this for now.
 - [training-workshop](https://github.com/planetlabs/training-workshop) - This repo contains all materials used on Planet's training workshop for Bahrain Defense Force
+- [sentinel](https://github.com/techforspace/sentinel) - Repository created for the Earth Observation Sentinel project (use with SNAP) `Python`
 
 ## Deep learning and Machine Learning
 <b>Curated lists</b>
@@ -267,6 +273,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [ai4eo](https://github.com/ESA-PhiLab/ai4eo) - `Python` routines for Machine Learning applications for Earth Observation 
 - [NGVEO](https://github.com/ESA-PhiLab/NGVEO) - Deep learning for Earth Observation `Python`
 - [iris](https://github.com/ESA-PhiLab/iris) - Semi-automatic tool for manual segmentation of multi-spectral and geo-spatial imagery. 
+- [ESRCNN-for-Landsat8-Sentinel2-Fusion](https://github.com/MrCPlusPlus/ESRCNN-for-Landsat8-Sentinel2-Fusion) - ESRCNN-for-Landsat8-Sentinel2-Fusion
 
 ## GDAL of course
 
@@ -332,6 +339,8 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [geecrop](https://github.com/profLewis/geecrop) - Earth Engine-based crop information
 - [radiometric-slope-correction](https://github.com/ESA-PhiLab/radiometric-slope-correction) - Radiometric Slope Correction of Sentinel-1 data on Google Earth Engine 
 - [geebap](https://github.com/fitoprincipe/geebap) - Best Available Pixel (BAP) composite in Google Earth Engine (GEE) using the `Python` API 
+- [Ecuador_SEPAL](https://github.com/sig-gis/Ecuador_SEPAL) - processing script for Sentinel-2 and Landsat-8 
+- [geeguide](https://github.com/ndminhhus/geeguide) - Harmonization of Landsat and Sentinel 2 in Google Earth Engine, documentation and scripts 
 
 
 ## Open Data Cube
@@ -361,6 +370,11 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
   - [aqua-monitor](https://github.com/Deltares/aqua-monitor) - Monitoring surface water changes from space at global scale. Also checkout the [app](https://aqua-monitor.appspot.com/) `Python`
 - [Ocean Color - Modis](https://github.com/JackieVeatch/ocean_color) - introduction to accessing and plotting ocean color satellite data from MODIS `Python`
 - [Climate data science](https://github.com/willyhagi/climate-data-science) - Climate Data Science and Earth Observation with `Python`
+- [COST-EUMETSAT-Training](https://github.com/gher-ulg/COST-EUMETSAT-Training) - Material, data and presentations for the COST-EUMETSAT training school 
+- [eumetsat](https://github.com/openclimatefix/eumetsat) - Tools for downloading and processing satellite images from EUMETSAT 
+- [coda_eumetsat](https://github.com/nicolaerosca/coda_eumetsat) - Coda Eumetsat (coda.eumetsat.int) client for downloading data 
+
+
 
 ## DEM projects
 - [Tin Terrain](https://github.com/heremaps/tin-terrain) - A command-line tool for converting heightmaps in GeoTIFF format into tiled optimized meshes. 
