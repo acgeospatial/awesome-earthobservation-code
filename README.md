@@ -139,6 +139,7 @@ This section full of great code and projects related to processing optical satel
 - [Satellite-Image-Analysis](https://github.com/MasterPhysicist/Satellite-Image-Analysis) - PlanetScope, Landsat-8 and Sentinel-2 Image analysis `Python` codes 
 - [radiometric_normalization](https://github.com/planetlabs/radiometric_normalization) - Implementation of radiometric normalization workflows `Python`
 - [color_balance](https://github.com/planetlabs/color_balance) - Balance your colors! `Python`
+- [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies. `Python`
 
 
 ## Resources for `R`
