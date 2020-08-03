@@ -44,7 +44,7 @@ You may also wish to navigate a search of the terms `satellite-imagery` and `ear
 - [satellite-imagery](https://github.com/topics/satellite-imagery)
 - [earth-observation](https://github.com/topics/earth-observation)
 
-## `Python` processing of optical imagery non deep learning
+## `Python` processing of optical imagery (non deep learning)
 This section full of great code and projects related to processing optical satellite imagery with `Python`
 - [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for `Python` (image fusion)
 - [Python from space](https://github.com/kscottz/PythonFromSpace) - `Python` Examples for Remote Sensing
