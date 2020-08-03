@@ -28,8 +28,6 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 # Contents
 
-<b>Shortcuts</b>
-
 |   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python and R](#languages-other-than-python-and-r)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [Open Data Cube](#open-data-cube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)|   [List of Great GitHub accounts](#great-github-accounts)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |
 
 These sections are non EO code specific, but included to be relevant
