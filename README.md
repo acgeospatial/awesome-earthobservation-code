@@ -346,6 +346,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [geebap](https://github.com/fitoprincipe/geebap) - Best Available Pixel (BAP) composite in Google Earth Engine (GEE) using the `Python` API 
 - [Ecuador_SEPAL](https://github.com/sig-gis/Ecuador_SEPAL) - processing script for Sentinel-2 and Landsat-8 
 - [geeguide](https://github.com/ndminhhus/geeguide) - Harmonization of Landsat and Sentinel 2 in Google Earth Engine, documentation and scripts 
+- [EE-Examples](https://github.com/gorelick/EE-Examples) - `Javascript` some (old?) example scripts from Noel Gorelick - lead author [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
 
 
 ## Open Data Cube
