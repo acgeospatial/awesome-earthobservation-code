@@ -36,3 +36,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Emily Selwood (Pull request)
 - Riccardo (Pull request)
 - [@burdGIS](https://twitter.com/burdGIS) - added QGIS youtube GEE video playlist
+- [Dahn Janh](https://twitter.com/DahnJahn) - pull request and also pointed me at [eo books](https://www.eoa.org.au/earth-observation-textbooks)
