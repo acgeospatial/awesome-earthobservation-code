@@ -514,7 +514,7 @@ Finally, I wanted to acknowledge a couple of awesome Earth Observation lists tha
 
 #### End
 
-Shield: [![CC BY 1.0][cc-by-shield]][cc-by]
+[![CC BY 1.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 1.0 International License][cc-by].
