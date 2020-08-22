@@ -287,6 +287,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [NGVEO](https://github.com/ESA-PhiLab/NGVEO) - Deep learning for Earth Observation `Python`
 - [iris](https://github.com/ESA-PhiLab/iris) - Semi-automatic tool for manual segmentation of multi-spectral and geo-spatial imagery. 
 - [ESRCNN-for-Landsat8-Sentinel2-Fusion](https://github.com/MrCPlusPlus/ESRCNN-for-Landsat8-Sentinel2-Fusion) - ESRCNN-for-Landsat8-Sentinel2-Fusion
+- [urban-environments](https://github.com/adrianalbert/urban-environments) - Code for constructing the urban environments dataset and for land use classification via convolutional neural networks `Python`
 
 ## GDAL of course
 
@@ -355,6 +356,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [Ecuador_SEPAL](https://github.com/sig-gis/Ecuador_SEPAL) - processing script for Sentinel-2 and Landsat-8 
 - [geeguide](https://github.com/ndminhhus/geeguide) - Harmonization of Landsat and Sentinel 2 in Google Earth Engine, documentation and scripts 
 - [EE-Examples](https://github.com/gorelick/EE-Examples) - `Javascript` some (old?) example scripts from Noel Gorelick - lead author [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
+- [global-river-ice-dataset-from-landsat](https://github.com/seanyx/global-river-ice-dataset-from-Landsat) - `Python` (Google Earth Engine), `JavaScript` (Google Earth Engine) and `R` code to extract river ice condition from Landsat satellites, to develop empirical model, and to predict future changes in river ice 
 
 
 ## Open Data Cube
@@ -395,6 +397,7 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 - [TauDEM](https://github.com/dtarb/TauDEM) - Terrain Analysis Using Digital Elevation Models (TauDEM) software for hydrologic terrain analysis and channel network extraction. [Docs](http://hydrology.usu.edu/taudem/taudem5/index.html)
 - [DEM.net](https://github.com/dem-net/DEM.Net) - Digital Elevation model library in C#. 3D terrain models, line/point Elevations, intervisibility reports. [Docs](https://elevationapi.com/)
 - [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p) - Satellite Stereo Pipeline
+- [DSM2DTM](https://github.com/mprakhar/DSM2DTM) - Code for the paper - Comparison of Digital Building Height Models Extracted from AW3D, TanDEM-X, ASTER, and SRTM Digital Surface Models over Yangon City `Python`
 
 ## SAR
 
@@ -408,6 +411,7 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 - [OpeSARToolkit](https://github.com/ESA-PhiLab/OpenSarToolkit) - High-level functionality for the inventory, download and pre-processing of Sentinel-1 data in the `python` language. 
 - [infrastructure](https://github.com/ESA-PhiLab/infrastructure) - Mapping and monitoring of infrastructure in desert regions with Sentinel-1 
 - [OST_Notebook](https://github.com/ESA-PhiLab/OST_Notebooks) - The notebooks within this repository provide getting started tutorials for the use of the Open SAR Toolkit, found here in the ESA-philab github channel.
+- [S1_ARD](https://github.com/johntruckenbrodt/S1_ARD) - repository for testing analysis-readiness of Sentinel-1 RTC backscatter `Python`
 
 ## LiDAR
 
