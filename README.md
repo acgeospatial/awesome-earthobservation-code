@@ -15,8 +15,6 @@ Please note that this is <b>not</b> offically an awesome list (yet). Please help
 
 Annotations are based on the headers - where available - on the github accounts
 
-<b> Examples </b>
-
 <div align="center">
 
 # [Scene From Above Podcast](http://scenefromabove.org/)
