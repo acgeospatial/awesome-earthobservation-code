@@ -1,6 +1,14 @@
 # Please feel free to contribute!
 Open a pull request
 
+1. Fork it
+2. Clone it to your local system
+3. Make a new branch
+4. Make your changes
+5. Push it back to your repo
+6. Click the Compare & pull request button
+7. Click Create pull request to open a new pull request
+
 Or file an issue
 
 Or send me an email info@acgeospatial.co.uk
