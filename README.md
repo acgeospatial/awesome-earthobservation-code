@@ -28,7 +28,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 # Contents
 
-|   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python and R](#languages-other-than-python-and-r)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [Open Data Cube](#open-data-cube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)|   [List of Great GitHub accounts](#great-github-accounts)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |
+|   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python and R](#languages-other-than-python-and-r)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [Open Data Cube](#open-data-cube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [ARD links](#ard-links)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)   |   [List of Great GitHub accounts](#great-github-accounts)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |
 
 These sections are non EO code specific, but included to be relevant
 |   [Interesting Non EO parts Python](#interesting-non-eo-parts-python)   |   [Interesting Non EO parts other languages](#interesting-non-eo-parts-other-languages)   |   [Data](#data)   |   [A footnote on awesome](#a-footnote-on-awesome)
@@ -451,6 +451,9 @@ old competitions of note
 - [crowdAI misisng maps challenge](https://www.crowdai.org/challenges/mapping-challenge) - Building Missing Maps with Machine Learning
   - [openAI solution](https://github.com/neptune-ai/open-solution-mapping-challenge) - Open solution to the Mapping Challenge
 - [AtmosHack2018](https://github.com/wekeo/AtmosHack2018) - Contains information and resources for Copernicus Hackathon 2018 in Helsinki 
+
+## ARD links
+- [S1_S2_ARD_code_list](https://github.com/acgeospatial/S1_S2_ARD_code_list) - A curated list supporting the use of Sentinel-1 and Sentinel-2 analysis-ready data (ARD) via application programming interface (API) <b>URL will change in mid sept 2020</b>
 
 ## Useful EO code based twitter accounts
 
