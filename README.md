@@ -11,7 +11,7 @@ I have written a blog post about how this repo came into being. It includes a vi
 
 Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
 
-<b> Update August 2020</b> We now have over 430 links/resources! The focus is to discuss resorting and ordering all these links and potentially reclassifiying where needed many links are in the '`Python` processing of optical imagery non deep learning' section and this potentially could be broken up. A podcast will discuss this before July.
+<b> Update August 2020</b> We now have over 430 links/resources! The focus is to discuss resorting and ordering all these links and potentially reclassifiying where needed many links are in the '`Python` processing of optical imagery non deep learning' section and this potentially could be broken up. Added Earth Observation introduction.
 
 Annotations are based on the headers - where available - on the github accounts
 
@@ -28,21 +28,31 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 # Contents
 
-|   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python and R](#languages-other-than-python-and-r)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [Open Data Cube](#open-data-cube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [ARD links](#ard-links)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)   |   [List of Great GitHub accounts](#great-github-accounts)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |
+|   [Earth Observation introduction](#earth-observation-introduction)   |   [Open EO](#open-eo)   |   [Python processing](#python-processing-of-optical-imagery-non-deep-learning)   |   [Resources for R](#resources-for-r)   |   [Languages other than Python and R](#languages-other-than-python-and-r)  |  [Training and Learning](#training-and-learning)   |   [Deep Learning & Machine Learning](#deep-learning-and-machine-learning)   |   [GDAL of course](#gdal-of-course)   |   [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube)   |   [Google Earth Engine](#earth-engine)   |   [Open Data Cube](#open-data-cube)   |   [QGIS and Grass](#qgis-and-grass)   |   [Climate & Weather resources](#climate-and-weather-based-resources)   |   [DEM projects](#dem-projects)   |   [SAR](#sar)   |   [LiDAR](#lidar)   |   [InSAR](#insar)   |   [Visualisation](#visualisation)   |   [EO code Competitions](#eo-code-competitions)   |   [ARD links](#ard-links)   |   [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts)   |   [List of Great GitHub accounts](#great-github-accounts)   |   [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions)   |
 
 These sections are non EO code specific, but included to be relevant
 |   [Interesting Non EO parts Python](#interesting-non-eo-parts-python)   |   [Interesting Non EO parts other languages](#interesting-non-eo-parts-other-languages)   |   [Data](#data)   |   [A footnote on awesome](#a-footnote-on-awesome)
 
 #### Start Here
 
-OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
+## Earth Observation Introduction
 
-- [Open EO](https://openeo.org/) - openEO develops an open API to connect `R`, `Python`, `JavaScript` and other clients to big Earth observation cloud back-ends in a simple and unified way.
-- [openeo-processes](https://github.com/Open-EO/openeo-processes) - Interoperable processes for openEO's big Earth observation cloud processing [website](https://processes.openeo.org/)
+If you are not familiar with Earth Observation then these links may help set context before you start using data. I didn't initially aim at including links like these but if you are not familiar with Earth Observation then some good resources to get you going may help prior to diving into code.
+
+- [Earth Observation Text books](https://www.eoa.org.au/earth-observation-textbooks) - Earth Observation: Data, Processing and Applications is an Australian Earth Observation (EO) community undertaking to describe EO data, processing and applications in an Australian context and includes a wide range of local case studies to demonstrate Australia’s increasing usage of EO data.
+- [ESA newcomers guide](https://business.esa.int/newcomers-earth-observation-guide) - The aim of this guide is to help non-experts in providing a starting point in the decision process for selecting an appropriate Earth Observation (EO) solution.
+- [The state of satellites](https://landscape.satsummit.io/) - The satellite systems we use to capture, analyze, and distribute data about the Earth are improving every day, creating bold new opportunities for impact in global development.
 
 You may also wish to navigate a search of the terms `satellite-imagery` and `earth-observation` to get the lastest list of topics that have these terms in their headers
 - [satellite-imagery](https://github.com/topics/satellite-imagery)
 - [earth-observation](https://github.com/topics/earth-observation)
+
+## Open EO
+
+OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
+
+- [Open EO](https://openeo.org/) - openEO develops an open API to connect `R`, `Python`, `JavaScript` and other clients to big Earth observation cloud back-ends in a simple and unified way.
+- [openeo-processes](https://github.com/Open-EO/openeo-processes) - Interoperable processes for openEO's big Earth observation cloud processing [website](https://processes.openeo.org/)
 
 ## `Python` processing of optical imagery (non deep learning)
 This section full of great code and projects related to processing optical satellite imagery with `Python`
