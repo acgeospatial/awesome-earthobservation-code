@@ -150,6 +150,7 @@ This section full of great code and projects related to processing optical satel
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies. `Python`
 - [CostalSat](https://github.com/kvos/CoastSat) - Global shoreline mapping tool from satellite imagery `Python` 
 - [openad-s5](https://github.com/JamesOConnor/openaq-s5) - Map openaq data onto Sentinel5P data using AWS lambda `Python`
+- [Python-Remote-Sensing-Scripts](https://github.com/JavierLopatin/Python-Remote-Sensing-Scripts) - `Python` 3.X scripts for remote sensing processing 
 
 ## Resources for `R`
 
@@ -180,6 +181,10 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [caliver](https://github.com/ecmwf/caliver) - caliver: CALIbration and VERification of gridded fire danger models `R`
 - [clip_time_series](https://github.com/lecrabe/clip_time_series) - create snippets of Landsat and Sentinel imagery 
 - [RGISTools](https://github.com/spatialstatisticsupna/RGISTools) - Tools for Downloading, Customizing, and Processing Time Series of Satellite Images from Landsat, MODIS, and Sentinel 
+- [Grassland-Species-Classification](https://github.com/JavierLopatin/Grassland-Species-Classification) - Codes for: Javier Lopatin, Fabian E. Fassnacht, Teja Kattenborn, Sebastian Schmidtlein. Mapping plant species in mixed grassland communities using close range imaging spectroscopy. Remote Sensing of Environment 201, 12-23. `R`
+- [UAV-InvasiveSpp](https://github.com/JavierLopatin/UAV-InvasiveSpp) - Mapping invasive tree species in Chile using UAV `R`
+- [Peatland-carbon-stock](https://github.com/JavierLopatin/Peatland-carbon-stock) - Codes for: Lopatin, J., et al. (2019). Using aboveground vegetation attributes as proxies for mapping peatland belowground carbon stocks. Remote Sens. Environ. 231, 111217 `R`
+- [SpeciesRichness-GLMvsRF-LiDAR](https://github.com/JavierLopatin/SpeciesRichness-GLMvsRF-LiDAR) - `R`-codes for: Lopatin, J., Dolos, K., Hernández, J., Galleguillos, M., Fassnacht, F. E. (2016): Comparing Generalized Linear Models and random forest to model vascular plant species richness using LiDAR data in a natural forest in central Chile. Remote Sensing of Environment 173, pp. 200–210. 10.1016/j.rse.2015.11.029 
 
 
 ## Languages other than `Python` and `R`
@@ -357,6 +362,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [geeguide](https://github.com/ndminhhus/geeguide) - Harmonization of Landsat and Sentinel 2 in Google Earth Engine, documentation and scripts 
 - [EE-Examples](https://github.com/gorelick/EE-Examples) - `Javascript` some (old?) example scripts from Noel Gorelick - lead author [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
 - [global-river-ice-dataset-from-landsat](https://github.com/seanyx/global-river-ice-dataset-from-Landsat) - `Python` (Google Earth Engine), `JavaScript` (Google Earth Engine) and `R` code to extract river ice condition from Landsat satellites, to develop empirical model, and to predict future changes in river ice 
+- [GEE_Functions](https://github.com/JavierLopatin/GEE_Functions) - A set of functions to work in Google Engine `Javascript`
 
 
 ## Open Data Cube
