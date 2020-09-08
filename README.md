@@ -513,6 +513,7 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 - [dtreeviz](https://github.com/parrt/dtreeviz) - A `Python` library for decision tree visualization and model interpretation. 
 - [Python_tips](https://github.com/gpetepg/python_tips) - Some Python tips for beginner to intermediate users. Also used as a personal cheat sheet.
 - [introduction to ml with Python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with `Python`" 
+- [Matplotlib_Cheatsheet](https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Jwink3101/e6b57eba3beca4b05ec146d9e38fc839/raw/f486ca3dcad44c33fc4e7ddedc1f83b82c02b492/Matplotlib_Cheatsheet) - Matplotlib_Cheatsheet `Python`
 
 ## Interesting Non EO parts other languages
 This section is aimed more a data science/programming resources that 'might' be applicable to Earth Observation, that are <b>not </b>Python
