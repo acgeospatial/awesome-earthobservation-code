@@ -11,7 +11,7 @@ I have written a blog post about how this repo came into being. It includes a vi
 
 Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
 
-<b> Update August 2020</b> We now have over 430 links/resources! The focus is to discuss resorting and ordering all these links and potentially reclassifiying where needed many links are in the '`Python` processing of optical imagery non deep learning' section and this potentially could be broken up. Added Earth Observation introduction.
+<b> Update September 2020</b> We now have over 450 links/resources! The focus is to discuss resorting and ordering all these links and potentially reclassifiying where needed many links are in the '`Python` processing of optical imagery non deep learning' section and this potentially could be broken up. Added Earth Observation introduction.
 
 Annotations are based on the headers - where available - on the github accounts
 
@@ -41,7 +41,7 @@ If you are not familiar with Earth Observation then these links may help set con
 - [ESA newcomers guide](https://business.esa.int/newcomers-earth-observation-guide) - The aim of this guide is to help non-experts in providing a starting point in the decision process for selecting an appropriate Earth Observation (EO) solution.
 - [The state of satellites](https://landscape.satsummit.io/) - The satellite systems we use to capture, analyze, and distribute data about the Earth are improving every day, creating bold new opportunities for impact in global development.
 
-You may also wish to navigate a search of the terms `satellite-imagery` and `earth-observation` to get the lastest list of topics that have these terms in their headers
+You may also wish to navigate a search of the terms `satellite-imagery` and `earth-observation` to get the latest list of topics that have these terms in their headers
 - [satellite-imagery](https://github.com/topics/satellite-imagery)
 - [earth-observation](https://github.com/topics/earth-observation)
 
