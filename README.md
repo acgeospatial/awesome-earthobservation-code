@@ -472,7 +472,7 @@ old competitions of note
 - [AtmosHack2018](https://github.com/wekeo/AtmosHack2018) - Contains information and resources for Copernicus Hackathon 2018 in Helsinki 
 
 ## ARD links
-- [S1_S2_ARD_code_list](https://github.com/acgeospatial/S1_S2_ARD_code_list) - A curated list supporting the use of Sentinel-1 and Sentinel-2 analysis-ready data (ARD) via application programming interface (API) <b>URL will change in mid sept 2020</b>
+- [S1_S2_ARD_code_list](https://github.com/jncc/s1-s2-ard-code-list) - A curated list supporting the use of Sentinel-1 and Sentinel-2 analysis-ready data (ARD) via application programming interface (API) 
 
 ## Useful EO code based twitter accounts
 
