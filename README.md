@@ -364,6 +364,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [EE-Examples](https://github.com/gorelick/EE-Examples) - `Javascript` some (old?) example scripts from Noel Gorelick - lead author [Google Earth Engine: Planetary-scale geospatial analysis for everyone](https://www.sciencedirect.com/science/article/pii/S0034425717302900)
 - [global-river-ice-dataset-from-landsat](https://github.com/seanyx/global-river-ice-dataset-from-Landsat) - `Python` (Google Earth Engine), `JavaScript` (Google Earth Engine) and `R` code to extract river ice condition from Landsat satellites, to develop empirical model, and to predict future changes in river ice 
 - [GEE_Functions](https://github.com/JavierLopatin/GEE_Functions) - A set of functions to work in Google Engine `Javascript`
+- [HMS-Smoke](https://github.com/tianjialiu/HMS-Smoke) - HMS Smoke Explorer: To visualize NOAA's Hazard Mapping System (HMS) smoke product `Javascript`
 
 
 ## Open Data Cube
