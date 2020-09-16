@@ -152,6 +152,7 @@ This section full of great code and projects related to processing optical satel
 - [openad-s5](https://github.com/JamesOConnor/openaq-s5) - Map openaq data onto Sentinel5P data using AWS lambda `Python`
 - [Python-Remote-Sensing-Scripts](https://github.com/JavierLopatin/Python-Remote-Sensing-Scripts) - `Python` 3.X scripts for remote sensing processing 
 - [fc-up42](https://github.com/petescarth/fc-up42) - UP42 Block for Fractional Cover calculation from Sentinel 2 L2A Data `Python`
+- [Opensource_OBIA_processing_chain](https://github.com/tgrippa/Opensource_OBIA_processing_chain) - An open-source semi-automated processing chain for urban OBIA classification. 
 
 ## Resources for `R`
 
