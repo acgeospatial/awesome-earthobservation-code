@@ -118,7 +118,7 @@ This section full of great code and projects related to processing optical satel
 - [Telluric](https://github.com/satellogic/telluric) - telluric is a `Python` library to manage vector and raster geospatial data in an interactive and easy way 
 - [onearth](https://github.com/nasa-gibs/onearth) - High-performance web services for tiled raster imagery and vector tiles `Python`
 - [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks. `Python`
-- [actinia plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
+- [actinia satellite plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
 - [local_structire_wpb-severity](https://github.com/mikoontz/local-structure-wpb-severity) - Analysis of drone imagery to characterize forest structure and severity of a tree killing insect `Python`
 - [ACOLITE_MR](https://github.com/acolite/acolite_mr) - ACOLITE_MR: Atmospheric correction for aquatic applications of metre-scale satellites 
 - [geocube](https://github.com/corteva/geocube) - Tool to convert geopandas vector data into rasterized xarray data. `Python` [docs](https://corteva.github.io/geocube/stable/)
@@ -383,7 +383,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 
 - [Qgis Earth Engine Plugin](https://github.com/gee-community/qgis-earthengine-plugin) - Integrates Google Earth Engine and QGIS using Python API
   - [QGIS Earth Engine Plugin - installation guide](https://gee-community.github.io/qgis-earthengine-plugin/)
-- [grass-dev-py3-pdal](https://github.com/neteler/grass-dev-py3-pdal) - Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL suppor
+- [grass-dev-py3-pdal](https://github.com/OSGeo/grass/tree/master/docker) - Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL suppor
 - [qgis-plugin-planet](https://github.com/planetlabs/qgis-planet-plugin) - Browse, filter, preview and download Planet Inc imagery in QGIS. `Python`
 - [TSTools - archived](https://github.com/ceholden/TSTools) - QGIS2 plugin tools for remote sensing timeseries `Python`
 
