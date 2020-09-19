@@ -153,6 +153,9 @@ This section full of great code and projects related to processing optical satel
 - [Python-Remote-Sensing-Scripts](https://github.com/JavierLopatin/Python-Remote-Sensing-Scripts) - `Python` 3.X scripts for remote sensing processing 
 - [fc-up42](https://github.com/petescarth/fc-up42) - UP42 Block for Fractional Cover calculation from Sentinel 2 L2A Data `Python`
 - [Opensource_OBIA_processing_chain](https://github.com/tgrippa/Opensource_OBIA_processing_chain) - An open-source semi-automated processing chain for urban OBIA classification. 
+- [river-width](https://github.com/redfoxgis/river-width) - Extracts water features from 4 band NAIP imagery and calculates river metrics. `Python`
+- [get_river_width](https://github.com/briannapagan/get_river_width/blob/master/get_river_width.py) - Find the river width (and other properties) from a masked water image `Python`
+- [extract_water](https://github.com/redfoxgis/extract_water/blob/master/extract_water.py) - Extract water from nIR imagery `Python`
 
 ## Resources for `R`
 
@@ -187,6 +190,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [UAV-InvasiveSpp](https://github.com/JavierLopatin/UAV-InvasiveSpp) - Mapping invasive tree species in Chile using UAV `R`
 - [Peatland-carbon-stock](https://github.com/JavierLopatin/Peatland-carbon-stock) - Codes for: Lopatin, J., et al. (2019). Using aboveground vegetation attributes as proxies for mapping peatland belowground carbon stocks. Remote Sens. Environ. 231, 111217 `R`
 - [SpeciesRichness-GLMvsRF-LiDAR](https://github.com/JavierLopatin/SpeciesRichness-GLMvsRF-LiDAR) - `R`-codes for: Lopatin, J., Dolos, K., Hernández, J., Galleguillos, M., Fassnacht, F. E. (2016): Comparing Generalized Linear Models and random forest to model vascular plant species richness using LiDAR data in a natural forest in central Chile. Remote Sensing of Environment 173, pp. 200–210. 10.1016/j.rse.2015.11.029 
+- [tree_segmentation](https://github.com/redfoxgis/tree_segmentation) - LiDAR tree segmentation `R`
 
 
 ## Languages other than `Python` and `R`
