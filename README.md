@@ -53,76 +53,34 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [openeo-processes](https://github.com/Open-EO/openeo-processes) - Interoperable processes for openEO's big Earth observation cloud processing [website](https://processes.openeo.org/)
 
 ## `Python` processing of optical imagery (non deep learning)
-This section full of great code and projects related to processing optical satellite imagery with `Python`
-- [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for `Python` (image fusion)
-- [Python from space](https://github.com/kscottz/PythonFromSpace) - `Python` Examples for Remote Sensing
-- [count blue pixels](https://github.com/craic/count_shelters) - This project is an experiment in using simple image processing techniques on satellite images downloaded from Google Maps in order to quantify the relative density of temporary shelters in adjacent qudarants. `Python` `Ruby`
-- [Satellite imagery analysis with Python](https://github.com/parulnith/Satellite-Imagery-Analysis-with-Python) - Getting acquainted with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges. `Python` `Jupyter Notebooks` [associated blog](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)
-- [Povetry predition using satellite imagery](https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery) - Poverty Prediction by Combination of Satellite Imagery
-- [Remote Sensing indicies calc](https://github.com/rander38/Remote-Sensing-Indices-Derivation-Tool) - Calculate spectral remote sensing indices from satellite imagery
-- [Satellite imagery in Pakistan](https://github.com/iam-mhaseeb/Satellite-Imagery-Analysis-of-Vegetation-in-Southern-Pakistan) - This repository contains a study how we can examine the vegetation cover of a region with the help of satellite data. The notebook in this repository aims to familiarise with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges.
+This section full of great code and projects related to processing optical satellite imagery with `Python`. This section is under review Sept 2020 and being split into further categories - please suggest groupings or re assignments if needed - the idea is to make the Python code examples here easier to find. Categories are highly subjective.
+
+### Download
+- [Sedas API](https://github.com/SatelliteApplicationsCatapult/sedas_pyapi) - `Python` client library for the SeDAS API
 - [esa_sentinel](https://github.com/jonas-eberle/esa_sentinel) - ESA Sentinel Search & Download API 
+- [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository `Python`
+- [landsatexplore](https://github.com/yannforget/landsatxplore) - Search and download Landsat scenes from EarthExplorer. `Python`
+- [pylandsat](https://github.com/yannforget/pylandsat) - Search, download, and preprocess Landsat imagery `Python`
+- [Sentinel-download](https://github.com/olivierhagolle/Sentinel-download) - Automated download of Sentinel-2 L1C data from ESA (through wget) `Python`
+- [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images [sentinelsat docs](https://sentinelsat.readthedocs.io/en/stable/) `Python`
+- [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website
+- [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery `Python`
+
+### Processing imagery - post processing
+- [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for `Python` (image fusion)
+- [Remote Sensing indicies calc](https://github.com/rander38/Remote-Sensing-Indices-Derivation-Tool) - Calculate spectral remote sensing indices from satellite imagery
 - [EarthPy](https://github.com/earthlab/earthpy) - A package built to support working with spatial data using open source python. [docs](https://earthpy.readthedocs.io/en/latest/)
 - [RasterFrames / pyrasterframes](https://github.com/locationtech/rasterframes) - brings together Earth-observation (EO) data access, cloud computing, and DataFrame-based data science. [docs](https://rasterframes.io/)
 - [SIF tools](https://github.com/cfranken/SIF_tools) - some tools for accessing OCO-2 data 
 - [SIAC](https://github.com/MarcYin/SIAC) - A sensor invariant Atmospheric Correction (SIAC) [alg doc](http://www2.geog.ucl.ac.uk/~ucfafyi/Atmo_Cor/)
 - [S2_TOA_TO_LAI](https://github.com/MarcYin/S2_TOA_TO_LAI) - From Sentinel 2 TOA reflectance to LAI 
 - [cresi](https://github.com/avanetten/cresi) - Road network extraction from satellite imagery, with speed and travel time estmates 
-- [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service 
 - [6S_emulator](https://github.com/samsammurphy/6S_emulator) - Atmospheric correction in Python using a 6S emulator 
 - [bv](https://github.com/daleroberts/bv) - Quickly view satellite imagery, hyperspectral imagery, and machine learning image outputs directly in your iTerm2 terminal. `Python`
 - [mapchete](https://github.com/ungarj/mapchete) - Tile-based geodata processing using rasterio & Fiona  `Python`
 - [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools for spectral mixture analysis of multispectral raster data in `Python`
-- [Sedas API](https://github.com/SatelliteApplicationsCatapult/sedas_pyapi) - `Python` client library for the SeDAS API 
-- [SentinelBot](https://github.com/JamesOConnor/Sentinel_bot) - A twitter bot which processes raw sentinel data `Python` [SentinelBot on twitter](https://twitter.com/sentinel_bot)
-- [Py6S](https://github.com/robintw/Py6S) - A `Python`interface to the 6S Radiative Transfer Model 
-- [Xarray pyconuk 2018](https://github.com/robintw/XArray_PyConUK2018) - Code and slides for my talk at PyCon UK 2018 on XArray `Python`
-- [PyProSail](https://github.com/robintw/PyProSAIL) - Python interface to the ProSAIL leaf/canopy reflectance model 
-- [gdbx-surface-water](https://github.com/gena/gbdx-surface-water) - Reservoir surface area detection with Digital Globe imagery and Bayesian methods 
-- [Landsat7 errors](https://github.com/gena/landsat7-errors) - Identifies errors in raw values of Landsat 7 
-- [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository `Python`
-- [prosail](https://github.com/jgomezdans/prosail) - `Python` bindings for the PROSAIL canopy reflectance model 
-- [landsatexplore](https://github.com/yannforget/landsatxplore) - Search and download Landsat scenes from EarthExplorer. `Python`
-- [pylandsat](https://github.com/yannforget/pylandsat) - Search, download, and preprocess Landsat imagery `Python`
 - [landsat and sentinel fusion](https://github.com/yannforget/landsat-sentinel-fusion) - Complementarity Between Sentinel-1 and Landsat 8 Imagery for Built-Up Mapping in Sub-Saharan Africa `Python`
-- [pyimpute](https://github.com/perrygeo/pyimpute) - Spatial classification and regression using Scikit-learn and Rasterio `Python`
 - [Planet Movement](https://github.com/rhammell/planet-movement) - Find and process Planet image pairs to highlight object movement. `Python` 
-- [Sentinel-download](https://github.com/olivierhagolle/Sentinel-download) - Automated download of Sentinel-2 L1C data from ESA (through wget) `Python`
-- [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions
-- [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images [sentinelsat docs](https://sentinelsat.readthedocs.io/en/stable/) `Python`
-- [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools `Python` Frontend
-- [spatialist](https://github.com/johntruckenbrodt/spatialist) - A `Python` module for spatial data handling 
-- [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website
-- [RasterStats](https://github.com/perrygeo/python-rasterstats) - Summary statistics of geospatial raster datasets based on vector geometries. `Python`
-- [Orbit predictor](https://github.com/satellogic/orbit-predictor) - Python library to propagate satellite orbits. 
-- [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery `Python`
-- [GeoLamda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions `Python`
-- [rio-viz](https://github.com/developmentseed/rio-viz) - Visualize Cloud Optimized GeoTIFF in browser  `html` `Python`
-- [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) - Create and use COG mosaic based on mosaicJSON `Pythoon`
-- [Sentinel-2-cog](https://github.com/developmentseed/sentinel-2-cog) - Convert Sentinel-2 JPEG 2000 to COG with AWS Lambda `Python`
-- [Sentinel-s3](https://github.com/developmentseed/sentinel-s3) - Python libraries for extracting Sentinel-2's metadata from Amazon S3 
-- [rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
-- [Planet notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering `Python`
-- [Planet-client-API](https://github.com/planetlabs/planet-client-python) - `Python` client for Planet APIs 
-- [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) - Python SDK for using GBDX.
-- [pystac](https://github.com/azavea/pystac) - `Python` library for working with any SpatioTemporal Asset Catalog (STAC) 
-- [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
-- [SentinelHub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services. 
-- [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
-- [SatPy](https://github.com/pytroll/satpy) - `Python` package for earth-observing satellite data processing
-- [pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling in `Python`
-- [CometTS](https://github.com/CosmiQ/CometTS) - Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons 
-- [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec `Python`
-- [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask `Python` 
-- [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery `Python`
-- [Telluric](https://github.com/satellogic/telluric) - telluric is a `Python` library to manage vector and raster geospatial data in an interactive and easy way 
-- [onearth](https://github.com/nasa-gibs/onearth) - High-performance web services for tiled raster imagery and vector tiles `Python`
-- [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks. `Python`
-- [actinia satellite plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
-- [local_structire_wpb-severity](https://github.com/mikoontz/local-structure-wpb-severity) - Analysis of drone imagery to characterize forest structure and severity of a tree killing insect `Python`
-- [ACOLITE_MR](https://github.com/acolite/acolite_mr) - ACOLITE_MR: Atmospheric correction for aquatic applications of metre-scale satellites 
-- [geocube](https://github.com/corteva/geocube) - Tool to convert geopandas vector data into rasterized xarray data. `Python` [docs](https://corteva.github.io/geocube/stable/)
-- [async-cog-reader](https://github.com/geospatial-jeff/async-cog-reader) - Read Cloud Optimized GeoTiffs without GDAL`Python`
 - [cedar-datacube](https://github.com/ceholden/cedar-datacube) - cedar - Create Earth engine Datacubes of Analytical Readiness `Python` [docs](https://ceholden.github.io/cedar-datacube/master/)
 - [stems - Spatio-temporal Tools for Earth Monitoring Science](https://github.com/ceholden/stems) - Spatio-temporal Tools for Earth Monitoring Science `Python`  [docs](https://ceholden.github.io/stems/master/)
 - [ipyearth](https://github.com/davidbrochart/ipyearth) - An IPython Widget for Earth Maps `Python`
@@ -130,32 +88,88 @@ This section full of great code and projects related to processing optical satel
 - [esda dissertation](https://github.com/Rabscuttler/esda-dissertation) - MSc Energy Systems & Data Analytics dissertation project notebooks - identifying solar PV from aerial imagery with computer vision `Python`
 - [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools for spectral mixture analysis of multispectral raster data in 'Python' 
 - [geff_notebooks](https://github.com/cvitolo/geff_notebooks) - Jupyter notebooks to post-process fire danger data using `Python`/`xarray` 
+- [river-width](https://github.com/redfoxgis/river-width) - Extracts water features from 4 band NAIP imagery and calculates river metrics. `Python`
+- [get_river_width](https://github.com/briannapagan/get_river_width/blob/master/get_river_width.py) - Find the river width (and other properties) from a masked water image `Python`
+- [extract_water](https://github.com/redfoxgis/extract_water/blob/master/extract_water.py) - Extract water from nIR imagery `Python`
+- [pyresample](https://github.com/pytroll/pyresample) - Geospatial image resampling in `Python`
+- [spatialist](https://github.com/johntruckenbrodt/spatialist) - A `Python` module for spatial data handling 
+- [CometTS](https://github.com/CosmiQ/CometTS) - Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons 
+- [Telluric](https://github.com/satellogic/telluric) - telluric is a `Python` library to manage vector and raster geospatial data in an interactive and easy way 
+- [onearth](https://github.com/nasa-gibs/onearth) - High-performance web services for tiled raster imagery and vector tiles `Python`
+- [geocube](https://github.com/corteva/geocube) - Tool to convert geopandas vector data into rasterized xarray data. `Python` [docs](https://corteva.github.io/geocube/stable/)
 - [Opensource-OBIA_processing_chain](https://github.com/tgrippa/Opensource_OBIA_processing_chain) - An open-source semi-automated processing chain for urban OBIA classification. `Grass` `Python`
-- [aiocogeo](https://github.com/geospatial-jeff/aiocogeo) - Asynchronous cogeotiff reader `Python`
-- [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analysis for `Python` 
 - [verde](https://github.com/fatiando/verde) - Processing and gridding spatial data using Green's functions
 - [s2p](https://github.com/cmla/s2p) - Satellite Stereo Pipeline `Python`
 - [xcube](https://github.com/dcs4cop/xcube) - xcube is a `Python` package for generating and exploiting data cubes powered by xarray, dask, and zarr
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis `Python`
-- [rioxarray](https://github.com/corteva/rioxarray) - geospatial xarray extension powered by rasterio [docs](https://corteva.github.io/rioxarray/stable/)
-- [COG Dumper](https://github.com/mapbox/COGDumper) - Dumps tiles out of a cloud optimized geotiff `Python`
 - [tatortot](https://github.com/GeoBigData/tatortot) - Prototype for a simple image annotation tool `Python`
 - [tiletanic](https://github.com/DigitalGlobe/tiletanic) - `Python` library to support generalized geographic tiling schemes
 - [Intro to Python GIS](https://automating-gis-processes.github.io) - Great free 3-day course by the University of Helsinki on GIS processing with Python
 - [openaq-s5](https://github.com/JamesOConnor/openaq-s5) - Map openaq data onto Sentinel5P data using AWS lambda 
 - [vegetation health](https://github.com/tommylees112/vegetation_health) - Predicting vegetation health from precipitation and temperature
 - [Satellite-Image-Analysis](https://github.com/MasterPhysicist/Satellite-Image-Analysis) - PlanetScope, Landsat-8 and Sentinel-2 Image analysis `Python` codes 
-- [radiometric_normalization](https://github.com/planetlabs/radiometric_normalization) - Implementation of radiometric normalization workflows `Python`
-- [color_balance](https://github.com/planetlabs/color_balance) - Balance your colors! `Python`
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies. `Python`
 - [CostalSat](https://github.com/kvos/CoastSat) - Global shoreline mapping tool from satellite imagery `Python` 
-- [openad-s5](https://github.com/JamesOConnor/openaq-s5) - Map openaq data onto Sentinel5P data using AWS lambda `Python`
 - [Python-Remote-Sensing-Scripts](https://github.com/JavierLopatin/Python-Remote-Sensing-Scripts) - `Python` 3.X scripts for remote sensing processing 
 - [fc-up42](https://github.com/petescarth/fc-up42) - UP42 Block for Fractional Cover calculation from Sentinel 2 L2A Data `Python`
 - [Opensource_OBIA_processing_chain](https://github.com/tgrippa/Opensource_OBIA_processing_chain) - An open-source semi-automated processing chain for urban OBIA classification. 
-- [river-width](https://github.com/redfoxgis/river-width) - Extracts water features from 4 band NAIP imagery and calculates river metrics. `Python`
-- [get_river_width](https://github.com/briannapagan/get_river_width/blob/master/get_river_width.py) - Find the river width (and other properties) from a masked water image `Python`
-- [extract_water](https://github.com/redfoxgis/extract_water/blob/master/extract_water.py) - Extract water from nIR imagery `Python`
+
+### Cloud Native Geospatial
+- [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service 
+- [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions
+- [GeoLamda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions `Python`
+- [rio-viz](https://github.com/developmentseed/rio-viz) - Visualize Cloud Optimized GeoTIFF in browser  `html` `Python`
+- [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) - Create and use COG mosaic based on mosaicJSON `Pythoon`
+- [Sentinel-2-cog](https://github.com/developmentseed/sentinel-2-cog) - Convert Sentinel-2 JPEG 2000 to COG with AWS Lambda `Python`
+- [Sentinel-s3](https://github.com/developmentseed/sentinel-s3) - `Python` libraries for extracting Sentinel-2's metadata from Amazon S3
+- [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
+- [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec `Python`
+- [COG Dumper](https://github.com/mapbox/COGDumper) - Dumps tiles out of a cloud optimized geotiff `Python`
+- [pystac](https://github.com/azavea/pystac) - `Python` library for working with any SpatioTemporal Asset Catalog (STAC) 
+- [async-cog-reader](https://github.com/geospatial-jeff/async-cog-reader) - Read Cloud Optimized GeoTiffs without GDAL`Python`
+- [aiocogeo](https://github.com/geospatial-jeff/aiocogeo) - Asynchronous cogeotiff reader `Python`
+
+### Case studies / Projects
+- [Povetry predition using satellite imagery](https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery) - Poverty Prediction by Combination of Satellite Imagery
+- [Python from space](https://github.com/kscottz/PythonFromSpace) - `Python` Examples for Remote Sensing
+- [count blue pixels](https://github.com/craic/count_shelters) - This project is an experiment in using simple image processing techniques on satellite images downloaded from Google Maps in order to quantify the relative density of temporary shelters in adjacent qudarants. `Python` `Ruby`
+- [Satellite imagery analysis with Python](https://github.com/parulnith/Satellite-Imagery-Analysis-with-Python) - Getting acquainted with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges. `Python` `Jupyter Notebooks` [associated blog](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)
+- [Satellite imagery in Pakistan](https://github.com/iam-mhaseeb/Satellite-Imagery-Analysis-of-Vegetation-in-Southern-Pakistan) - This repository contains a study how we can examine the vegetation cover of a region with the help of satellite data. The notebook in this repository aims to familiarise with the concept of satellite imagery data and how it can be analyzed to investigate real-world environmental and humanitarian challenges.
+- [SentinelBot](https://github.com/JamesOConnor/Sentinel_bot) - A twitter bot which processes raw sentinel data `Python` [SentinelBot on twitter](https://twitter.com/sentinel_bot)
+- [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery `Python`
+- [local_structire_wpb-severity](https://github.com/mikoontz/local-structure-wpb-severity) - Analysis of drone imagery to characterize forest structure and severity of a tree killing insect `Python`
+
+### Company specific examples
+- [Planet notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering `Python`
+- [Planet-client-API](https://github.com/planetlabs/planet-client-python) - `Python` client for Planet APIs 
+- [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) - Python SDK for using GBDX.
+- [gdbx-surface-water](https://github.com/gena/gbdx-surface-water) - Reservoir surface area detection with Digital Globe imagery and Bayesian methods 
+- [SentinelHub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services. 
+- [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
+- [Orbit predictor](https://github.com/satellogic/orbit-predictor) - Python library to propagate satellite orbits. 
+
+### Reflectance / pre processing
+- [Landsat7 errors](https://github.com/gena/landsat7-errors) - Identifies errors in raw values of Landsat 7 
+- [PyProSail](https://github.com/robintw/PyProSAIL) - Python interface to the ProSAIL leaf/canopy reflectance model 
+- [Py6S](https://github.com/robintw/Py6S) - A `Python`interface to the 6S Radiative Transfer Model 
+- [prosail](https://github.com/jgomezdans/prosail) - `Python` bindings for the PROSAIL canopy reflectance model 
+- [ACOLITE_MR](https://github.com/acolite/acolite_mr) - ACOLITE_MR: Atmospheric correction for aquatic applications of metre-scale satellites 
+- [radiometric_normalization](https://github.com/planetlabs/radiometric_normalization) - Implementation of radiometric normalization workflows `Python`
+- [color_balance](https://github.com/planetlabs/color_balance) - Balance your colors! `Python`
+
+### Python libraries related to EO
+- [rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
+- [Xarray pyconuk 2018](https://github.com/robintw/XArray_PyConUK2018) - Code and slides for my talk at PyCon UK 2018 on XArray `Python`
+- [RasterStats](https://github.com/perrygeo/python-rasterstats) - Summary statistics of geospatial raster datasets based on vector geometries. `Python`
+- [SatPy](https://github.com/pytroll/satpy) - `Python` package for earth-observing satellite data processing
+- [pyimpute](https://github.com/perrygeo/pyimpute) - Spatial classification and regression using Scikit-learn and Rasterio `Python`
+- [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask `Python` 
+- [rioxarray](https://github.com/corteva/rioxarray) - geospatial xarray extension powered by rasterio [docs](https://corteva.github.io/rioxarray/stable/)
+- [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analysis for `Python` 
+- [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks. `Python`
+- [actinia satellite plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
+- [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools `Python` Frontend
+
 
 ## Resources for `R`
 
