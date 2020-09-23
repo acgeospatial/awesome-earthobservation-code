@@ -426,7 +426,7 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 
 ### EUMETlab
 Such a vast collection of resources that it warrants a sub section within Climate and weather based resources
-- [EUMETlan](https://gitlab.eumetsat.int/eumetlab) - Welcome to EUMETLab! This page contains groups of code repositories that have been made open to the public by EUMETSAT and our collaborators.
+- [EUMETlab](https://gitlab.eumetsat.int/eumetlab) - This page contains groups of code repositories that have been made open to the public by EUMETSAT and our collaborators.
   -[atmosphere](https://gitlab.eumetsat.int/eumetlab/atmosphere/atmosphere) - LTPy - Learning tool for Python on Atmospheric Composition Data is a Python-based training course on Atmospheric Composition Data. The training course covers modules on data access, handling and processing, visualisation as well as case studies.
   -[sentinel-downloader](https://gitlab.eumetsat.int/eumetlab/cross-cutting-tools/sentinel-downloader) - Python-based Sentinel satellite data downloader. This script allows for batch downloading of Sentinel data selected by various criteria include date, location, sensor, child products, flags and more.
   -[olci-iop-processor](https://gitlab.eumetsat.int/eumetlab/oceans/ocean-science-studies/olci-iop-processor) - Code to produce Inherent Optical Properties from Level-2 OLCI data. You can find out more about the associated study [here](https://www.eumetsat.int/website/home/Data/ScienceActivities/ScienceStudies/Sentinel3OLCIInherentOpticalProperties/index.html)
