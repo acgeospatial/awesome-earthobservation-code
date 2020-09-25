@@ -458,6 +458,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [infrastructure](https://github.com/ESA-PhiLab/infrastructure) - Mapping and monitoring of infrastructure in desert regions with Sentinel-1 
 - [OST_Notebook](https://github.com/ESA-PhiLab/OST_Notebooks) - The notebooks within this repository provide getting started tutorials for the use of the Open SAR Toolkit, found here in the ESA-philab github channel.
 - [S1_ARD](https://github.com/johntruckenbrodt/S1_ARD) - repository for testing analysis-readiness of Sentinel-1 RTC backscatter `Python`
+- [sea_ice_drift](https://github.com/nansencenter/sea_ice_drift) - Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking `Python`
 
 ## LiDAR
 
