@@ -142,6 +142,7 @@ This section full of great code and projects related to processing optical satel
 - [SentinelBot](https://github.com/JamesOConnor/Sentinel_bot) - A twitter bot which processes raw sentinel data `Python` [SentinelBot on twitter](https://twitter.com/sentinel_bot)
 - [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery `Python`
 - [local_structire_wpb-severity](https://github.com/mikoontz/local-structure-wpb-severity) - Analysis of drone imagery to characterize forest structure and severity of a tree killing insect `Python`
+- [Truck_Detection_Sentinel2_COVID19](https://github.com/hfisser/Truck_Detection_Sentinel2_COVID19) - This repository is designated to detecting trucks using Sentinel-2 data. `Python`
 
 ### Company specific examples
 - [Planet notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering `Python`
