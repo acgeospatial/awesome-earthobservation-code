@@ -158,6 +158,7 @@ This section full of great code and projects related to processing optical satel
 - [ACOLITE_MR](https://github.com/acolite/acolite_mr) - ACOLITE_MR: Atmospheric correction for aquatic applications of metre-scale satellites 
 - [radiometric_normalization](https://github.com/planetlabs/radiometric_normalization) - Implementation of radiometric normalization workflows `Python`
 - [color_balance](https://github.com/planetlabs/color_balance) - Balance your colors! `Python`
+- [data-retrieval-in-EO](https://gitlab.com/raul.lezameta/data-retrieval-in-EO/-/tree/master) - data-retrieval-in-EO, a project with reports from TU wien
 
 ### Python libraries related to EO
 - [rasterio](https://github.com/mapbox/rasterio) - Rasterio reads and writes geospatial raster datasets
