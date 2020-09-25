@@ -322,7 +322,8 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [urban-environments](https://github.com/adrianalbert/urban-environments) - Code for constructing the urban environments dataset and for land use classification via convolutional neural networks `Python`
 - [AIforEarth-API-Development](https://github.com/microsoft/AIforEarth-API-Development) - This is an API Framework for AI models to be hosted locally or on the AI for Earth API Platform `Python`
 - [ai4eutils](https://github.com/microsoft/ai4eutils) - Shared utility scripts for AI for Earth projects and team members `Python`
-- [odeon-landcover](https://gitlab.com/dai-projets/odeon-landcover) - ODEON stands for Object Delineation on Earth Observations with Neural network. It is a set of command-line tools performing semantic segmentation on remote sensing images (aerial and/or satellite) with as many layers as you wish `Python`. You may need to inspect development branches to learn more,
+- [odeon-landcover](https://gitlab.com/dai-projets/odeon-landcover) - ODEON stands for Object Delineation on Earth Observations with Neural network. It is a set of command-line tools performing semantic segmentation on remote sensing images (aerial and/or satellite) with as many layers as you wish `Python`. You may need to inspect development branches to learn more.
+- [SAR2NDVI_CNN](https://github.com/antoniomazza88/SAR2NDVI_CNN) - A CNN is trained to perform the estimation of the NDVI, using coupled Sentinel-1 and Sentinel-2 time-series. `Python`
 
 ## GDAL of course
 
