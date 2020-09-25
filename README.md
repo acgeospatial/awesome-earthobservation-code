@@ -424,6 +424,7 @@ These are `Python` resources. Please see [R resources](#resources-for-r) for inf
 - [COST-EUMETSAT-Training](https://github.com/gher-ulg/COST-EUMETSAT-Training) - Material, data and presentations for the COST-EUMETSAT training school 
 - [eumetsat](https://github.com/openclimatefix/eumetsat) - Tools for downloading and processing satellite images from EUMETSAT 
 - [coda_eumetsat](https://github.com/nicolaerosca/coda_eumetsat) - Coda Eumetsat (coda.eumetsat.int) client for downloading data 
+- [ai4eo-forecast](https://gitlab.com/Pablo-DBG/ai4eo-forecast) - Developing an open source library to compare Earth Observation and weather forecast services with the actual measurements and assess the accuracy of the forescast `Python`
 
 ### EUMETlab
 Such a vast collection of resources that it warrants a sub section within Climate and weather based resources
