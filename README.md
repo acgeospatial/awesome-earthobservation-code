@@ -115,6 +115,7 @@ This section full of great code and projects related to processing optical satel
 - [Python-Remote-Sensing-Scripts](https://github.com/JavierLopatin/Python-Remote-Sensing-Scripts) - `Python` 3.X scripts for remote sensing processing 
 - [fc-up42](https://github.com/petescarth/fc-up42) - UP42 Block for Fractional Cover calculation from Sentinel 2 L2A Data `Python`
 - [Opensource_OBIA_processing_chain](https://github.com/tgrippa/Opensource_OBIA_processing_chain) - An open-source semi-automated processing chain for urban OBIA classification. 
+- [nansat](https://github.com/nansencenter/nansat) - Scientist friendly Python toolbox for processing 2D satellite Earth observation data. `Python`[docs](https://nansat.readthedocs.io/en/latest/index.html)
 
 ### Cloud Native Geospatial
 - [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service 
