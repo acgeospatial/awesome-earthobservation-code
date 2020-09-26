@@ -212,7 +212,7 @@ R is not my area of expertise so this section is lighter than I'd like, plus I'd
 - [Peatland-carbon-stock](https://github.com/JavierLopatin/Peatland-carbon-stock) - Codes for: Lopatin, J., et al. (2019). Using aboveground vegetation attributes as proxies for mapping peatland belowground carbon stocks. Remote Sens. Environ. 231, 111217 `R`
 - [SpeciesRichness-GLMvsRF-LiDAR](https://github.com/JavierLopatin/SpeciesRichness-GLMvsRF-LiDAR) - `R`-codes for: Lopatin, J., Dolos, K., Hernández, J., Galleguillos, M., Fassnacht, F. E. (2016): Comparing Generalized Linear Models and random forest to model vascular plant species richness using LiDAR data in a natural forest in central Chile. Remote Sensing of Environment 173, pp. 200–210. 10.1016/j.rse.2015.11.029 
 - [tree_segmentation](https://github.com/redfoxgis/tree_segmentation) - LiDAR tree segmentation `R`
-- [https://github.com/be-marc/swdt](swdt) - Sentinel-1 Water Dynamics Toolkit `R` 
+- [swdt](https://github.com/be-marc/swdt) - Sentinel-1 Water Dynamics Toolkit `R` 
 
 
 ## Languages other than `Python` and `R`
