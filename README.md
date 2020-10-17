@@ -178,8 +178,8 @@ This section full of great code and projects related to processing optical satel
 - [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools `Python` Frontend
 
 ### Testing your code
-- [image-similarity-measures](https://pypi.org/project/image-similarity-measures/) - Implementation of eight evaluation metrics to access the similarity between two images.
-- [fake-geo-images](https://pypi.org/project/fake-geo-images/) - A module to programmatically create geotiff images which can be used for unit tests.
+- [image-similarity-measures](https://pypi.org/project/image-similarity-measures/) - Implementation of eight evaluation metrics to access the similarity between two images. `Python`
+- [fake-geo-images](https://pypi.org/project/fake-geo-images/) - A module to programmatically create geotiff images which can be used for unit tests. `Python`
 
 
 ## Resources for `R`
