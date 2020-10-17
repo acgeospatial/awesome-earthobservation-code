@@ -177,6 +177,10 @@ This section full of great code and projects related to processing optical satel
 - [actinia satellite plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
 - [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools `Python` Frontend
 
+### Testing your code
+- [image-similarity-measures](https://pypi.org/project/image-similarity-measures/) - Implementation of eight evaluation metrics to access the similarity between two images.
+- [fake-geo-images](https://pypi.org/project/fake-geo-images/) - A module to programmatically create geotiff images which can be used for unit tests.
+
 
 ## Resources for `R`
 
