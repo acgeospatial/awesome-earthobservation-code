@@ -153,6 +153,7 @@ This section full of great code and projects related to processing optical satel
 - [SentinelHub-py](https://github.com/sentinel-hub/sentinelhub-py) - Download and process satellite imagery in Python using Sentinel Hub services. 
 - [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
 - [Orbit predictor](https://github.com/satellogic/orbit-predictor) - Python library to propagate satellite orbits. 
+- [up42-py](https://github.com/up42/up42-py) - Python SDK for UP42, the geospatial marketplace and developer platform. `Python`
 
 ### Reflectance / pre processing
 - [Landsat7 errors](https://github.com/gena/landsat7-errors) - Identifies errors in raw values of Landsat 7 
