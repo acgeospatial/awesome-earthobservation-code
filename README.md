@@ -146,6 +146,7 @@ This section full of great code and projects related to processing optical satel
 - [Truck_Detection_Sentinel2_COVID19](https://github.com/hfisser/Truck_Detection_Sentinel2_COVID19) - This repository is designated to detecting trucks using Sentinel-2 data. `Python`
 
 ### Company specific examples
+(you may need to create an account to use these resources)
 - [Planet notebooks](https://github.com/planetlabs/notebooks) - interactive notebooks from Planet Engineering `Python`
 - [Planet-client-API](https://github.com/planetlabs/planet-client-python) - `Python` client for Planet APIs 
 - [Maxar GDBx tools](https://github.com/DigitalGlobe/gbdxtools) - Python SDK for using GBDX.
@@ -154,6 +155,7 @@ This section full of great code and projects related to processing optical satel
 - [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
 - [Orbit predictor](https://github.com/satellogic/orbit-predictor) - Python library to propagate satellite orbits. 
 - [up42-py](https://github.com/up42/up42-py) - Python SDK for UP42, the geospatial marketplace and developer platform. `Python`
+- [S2-superresolution](https://github.com/up42/s2-superresolution) - Deep Learning-based algorithm to upsample all Sentinel-2 bands to 10m. Also an example how to use GPUs on UP42. `Python`
 
 ### Reflectance / pre processing
 - [Landsat7 errors](https://github.com/gena/landsat7-errors) - Identifies errors in raw values of Landsat 7 
