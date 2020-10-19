@@ -586,6 +586,7 @@ Finally, I wanted to acknowledge a couple of awesome Earth Observation lists tha
 - [awesome-remote-sensing](https://github.com/attibalazs/awesome-remote-sensing) - Collection of Remote Sensing Resources 
 - [awesome-remote-sensing-papers](https://github.com/sacridini/awesome-remote-sensing-papers) - Selection of remote sensing papers 
 - [awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources 
+- [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, and contests related to remote sensing change detection.
 
 #### End
 
