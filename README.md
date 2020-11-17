@@ -68,6 +68,7 @@ This section full of great code and projects related to processing optical satel
 - [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website
 - [Landsat-Util](https://github.com/developmentseed/landsat-util) - A utility to search, download and process Landsat 8 satellite imagery `Python`
 - [Sentinel-1_POE_orbit_download](https://github.com/insarwxw/Sentinel-1_POE_orbit_download) - Automatically download Sentinel-1 POE orbit data with a given product list. `Python`
+- [data-prep-scripts](https://lpdaac.usgs.gov/tools/data-prep-scripts/) - This collection of `R` and `Python` scripts can be used to download data and perform basic data processing functions such as georeferencing, reprojecting, converting, and reformatting data. All scripts are available for download from the LP DAAC User Resources [BitBucket Code Repository](https://git.earthdata.nasa.gov/projects/LPDUR).
 
 ### Processing imagery - post processing
 - [StarFM for Python](https://github.com/nmileva/starfm4py) - The STARFM fusion model for `Python` (image fusion)
@@ -226,6 +227,8 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [SpeciesRichness-GLMvsRF-LiDAR](https://github.com/JavierLopatin/SpeciesRichness-GLMvsRF-LiDAR) - `R`-codes for: Lopatin, J., Dolos, K., Hernández, J., Galleguillos, M., Fassnacht, F. E. (2016): Comparing Generalized Linear Models and random forest to model vascular plant species richness using LiDAR data in a natural forest in central Chile. Remote Sensing of Environment 173, pp. 200–210. 10.1016/j.rse.2015.11.029 
 - [tree_segmentation](https://github.com/redfoxgis/tree_segmentation) - LiDAR tree segmentation `R`
 - [swdt](https://github.com/be-marc/swdt) - Sentinel-1 Water Dynamics Toolkit `R` 
+- [What_are_data_cubes](https://edzer.github.io/UseR2020/#What_are_data_cubes) - Analyzing and visualising spatial and spatiotemporal data cubes - Part I
+- [classifying_satellite_imagery_in_R](https://urbanspatial.github.io/classifying_satellite_imagery_in_R/) - For this tutorial, we use Landsat 8 imagery from Calgary
 
 
 ## Languages other than `Python` and `R`
@@ -572,6 +575,7 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 - [Python_tips](https://github.com/gpetepg/python_tips) - Some Python tips for beginner to intermediate users. Also used as a personal cheat sheet.
 - [introduction to ml with Python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with `Python`" 
 - [Matplotlib_Cheatsheet](https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Jwink3101/e6b57eba3beca4b05ec146d9e38fc839/raw/f486ca3dcad44c33fc4e7ddedc1f83b82c02b492/Matplotlib_Cheatsheet) - Matplotlib_Cheatsheet `Python`
+- [GDSL-UL/Teaching_Links](https://github.com/GDSL-UL/Teaching_Links) - In this repo we have aimed to provide links to useful teaching resources for teaching Geographic / Spatial Data Science, GIS and Statistics. (perhaps misplaced in this list?)
 
 ## Interesting Non EO parts other languages
 This section is aimed more a data science/programming resources that 'might' be applicable to Earth Observation, that are <b>not </b>Python
