@@ -49,3 +49,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Peter Thaleikis (spekulatius) - pull request - spotted a dead link
 - Oscar Baruffa (https://twitter.com/OscarBaruffa) - some R books on geospatial
 - Mor Ndiaye (https://twitter.com/papitau) - Several links on R and EO
+- Jérôme Gasperi (https://twitter.com/jrom) - resto link
