@@ -577,6 +577,7 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 - [introduction to ml with Python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with `Python`" 
 - [Matplotlib_Cheatsheet](https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Jwink3101/e6b57eba3beca4b05ec146d9e38fc839/raw/f486ca3dcad44c33fc4e7ddedc1f83b82c02b492/Matplotlib_Cheatsheet) - Matplotlib_Cheatsheet `Python`
 - [GDSL-UL/Teaching_Links](https://github.com/GDSL-UL/Teaching_Links) - In this repo we have aimed to provide links to useful teaching resources for teaching Geographic / Spatial Data Science, GIS and Statistics. (perhaps misplaced in this list?)
+- [practical-python](https://dabeaz-course.github.io/practical-python/) - Practical Python Programming A course by @dabeaz
 
 ## Interesting Non EO parts other languages
 This section is aimed more a data science/programming resources that 'might' be applicable to Earth Observation, that are <b>not </b>Python
