@@ -193,6 +193,7 @@ This section full of great code and projects related to processing optical satel
 ## Resources for `R`
 
 R is not my area of expertise so this section is lighter than I'd like, plus I'd love to know what is a useful resource
+Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `R` books on geospatial
 
 - [R-Spatial](https://rspatial.org/raster/rs/1-introduction.html) - This book provides a short introduction to satellite data analysis with R.
   - [Remote Sensing analysis with R](https://rspatial.org/raster/rs/index.html) - Builds on above R-Spatial
