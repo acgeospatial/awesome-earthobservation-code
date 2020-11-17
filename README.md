@@ -267,6 +267,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [tiffhax](https://github.com/emilyselwood/tiffhax) - tiff metadata hex viewer  `Go`
 - [Fmask](https://github.com/GERSL/Fmask) - The software called Fmask (Function of mask) is used for automated clouds, cloud shadows, and snow masking for Landsats 4-8 and Sentinel 2 images. `Matlab`
 - [resto](https://github.com/jjrom/resto) - A metadata catalog and search engine for geospatialized data `PHP` Stac!
+- [pktools](http://pktools.nongnu.org/html/index.html) - pktools is a suite of utilities written in `C++` for image processing with a focus on remote sensing applications. It relies on the Geospatial Data Abstraction Library ([GDAL](http://www.gdal.org)) and OGR.
 
 
 ## Training and learning
