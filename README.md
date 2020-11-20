@@ -249,7 +249,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [LLR-landTrendr](https://github.com/jdbcode/LLR-LandTrendr) - Landsat-based Detection of Trends in Disturbance and Recovery algorimth modified to accept LandsatLinkr-processed imagery. `IDL`
 - [Global Forest Watch](https://github.com/Vizzuality/gfw) - Global Forest Watch: An online, global, near-real time forest monitoring tool 
 - [conda recipes](https://github.com/yannforget/conda-recipes) - Conda recipes for remote sensing `Shell`
-- [Landsat-solar-elevation](https://github.com/jdbcode/landsat-solar-elevation) - A web app that plots annual solar elevation at the time of Landsat overpass for locations throughout the earth `JavaScript
+- [Landsat-solar-elevation](https://github.com/jdbcode/landsat-solar-elevation) - A web app that plots annual solar elevation at the time of Landsat overpass for locations throughout the earth `JavaScript`
 - [staccato](https://github.com/planetlabs/staccato) - `Java` implementation of the STAC spec 
 - [stac4s](https://github.com/azavea/stac4s)  -a `scala` library with primitives to build applications using the SpatioTemporal Asset Catalogs specification 
 - [stac-browser](https://github.com/radiantearth/stac-browser) - A Vue-based STAC browser intended for static + dynamic deployment
@@ -260,7 +260,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [s1tbx](https://github.com/senbox-org/s1tbx) - The Sentinel-1 Toolbox - `Java`
 - [snap_engine](https://github.com/senbox-org/snap-engine) - ESA Earth Observation Toolbox and `Java` Development Platform
 - [Worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery `Javascript` application [here](https://worldview.earthdata.nasa.gov/)
-- [orfeotoolbox](https://github.com/orfeotoolbox/OTB) - or [gitlab](https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb)
+- [Orfeo ToolBox](https://gitlab.orfeo-toolbox.org/orfeotoolbox/otb) (OTB)- An open-source project for state-of-the-art remote sensing, including a fast image viewer, apps callable from `Bash`, `Python` or QGIS, and a powerful `C++` API.
 - [landsat_preprocess](https://github.com/ceholden/landsat_preprocess) - IPython notebook documenting a workflow for preprocessing Landsat data `Shell`
 - [stac-mode-validator](https://github.com/m-mohr/stac-node-validator) - Simple proof-of-concept to validate STAC Items, Catalogs, Collections and core extensions with node. `JavaScript`
 - [aiforearth-landcover-app](https://github.com/vannizhang/aiforearth-landcover-app) - web mapping app to test, tweak and train the land cover classification from a deep neural network model
