@@ -11,7 +11,7 @@ I have written a blog post about how this repo came into being. It includes a vi
 
 Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
 
-<b> Update September 2020</b> We now have over 450 links/resources! The focus is to discuss resorting and ordering all these links and potentially reclassifiying where needed many links are in the '`Python` processing of optical imagery non deep learning' section and this potentially could be broken up. Added Earth Observation introduction.
+<b> Update December 2020</b> We now have over 500 links/resources! The focus is to discuss resorting and ordering all these links I want to make this as useable as possible. Added Earth Observation introduction.
 
 Annotations are based on the headers - where available - on the github accounts
 
