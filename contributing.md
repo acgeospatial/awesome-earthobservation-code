@@ -51,3 +51,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Mor Ndiaye (https://twitter.com/papitau) - Several links on R and EO
 - Jérôme Gasperi (https://twitter.com/jrom) - resto link
 - Julien Osman (https://github.com/Julien-Osman) - Pull request
+- Dan Hurst (https://twitter.com/danhirstspace) - NASA stereo Pipeline link
