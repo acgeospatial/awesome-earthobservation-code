@@ -486,14 +486,21 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [s1prepro](https://github.com/benjimin/s1prepro) - Automated pre-processing of Sentinel 1 (satellite radar imagery) `Python`
 
 ## LiDAR
-
-- [pyGEDI](https://github.com/EduinHSERNA/pyGEDI) - pyGEDI is a Python Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) mission, data extraction, analysis, processing and visualization.
-- [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3) - Python script to take GEDI level 2 data and convert variables to a geospatial vector format
-- [rGEDI](https://github.com/carlos-alberto-silva/rGEDI) - rGEDI: An R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing.
 - [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171) - Python script to convert from ICESat-2 ATL08 HDF data to shapefile. Usage: 'python icesat2_shp.py
 - [ICESAT tools](https://github.com/icesat-2UT/PhoREAL) - Tools and code for Icesat-2 data analysis (Python)
 - [usgs-lidar](https://github.com/hobu/usgs-lidar) - AWS Entwine Point Tiles USGS LiDAR Public Dataset GitHub repo
 - [Lidar](https://github.com/giswqs/lidar) - Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM)  
+
+### GEDI
+
+- [pyGEDI](https://github.com/EduinHSERNA/pyGEDI) - pyGEDI is a Python Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) mission, data extraction, analysis, processing and visualization.
+- [GEDI extraction script](https://gist.github.com/KMarkert/c68ccf53260d7b775b836bf2e11e2ec3) - Python script to take GEDI level 2 data and convert variables to a geospatial vector format
+- [rGEDI](https://github.com/carlos-alberto-silva/rGEDI) - rGEDI: An R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing.
+- [pysl4land](https://github.com/remotesensinginfo/pysl4land) - `Python` tools to process spaceborne lidar (GEDI and ICESAT2) for land (pySL4Land) applications 
+- [gedi](https://github.com/rodolfolotte/gedi) - `Python` tutorial to process and handle LiDAR GIDE datasets 
+- [sprnca_gedi](https://github.com/rbavery/sprnca_gedi) - WIP to map Foliage Height Diversity along the San Pedro Riparian Corridor with NASA's GEDI Lidar `Python`
+- [GEDI_Yucatan](https://github.com/JohMast/GEDI_Yucatan) - Supplementary material for the study: Space Lidar for Archaeology? Reanalyzing GEDI Data for Detection of Ancient Maya Buildings  `R`
+- [q_research](https://github.com/HeatherKmtb/q_research) - For processing of ICESat GLAS, GEDI and ICESat-2 LiDAR data, to derive q parameter for canopy height to density relationship `Python`
 
 ## InSAR
 - [ISCE](https://github.com/isce-framework/isce3) - InSAR Scientific Computing Environment version 3 alpha 
