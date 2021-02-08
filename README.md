@@ -484,6 +484,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [S1_ARD](https://github.com/johntruckenbrodt/S1_ARD) - repository for testing analysis-readiness of Sentinel-1 RTC backscatter `Python`
 - [sea_ice_drift](https://github.com/nansencenter/sea_ice_drift) - Sea ice drift from Sentinel-1 SAR imagery using open source feature tracking `Python`
 - [s1prepro](https://github.com/benjimin/s1prepro) - Automated pre-processing of Sentinel 1 (satellite radar imagery) `Python`
+- [Spacenet6 - SAR buildings](https://github.com/SpaceNetChallenge/SpaceNet_SAR_Buildings_Solutions) - The winning solutions for the SpaceNet 6 Challenge `Python`
 
 ## LiDAR
 - [ICESAT extraction script](https://gist.github.com/bzgeo/950f3db986b3513311ed42efe2395171) - Python script to convert from ICESat-2 ATL08 HDF data to shapefile. Usage: 'python icesat2_shp.py
