@@ -52,3 +52,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Jérôme Gasperi (https://twitter.com/jrom) - resto link
 - Julien Osman (https://github.com/Julien-Osman) - Pull request
 - Dan Hurst (https://twitter.com/danhirstspace) - NASA stereo Pipeline link
+- Richard Scott (RichardScottOZ) (Pull request)
