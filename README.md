@@ -489,6 +489,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [rice_sentinel1](https://github.com/AndrewPham9/rice_sentinel1) - classify rice from sentinel 1 data `Python`
 - [sentineldenoised](https://github.com/nansencenter/sentinel1denoised) - Thermal noise subtraction, scalloping correction, angular correction `Python`
 - [sentinel1-Biodiversity](https://github.com/So-YeonBae/Sentinel1-Biodiversity) - Code, example dataset, and instructions of Sentinel-1 data pre-processing and pixel-based summary statistics used in "Radar vision for mapping forest biodiversity from space" `Python`
+- [Step by step: Radar-based flood mapping with Python](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-flood-mapping/python-step-by-step) and [github link](https://github.com/UN-SPIDER/radar-based-flood-mapping) - This repository contains a Jupyter Notebook for automatic flood extent mapping using space-based information. `Python`
 
 
 ## LiDAR
