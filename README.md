@@ -123,6 +123,7 @@ This section full of great code and projects related to processing optical satel
 - [IEO](https://github.com/DrGuy/ieo) - Irish Earth Observation (IEO) remote sensing data processing Python module `Python`
 - [IEOtools](https://github.com/DrGuy/IEOtools) - Tools for managing Earth observation data. Currently only supports Landsat imagery  `Python`
 - [xcube-gen and xcube-geodb](https://eurodatacube.com/marketplace/notebooks/contributions/EDC_demo_phi-week_v1.ipynb) - In this Notebook we present how to, Access data via xcube-sh with a short excursion to the xcube Generator User Interface Use xcube-geodb.
+- [pykic](https://github.com/EkicierNico/pykic) - 'Python' module for remote sensing and GIS domain (image/signal, vector, miscellaneous processing) 
 
 
 
