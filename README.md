@@ -422,17 +422,16 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [Building_Identification_Damage_Assessment](https://github.com/welkinland/Building_Identification_Damage_Assessment) - Building Extraction and Damage Assessment from High Resolution Multi-spectral Images `Python`
 - [Fire_Pattern_Analysis_CONUS](https://github.com/welkinland/Fire_Pattern_Analysis_CONUS) - Analysis of fire patterns and drivers in CONUS `Python`
 
-
 ## Open Data Cube
+
 - [Opendatacube](https://github.com/opendatacube)
-  - [Opendatacube -core](https://github.com/opendatacube/datacube-core) - Open Data Cube analyses continental scale Earth Observation data through time
-  - [Opendatacube notebooks](https://github.com/opendatacube/datacube-notebooks) - Extra documentation about using ODC with Jupyter Notebooks
-- [data_cube_ui](https://github.com/ceos-seo/data_cube_ui) - Data Cube user interface allowing users to interact with the Data Cube and run sample analysis cases
-- [data_cube_utilities](https://github.com/ceos-seo/data_cube_utilities) - Various algorithms and processing functions for Data Cube raster data
-- [data_cube_notebooks](https://github.com/ceos-seo/data_cube_notebooks) - Jupyter Notebook examples for our Data Cube capable algorithms and functions `Python`
+  - [Datacube Core](https://github.com/opendatacube/datacube-core) - The Open Data Cube (ODC) makes analysing continental scale Earth Observation data through time easier
+  - [Datacube Notebooks](https://github.com/opendatacube/datacube-notebooks) - Extra documentation about using the ODC with Jupyter Notebooks
+  - [Datacube Explorer](https://github.com/opendatacube/datacube-explorer) - An ODC metadata browser that includes a STAC API and extent visualisations
+  - [ODC Tools](https://github.com/opendatacube/odc-tools) - a suite of Python apps and libraries that help you use the ODC or EO data in a wide range of applications
 - [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with Open Data Cube and `xarray` `Python`
-- [Google Earth Engine Python examples](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples) - Various examples for Google Earth Engine in `Python` using Jupyter Notebook 
-- [stackstac](https://github.com/gjoseph92/stackstac) - Turn a STAC catalog into a dask-based xarray `Python`
+- [Digital Earth Africa Notebooks](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks) - Repository for Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with the Open Data Cube and `xarray` `Python`, this time with a focus on Africa
+- [Google Earth Engine Python examples](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples) - Various examples for Google Earth Engine in `Python` using Jupyter Notebook
 
 ## QGIS and Grass
 
