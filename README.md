@@ -302,6 +302,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [Geoprocessing with Python - GIS circa 2009](https://www.gis.usu.edu/~chrisg/python/2009/) - This material is really old and some of it is outdated (not all, though!). One of these days I might get around to putting newer class materials online, but you're stuck with this for now.
 - [training-workshop](https://github.com/planetlabs/training-workshop) - This repo contains all materials used on Planet's training workshop for Bahrain Defense Force
 - [sentinel](https://github.com/techforspace/sentinel) - Repository created for the Earth Observation Sentinel project (use with SNAP) `Python`
+- [Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html) - A crashcourse introduction to using Python to wrangle, plot, and model geospatial data `Python`
 
 ## Deep learning and Machine Learning
 
