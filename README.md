@@ -132,6 +132,7 @@ This section full of great code and projects related to processing optical satel
 - [IEOtools](https://github.com/DrGuy/IEOtools) - Tools for managing Earth observation data. Currently only supports Landsat imagery `Python`
 - [xcube-gen and xcube-geodb](https://eurodatacube.com/marketplace/notebooks/contributions/EDC_demo_phi-week_v1.ipynb) - In this Notebook we present how to, Access data via xcube-sh with a short excursion to the xcube Generator User Interface Use xcube-geodb.
 - [pykic](https://github.com/EkicierNico/pykic) - 'Python' module for remote sensing and GIS domain (image/signal, vector, miscellaneous processing)
+- [ukis-csmask](https://github.com/dlr-eoc/ukis-csmask) - masks clouds and cloud shadows in Sentinel-2, Landsat-8, Landsat-7 and Landsat-5 images `Python`
 
 ### Cloud Native Geospatial
 
@@ -202,6 +203,7 @@ This section full of great code and projects related to processing optical satel
 - [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks. `Python`
 - [actinia satellite plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
 - [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools `Python` Frontend
+- [ukis-pysat](https://github.com/dlr-eoc/ukis-pysat) - generic classes and functions to query, access and process multi-spectral and SAR satellite images
 
 ### Testing your code
 
