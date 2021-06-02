@@ -56,6 +56,14 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [Open EO](https://openeo.org/) - openEO develops an open API to connect `R`, `Python`, `JavaScript` and other clients to big Earth observation cloud back-ends in a simple and unified way.
 - [openeo-processes](https://github.com/Open-EO/openeo-processes) - Interoperable processes for openEO's big Earth observation cloud processing [website](https://processes.openeo.org/)
 
+## Remote Sensing.info
+remotesening.info warrents its own section, the vast array of tools and processing software is incredible
+[RemoteSensing.info](https://remotesensing.info/) - Short tutorials and reference to useful software tools for the acquisition and processing of remote sensed Earth Observation data
+- [RSGISLib](https://www.rsgislib.org/) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using `Python` bindings.
+- [ARCSI](https://arcsi.remotesensing.info/) - link currently broken
+- [eodatadown](https://eodatadown.remotesensing.info/) - The Earth Observation Data Downloader (EODataDown) is a tool for automatically downloading and processing EO data to an analysis ready data product. This software forms a core component of a monitoring system based on EO data.
+- more to come..
+
 ## `Python` processing of optical imagery (non deep learning)
 
 This section full of great code and projects related to processing optical satellite imagery with `Python` . This section is under review Sept 2020 and being split into further categories - please suggest groupings or re assignments if needed - the idea is to make the Python code examples here easier to find. Categories are highly subjective.
