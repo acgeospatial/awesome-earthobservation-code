@@ -407,6 +407,7 @@ There are many videos relating to Earth Observation and coding, especially Pytho
 - [Handling and analysing vector and raster data cubes with R](https://www.youtube.com/watch?v=9by7zsGms40) - Edzer Pebesma (Institute for Geoinformatics, University of Münster) Summary: vector and raster data cubes include vector and raster data as special cases, but extend this to vector time series, OD matrices, multi-band raster data, multi-band raster time series, multi-attribute vector or raster time series, and more general to array data where one ore more dimensions are associated with space and/or with time. Examples come from pretty much all areas dealing with spatiotemporal data. This tutorial will go through a large number of examples to illustrate this idea, mostly focusing on the packages stars and sf and those supporting their classes (like tmap, mapview, gstat, ggplot2).
 - [QiushengWu's youtube](https://www.youtube.com/c/QiushengWu) - This youtube channel has pretty much everything you need Earth Engine, git, colab, Python, Geoscience. Highest quality stuff.
 - [The OpenDataCube Conference 2021](https://www.youtube.com/playlist?list=PLlZzWSPAR5GbGTRR68XDKPonOL8dOyYB5) - Playlist from the 2021 conference
+- [Dask and Geopandas](https://www.youtube.com/watch?v=ZpA9jgSqAkk) - Scalable geospatial data analysis with Dask| Dask Summit 2021
 
 ## Earth Engine
 
