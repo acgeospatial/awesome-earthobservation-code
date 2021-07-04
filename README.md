@@ -141,6 +141,7 @@ This section full of great code and projects related to processing optical satel
 - [xcube-gen and xcube-geodb](https://eurodatacube.com/marketplace/notebooks/contributions/EDC_demo_phi-week_v1.ipynb) - In this Notebook we present how to, Access data via xcube-sh with a short excursion to the xcube Generator User Interface Use xcube-geodb.
 - [pykic](https://github.com/EkicierNico/pykic) - 'Python' module for remote sensing and GIS domain (image/signal, vector, miscellaneous processing)
 - [ukis-csmask](https://github.com/dlr-eoc/ukis-csmask) - masks clouds and cloud shadows in Sentinel-2, Landsat-8, Landsat-7 and Landsat-5 images `Python`
+- [jeolib-pyjeo](https://github.com/ec-jrc/jeolib-pyjeo) - pyjeo is a library for image processing for geospatial data implemented in JRC Ispra. `Python`
 
 ### Cloud Native Geospatial
 
