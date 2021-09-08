@@ -142,6 +142,7 @@ This section full of great code and projects related to processing optical satel
 - [pykic](https://github.com/EkicierNico/pykic) - 'Python' module for remote sensing and GIS domain (image/signal, vector, miscellaneous processing)
 - [ukis-csmask](https://github.com/dlr-eoc/ukis-csmask) - masks clouds and cloud shadows in Sentinel-2, Landsat-8, Landsat-7 and Landsat-5 images `Python`
 - [jeolib-pyjeo](https://github.com/ec-jrc/jeolib-pyjeo) - pyjeo is a library for image processing for geospatial data implemented in JRC Ispra. `Python`
+- [pyrgis](https://github.com/PratyushTripathy/pyrsgis) - This repository cointains the source code of the 'pyrsgis' `Python` package. 
 
 ### Cloud Native Geospatial
 
@@ -185,6 +186,7 @@ This section full of great code and projects related to processing optical satel
 - [Orbit predictor](https://github.com/satellogic/orbit-predictor) - Python library to propagate satellite orbits.
 - [up42-py](https://github.com/up42/up42-py) - Python SDK for UP42, the geospatial marketplace and developer platform. `Python`
 - [S2-superresolution](https://github.com/up42/s2-superresolution) - Deep Learning-based algorithm to upsample all Sentinel-2 bands to 10m. Also an example how to use GPUs on UP42. `Python`
+- [icecube](https://github.com/iceye-ltd/icecube) - Create time-series datacubes for supervised machine learning with ICEYE SAR images. `Python`
 
 ### Reflectance / pre processing
 
@@ -532,6 +534,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [sentineldenoised](https://github.com/nansencenter/sentinel1denoised) - Thermal noise subtraction, scalloping correction, angular correction `Python`
 - [sentinel1-Biodiversity](https://github.com/So-YeonBae/Sentinel1-Biodiversity) - Code, example dataset, and instructions of Sentinel-1 data pre-processing and pixel-based summary statistics used in "Radar vision for mapping forest biodiversity from space" `Python`
 - [Step by step: Radar-based flood mapping with Python](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-flood-mapping/python-step-by-step) and [github link](https://github.com/UN-SPIDER/radar-based-flood-mapping) - This repository contains a Jupyter Notebook for automatic flood extent mapping using space-based information. `Python`
+- [STAC Sentinel1](https://github.com/stactools-packages/sentinel1) - stactools package for working with sentinel1 data `Python`
 
 ## LiDAR
 
