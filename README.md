@@ -160,6 +160,7 @@ This section full of great code and projects related to processing optical satel
 - [async-cog-reader](https://github.com/geospatial-jeff/async-cog-reader) - Read Cloud Optimized GeoTiffs without GDAL`Python`
 - [aiocogeo](https://github.com/geospatial-jeff/aiocogeo) - Asynchronous cogeotiff reader `Python`
 - [stackstac](https://github.com/gjoseph92/stackstac) - Turn a list of STAC items into a 4D xarray DataArray `Python`
+- [stac-nb](https://github.com/darrenwiens/stac-nb) - STAC in Jupyter Notebooks `Python`
 
 ### Case studies / Projects
 
