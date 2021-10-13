@@ -12,7 +12,7 @@ I have written a blog post about how this repo came into being. It includes a vi
 
 Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
 
-<b> Update June 2021</b> We now have over 500 links/resources! I welcome any resources missed. I'll be updating periodically as I find new resources.
+<b> Update October 2021</b> We now have over 500 links/resources! If you find a resource missing let me know and I will add, I accept PR's
 
 Annotations are based on the headers - where available - on the github accounts
 
