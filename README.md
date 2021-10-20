@@ -320,6 +320,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html) - A crashcourse introduction to using Python to wrangle, plot, and model geospatial data `Python`
 
 ## Deep learning and Machine Learning
+- [future learn course - artificial intelligence for earth monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)
 
 #### Curated lists
 
@@ -592,7 +593,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [Julia Wagemann github](https://github.com/jwagemann) - Making open meteorological and climate data better accessible. `Python`, `Jupyter` and `R`. 
 - [SpaceNet](https://spacenetchallenge.github.io/) - See also CosmiQ Works blog the downlinq
 - See also [Sentinel hub competitions](https://www.sentinel-hub.com/develop/community/contest/)
-<i>'older' competitions of note</i>
+<br><i>'older' competitions of note</i></br>
 - [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) - Use satellite data to track the human footprint in the Amazon rainforest
 - [DeepGlobe Building Extraction Challenge](https://competitions.codalab.org/competitions/18544) - We would like to pose the challenge of automatically detecting buildings from satellite images.
 - [DSTL feature extraction](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection) - Kagglers are challenged to accurately classify features in overhead imagery
