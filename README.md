@@ -478,6 +478,9 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 
 ** new and under dev **
 - [Sentinel2 on planetary computer](https://github.com/Element84/geo-notebooks/blob/main/notebooks/odc-planetary-computer.ipynb) - notebook explores Sentinel-2 data on Microsoft's Planetary Computer `Python`
+- [mircosoft](https://github.com/microsoft) - Microsoft git repo
+  - [PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples) - Examples of using the Planetary Computer `Python`
+  - [sdk-python](https://github.com/microsoft/planetary-computer-sdk-for-python) - Planetary Computer SDK for `Python` 
 
 ## QGIS and Grass
 
