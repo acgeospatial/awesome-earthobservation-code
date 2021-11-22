@@ -481,6 +481,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [mircosoft](https://github.com/microsoft) - Microsoft git repo
   - [PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples) - Examples of using the Planetary Computer `Python`
   - [sdk-python](https://github.com/microsoft/planetary-computer-sdk-for-python) - Planetary Computer SDK for `Python` 
+- [planetary-computer-deep-dives](https://github.com/TomAugspurger/planetary-computer-deep-dives) - `Python`
 
 ## QGIS and Grass
 
