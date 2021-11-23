@@ -12,7 +12,7 @@ I have written a blog post about how this repo came into being. It includes a vi
 
 Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
 
-<b> Update October 2021</b> We now have over 500 links/resources! If you find a resource missing let me know and I will add, I accept PR's
+<b> Update November 2021</b> We now have over 550 links/resources! If you find a resource missing let me know and I will add, I accept PR's. Added section on Planetary Computer, COG and STAC.
 
 Annotations are based on the headers - where available - on the github accounts
 
@@ -31,7 +31,7 @@ Fuelled by their passion for all things raster and geospatial, the #scenefromabo
 
 | [Open EO](#open-eo) | [remotesensing.info](#remote-sensinginfo) | [Python processing](#python-processing-of-optical-imagery-non-deep-learning) | [Resources for R](#resources-for-r) | [Languages other than Python and R](#languages-other-than-python-and-r) | [Training and Learning](#training-and-learning) | [Deep Learning & Machine Learning](#deep-learning-and-machine-learning) | [GDAL of course](#gdal-of-course) | [Earth Observation coding on YouTube](#earth-observation-coding-on-youtube) | [Google Earth Engine](#earth-engine) | [Open Data Cube](#open-data-cube) | [Planetary Computer](#planetary-computer) | [QGIS and Grass](#qgis-and-grass) | [Climate & Weather resources](#climate-and-weather-based-resources) | [DEM projects](#dem-projects) | [SAR](#sar) | [LiDAR](#lidar) | [GEDI](#gedi) | [InSAR](#insar) | [Landuse](#landuse) | [Visualisation](#visualisation) | [EO code Competitions](#eo-code-competitions) | [ARD links](#ard-links) | [Useful EO code based twitter accounts](#useful-eo-code-based-twitter-accounts) | [List of Great GitHub accounts](#great-github-accounts) | [EO Geospatial companies or orgs making big contributions](#eo-geospatial-companies-or-orgs-making-big-contributions) |
 
-| [cloud native](#cloud-native-geospatial) | [STAC](#stac) | [COG](#cog)
+| [Cloud Native Geospatial](#cloud-native-geospatial) | [STAC](#stac) | [COG](#cog)
 
 These sections are non EO code specific, but included to be relevant <br>
 | [Interesting Non EO parts Python](#interesting-non-eo-parts-python) | [Interesting Non EO parts other languages](#interesting-non-eo-parts-other-languages) | [Data](#data) | [A footnote on awesome](#a-footnote-on-awesome)
