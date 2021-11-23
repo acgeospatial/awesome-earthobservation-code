@@ -146,23 +146,35 @@ This section full of great code and projects related to processing optical satel
 - [pyrgis](https://github.com/PratyushTripathy/pyrsgis) - This repository cointains the source code of the 'pyrsgis' `Python` package. 
 
 ### Cloud Native Geospatial
-
-- [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service
 - [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions
 - [GeoLambda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions `Python`
 - [rio-viz](https://github.com/developmentseed/rio-viz) - Visualize Cloud Optimized GeoTIFF in browser `html` `Python`
+- [Sentinel-s3](https://github.com/developmentseed/sentinel-s3) - `Python` libraries for extracting Sentinel-2's metadata from Amazon S3
+
+#### STAC
+- [stac-utils](https://github.com/stac-utils) - Tools for working with SpatioTemporal Asset Catalogs (STAC) (perhaps worth going here first for STAC) `Python` `Javascript`
+  - [pystac](https://github.com/stac-utils/pystac) - `Python` library for working with any SpatioTemporal Asset Catalog (STAC)
+    - [stactools](https://github.com/stac-utils/stactools) - Command line utility and `Python` library for STAC 
+    - [pystac-client](https://github.com/stac-utils/pystac-client) - `Python` client for STAC Catalogs and APIs
+  - [pgstac](https://github.com/stac-utils/pgstac) - Schema, functions and a `Python` library for storing and accessing STAC collections and items in `PostgreSQL` 
+  - [stac-fastapi](https://github.com/stac-utils/stac-fastapi) - STAC API implementation with FastAPI. `Python`
+  - [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
+  - [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec `Python`
+  - [stackstac](https://github.com/gjoseph92/stackstac) - Turn a list of STAC items into a 4D xarray DataArray `Python`
+  - [stac-nb](https://github.com/darrenwiens/stac-nb) - STAC in Jupyter Notebooks `Python`
+  - [qgis-stac-plugin](https://github.com/stac-utils/qgis-stac-plugin) - QGIS plugin for reading STAC APIs `Python`
+- 
+#### COG
+- [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service
 - [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) - Create and use COG mosaic based on mosaicJSON `Pythoon`
 - [Sentinel-2-cog](https://github.com/developmentseed/sentinel-2-cog) - Convert Sentinel-2 JPEG 2000 to COG with AWS Lambda `Python`
-- [Sentinel-s3](https://github.com/developmentseed/sentinel-s3) - `Python` libraries for extracting Sentinel-2's metadata from Amazon S3
-- [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
-- [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec `Python`
 - [COG Dumper](https://github.com/mapbox/COGDumper) - Dumps tiles out of a cloud optimized geotiff `Python`
-- [pystac](https://github.com/azavea/pystac) - `Python` library for working with any SpatioTemporal Asset Catalog (STAC)
 - [async-cog-reader](https://github.com/geospatial-jeff/async-cog-reader) - Read Cloud Optimized GeoTiffs without GDAL`Python`
 - [aiocogeo](https://github.com/geospatial-jeff/aiocogeo) - Asynchronous cogeotiff reader `Python`
-- [stackstac](https://github.com/gjoseph92/stackstac) - Turn a list of STAC items into a 4D xarray DataArray `Python`
-- [stac-nb](https://github.com/darrenwiens/stac-nb) - STAC in Jupyter Notebooks `Python`
-- [stac-utils](https://github.com/stac-utils) - Tools for working with SpatioTemporal Asset Catalogs (STAC) (perhaps worth going here first for STAC) `Python` `Javascript`
+- [cogeotiff](https://github.com/blacha/cogeotiff) - High performance cloud optimised geotiff reader
+- [ecw-converter](https://github.com/lifebit-ai/ecw-converter) - Dockerised `Python` scripts & Nextflow pipeline for converting ecw files to either geotiffs or Cloud Optimised Geotiffs (COGs) 
+- [COG pptx/pdf](https://github.com/saheelBreezo/Cloud-Optimised-Geotiff/blob/master/Talk/Cloud_Optimized_GeoTIFF_Blue_Sky_Analytics.pdf) - talk on COG
+- [gocog](https://github.com/terrascope/gocog) - A Cloud Optimised GeoTIFF reader written in `Go` 
 
 ### Case studies / Projects
 
@@ -210,10 +222,8 @@ This section full of great code and projects related to processing optical satel
 - [SatPy](https://github.com/pytroll/satpy) - `Python` package for earth-observing satellite data processing
 - [pyimpute](https://github.com/perrygeo/pyimpute) - Spatial classification and regression using Scikit-learn and Rasterio `Python`
 - [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask `Python`
-
 - [rioxarray](https://github.com/corteva/rioxarray) - geospatial xarray extension powered by rasterio [docs](https://corteva.github.io/rioxarray/stable/)
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-based Spatial Analysis for `Python`
-
 - [actinia core](https://github.com/mundialis/actinia_core) - Actinia Core is an open source REST API for scalable, distributed, high performance processing of geographical data that uses mainly GRASS GIS for computational tasks. `Python`
 - [actinia satellite plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
 - [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools `Python` Frontend
@@ -479,9 +489,11 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 ** new and under dev **
 - [Sentinel2 on planetary computer](https://github.com/Element84/geo-notebooks/blob/main/notebooks/odc-planetary-computer.ipynb) - notebook explores Sentinel-2 data on Microsoft's Planetary Computer `Python`
 - [mircosoft](https://github.com/microsoft) - Microsoft git repo
+  - [reading-stac](https://planetarycomputer.microsoft.com/docs/quickstarts/reading-stac/) - Reading Data from the STAC API
   - [PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples) - Examples of using the Planetary Computer `Python`
   - [sdk-python](https://github.com/microsoft/planetary-computer-sdk-for-python) - Planetary Computer SDK for `Python` 
 - [planetary-computer-deep-dives](https://github.com/TomAugspurger/planetary-computer-deep-dives) - `Python`
+
 
 ## QGIS and Grass
 
