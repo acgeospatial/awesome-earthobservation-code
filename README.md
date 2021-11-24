@@ -168,7 +168,8 @@ This section full of great code and projects related to processing optical satel
 - 
 #### COG
 - [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service
-- [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) - Create and use COG mosaic based on mosaicJSON `Pythoon`
+- [titiler](https://github.com/developmentseed/titiler) - A modern dynamic tile server built on top of `FastAPI` and `Rasterio/GDAL`.
+- [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) - Create and use COG mosaic based on mosaicJSON `Python`
 - [Sentinel-2-cog](https://github.com/developmentseed/sentinel-2-cog) - Convert Sentinel-2 JPEG 2000 to COG with AWS Lambda `Python`
 - [COG Dumper](https://github.com/mapbox/COGDumper) - Dumps tiles out of a cloud optimized geotiff `Python`
 - [async-cog-reader](https://github.com/geospatial-jeff/async-cog-reader) - Read Cloud Optimized GeoTiffs without GDAL`Python`
