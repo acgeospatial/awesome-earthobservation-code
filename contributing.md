@@ -56,3 +56,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Maxime Liquet (maximlt) (Pull request)
 - Alex Leith (Pull Request) - Opendatacubes
 - Florian (https://github.com/fwfichtner) - pull request
+- Cesar Aybar (https://github.com/csaybar) - pull request
