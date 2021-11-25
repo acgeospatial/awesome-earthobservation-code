@@ -692,6 +692,7 @@ I don't really want to add many data resources to this list as it creeps out of 
 
 - [Environmental_Intelligence](https://github.com/rockita/Environmental_Intelligence) - Data for Environmental Intelligence: A mega list of Earth System Datasets covering earth observations, climate, water, forests, biodiversity, ecology, protected areas, natural hazards, marine and the tracking of UN's Sustainable Development Goals
 - [gibs](https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-components/gibs) - This is EO
+- [awesome-gee-community-datasets](https://samapriya.github.io/awesome-gee-community-datasets/) - Community Datasets added by users and made available for use at large 
 
 ## A footnote on awesome
 
