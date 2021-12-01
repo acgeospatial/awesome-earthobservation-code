@@ -570,6 +570,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [ICESAT tools](https://github.com/icesat-2UT/PhoREAL) - Tools and code for Icesat-2 data analysis (Python)
 - [usgs-lidar](https://github.com/hobu/usgs-lidar) - AWS Entwine Point Tiles USGS LiDAR Public Dataset GitHub repo
 - [Lidar](https://github.com/giswqs/lidar) - Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM)
+- [IcePyx](https://github.com/icesat2py/icepyx) - Python tools for obtaining and working with ICESat-2 data
 
 ### GEDI
 
