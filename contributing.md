@@ -58,3 +58,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Florian (https://github.com/fwfichtner) - pull request
 - Cesar Aybar (https://github.com/csaybar) - pull request
 - Luis Lopez (https://github.com/betolink) - pull request
+- Scott Staniewicz (https://github.com/scottstanie) - pull request
