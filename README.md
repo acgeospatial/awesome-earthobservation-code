@@ -147,6 +147,7 @@ This section full of great code and projects related to processing optical satel
 - [ukis-csmask](https://github.com/dlr-eoc/ukis-csmask) - masks clouds and cloud shadows in Sentinel-2, Landsat-8, Landsat-7 and Landsat-5 images `Python`
 - [jeolib-pyjeo](https://github.com/ec-jrc/jeolib-pyjeo) - pyjeo is a library for image processing for geospatial data implemented in JRC Ispra. `Python`
 - [pyrgis](https://github.com/PratyushTripathy/pyrsgis) - This repository cointains the source code of the 'pyrsgis' `Python` package. 
+- [EOReader](https://github.com/sertit/eoreader) - Opensource `Python` library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.
 
 ### Cloud Native Geospatial
 - [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions
