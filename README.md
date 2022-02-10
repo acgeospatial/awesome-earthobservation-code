@@ -396,6 +396,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [odeon-landcover](https://gitlab.com/dai-projets/odeon-landcover) - ODEON stands for Object Delineation on Earth Observations with Neural network. It is a set of command-line tools performing semantic segmentation on remote sensing images (aerial and/or satellite) with as many layers as you wish `Python`. You may need to inspect development branches to learn more.
 - [SAR2NDVI_CNN](https://github.com/antoniomazza88/SAR2NDVI_CNN) - A CNN is trained to perform the estimation of the NDVI, using coupled Sentinel-1 and Sentinel-2 time-series. `Python`
 - [Museo Toolbox](https://github.com/nkarasiak/MuseoToolBox) - A library to simplify the use of raster/vector, especially for machine learning and remote sensing. `Python`
+- [TorchGeo](https://github.com/pytorch/pytorch) - Extension of PyTorch that includes datasets, transforms, and models for geospatial data. `Python`
 
 ## GDAL of course
 
