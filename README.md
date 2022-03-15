@@ -344,6 +344,9 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [Deep Vector](https://github.com/deepVector/geospatial-machine-learning) - A curated list of resources focused on Machine Learning in Geospatial Data Science.
 - [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery
 
+#### Labelling
+- [satellite-imagery-labeling-tool](https://github.com/microsoft/satellite-imagery-labeling-tool) - This is a lightweight web-interface for creating and sharing vector annotations over satellite/aerial imagery scenes. 
+
 #### Specific examples
 
 - [TernausNetV2](https://github.com/ternaus/TernausNetV2) - TernausNetV2: Fully Convolutional Network for Instance Segmentation ([paper](https://arxiv.org/abs/1806.00844))
