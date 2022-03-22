@@ -482,6 +482,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [Building_Identification_Damage_Assessment](https://github.com/welkinland/Building_Identification_Damage_Assessment) - Building Extraction and Damage Assessment from High Resolution Multi-spectral Images `Python`
 - [Fire_Pattern_Analysis_CONUS](https://github.com/welkinland/Fire_Pattern_Analysis_CONUS) - Analysis of fire patterns and drivers in CONUS `Python`
 - [Best Available Pixel](https://github.com/saveriofrancini/bap) - Best Available Pixel calculation using Google Earth Engine `Javascript`
+- [ee-palettes](https://github.com/gee-community/ee-palettes) - A set of common color palettes for Google Earth Engine 
 
 ## Open Data Cube
 
