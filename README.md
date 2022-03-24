@@ -148,6 +148,7 @@ This section full of great code and projects related to processing optical satel
 - [jeolib-pyjeo](https://github.com/ec-jrc/jeolib-pyjeo) - pyjeo is a library for image processing for geospatial data implemented in JRC Ispra. `Python`
 - [pyrgis](https://github.com/PratyushTripathy/pyrsgis) - This repository cointains the source code of the 'pyrsgis' `Python` package. 
 - [EOReader](https://github.com/sertit/eoreader) - Opensource `Python` library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.
+- [LandSurfaceClustering](https://github.com/lhalloran/LandSurfaceClustering) - Land surface classification using remote sensing data with unsupervised machine learning (k-means) `Python`
 
 ### Cloud Native Geospatial
 - [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions
