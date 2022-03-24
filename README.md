@@ -575,6 +575,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [sentinel1-Biodiversity](https://github.com/So-YeonBae/Sentinel1-Biodiversity) - Code, example dataset, and instructions of Sentinel-1 data pre-processing and pixel-based summary statistics used in "Radar vision for mapping forest biodiversity from space" `Python`
 - [Step by step: Radar-based flood mapping with Python](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-flood-mapping/python-step-by-step) and [github link](https://github.com/UN-SPIDER/radar-based-flood-mapping) - This repository contains a Jupyter Notebook for automatic flood extent mapping using space-based information. `Python`
 - [STAC Sentinel1](https://github.com/stactools-packages/sentinel1) - stactools package for working with sentinel1 data `Python`
+- [sarsen](https://github.com/bopen/sarsen) - Algorithms and utilities for Synthetic Aperture Radar (SAR) sensors 
 
 ## LiDAR
 
