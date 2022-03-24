@@ -404,6 +404,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [TorchGeo](https://github.com/microsoft/torchgeo) - Extension of PyTorch that includes datasets, transforms, and models for geospatial data. `Python`
 - [simrdwn](https://github.com/CosmiQ/simrdwn) - CosmiQ Works rapid satellite imagery object detection
 - [crop-mask](https://github.com/nasaharvest/crop-mask) - End-to-end workflow for generating high resolution cropland maps  `Python`
+- [road_detection_mtl](https://github.com/ntelo007/road_detection_mtl) - Road Detection from Remote Sensing Imagery using Deep Learning Techniques `Python`
 
 ## GDAL of course
 
