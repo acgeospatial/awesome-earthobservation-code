@@ -168,7 +168,8 @@ This section full of great code and projects related to processing optical satel
   - [stackstac](https://github.com/gjoseph92/stackstac) - Turn a list of STAC items into a 4D xarray DataArray `Python`
   - [stac-nb](https://github.com/darrenwiens/stac-nb) - STAC in Jupyter Notebooks `Python`
   - [qgis-stac-plugin](https://github.com/stac-utils/qgis-stac-plugin) - QGIS plugin for reading STAC APIs `Python`
-- 
+  - [easystac](https://github.com/cloudsen12/easystac) - A `Python` package for simple STAC queries 
+
 #### COG
 - [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service
 - [titiler](https://github.com/developmentseed/titiler) - A modern dynamic tile server built on top of `FastAPI` and `Rasterio/GDAL`.
@@ -508,6 +509,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
   - [PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples) - Examples of using the Planetary Computer `Python`
   - [sdk-python](https://github.com/microsoft/planetary-computer-sdk-for-python) - Planetary Computer SDK for `Python` 
 - [planetary-computer-deep-dives](https://github.com/TomAugspurger/planetary-computer-deep-dives) - `Python`
+- [pearl-backend](https://github.com/developmentseed/pearl-backend) - PEARL (Planetary Computer Land Cover Mapping) Platform API and Infrastructure `Python`
 
 
 ## QGIS and Grass
