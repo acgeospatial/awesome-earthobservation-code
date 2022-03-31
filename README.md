@@ -645,6 +645,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [crowdAI misisng maps challenge](https://www.crowdai.org/challenges/mapping-challenge) - Building Missing Maps with Machine Learning
   - [openAI solution](https://github.com/neptune-ai/open-solution-mapping-challenge) - Open solution to the Mapping Challenge
 - [AtmosHack2018](https://github.com/wekeo/AtmosHack2018) - Contains information and resources for Copernicus Hackathon 2018 in Helsinki
+- [drivendataorg - cloud-cover-winners](https://github.com/drivendataorg/cloud-cover-winners) - Code from the winning submissions for the On Cloud N: Cloud Cover Detection Challenge 
 
 ## ARD links
 
