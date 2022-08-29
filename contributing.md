@@ -61,3 +61,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - Scott Staniewicz (https://github.com/scottstanie) - pull request
 - Rémi Braun (https://github.com/remi-braun) - pull request
 - Gennadii Donchyts (https://twitter.com/gena_d) - pointed me at ee-palettes 
+- Marco Wolsza (https://github.com/maawoo) - pull request
