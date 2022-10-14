@@ -487,31 +487,22 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [HMS-Smoke](https://github.com/tianjialiu/HMS-Smoke) - HMS Smoke Explorer: To visualize NOAA's Hazard Mapping System (HMS) smoke product `Javascript`
 - [Building_Identification_Damage_Assessment](https://github.com/welkinland/Building_Identification_Damage_Assessment) - Building Extraction and Damage Assessment from High Resolution Multi-spectral Images `Python`
 - [Fire_Pattern_Analysis_CONUS](https://github.com/welkinland/Fire_Pattern_Analysis_CONUS) - Analysis of fire patterns and drivers in CONUS `Python`
-- [Best Available Pixel](https://github.com/saveriofrancini/bap) - Best Available Pixel calculation using Google Earth Engine `Javascript`
-- [ee-palettes](https://github.com/gee-community/ee-palettes) - A set of common color palettes for Google Earth Engine 
 
 ## Open Data Cube
 
 - [Opendatacube](https://github.com/opendatacube)
-  - [Datacube Core](https://github.com/opendatacube/datacube-core) - The Open Data Cube (ODC) makes analysing continental scale Earth Observation data through time easier
-  - [Datacube Notebooks](https://github.com/opendatacube/datacube-notebooks) - Extra documentation about using the ODC with Jupyter Notebooks
-  - [Datacube Explorer](https://github.com/opendatacube/datacube-explorer) - An ODC metadata browser that includes a STAC API and extent visualisations
-  - [ODC Tools](https://github.com/opendatacube/odc-tools) - a suite of Python apps and libraries that help you use the ODC or EO data in a wide range of applications
+  - [Datacube Core](https://github.com/opendatacube/datacube-core) - Open Data Cube analyses continental scale Earth Observation data through time
+  - [Datacube Explorer](https://github.com/opendatacube/datacube-core) - A web frontend for viewing the Open Data Cube index, including searching for scenes and downloading individual files
+  - [Datacube OWS](https://github.com/opendatacube/datacube-ows) - Open web services for the Open Data Cube. Supports WMS, WMTS and WCS for any dataset indexed into the ODC.
+- [ODC STAC](https://github.com/opendatacube/odc-stac) - A stand-alone Python library that allows the loading of STAC Items into an ODC-compatible Xarray
+- [data_cube_notebooks](https://github.com/ceos-seo/data_cube_notebooks) - Jupyter Notebook examples for our Data Cube capable algorithms and functions `Python`
 - [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with Open Data Cube and `xarray` `Python`
-- [Digital Earth Africa Notebooks](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks) - Repository for Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with the Open Data Cube and `xarray` `Python`, this time with a focus on Africa
-- [Google Earth Engine Python examples](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples) - Various examples for Google Earth Engine in `Python` using Jupyter Notebook
+- [Digital Earth Africa Sandbox Notebooks](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks) - Extra documentation about using ODC with Jupyter Notebooks with DE Africa-specific examples
 
-## Planetary Computer
+## Other Datacubes
 
-** new and under dev **
-- [Sentinel2 on planetary computer](https://github.com/Element84/geo-notebooks/blob/main/notebooks/odc-planetary-computer.ipynb) - notebook explores Sentinel-2 data on Microsoft's Planetary Computer `Python`
-- [mircosoft](https://github.com/microsoft) - Microsoft git repo
-  - [reading-stac](https://planetarycomputer.microsoft.com/docs/quickstarts/reading-stac/) - Reading Data from the STAC API
-  - [PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples) - Examples of using the Planetary Computer `Python`
-  - [sdk-python](https://github.com/microsoft/planetary-computer-sdk-for-python) - Planetary Computer SDK for `Python` 
-- [planetary-computer-deep-dives](https://github.com/TomAugspurger/planetary-computer-deep-dives) - `Python`
-- [pearl-backend](https://github.com/developmentseed/pearl-backend) - PEARL (Planetary Computer Land Cover Mapping) Platform API and Infrastructure `Python`
-
+- [Google Earth Engine Python examples](https://github.com/renelikestacos/Google-Earth-Engine-Python-Examples) - Various examples for Google Earth Engine in `Python` using Jupyter Notebook 
+- [stackstac](https://github.com/gjoseph92/stackstac) - Turn a STAC catalog into a dask-based xarray `Python`
 
 ## QGIS and Grass
 
