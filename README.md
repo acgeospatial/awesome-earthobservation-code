@@ -144,7 +144,6 @@ This section full of great code and projects related to processing optical satel
 - [nansat-lite](https://gitlab.com/jobel-open-source/nansat-lite) - nansat-lite is not a full nansat build for `Python` 3.5. Only bits of code from main classes, to start with. Eventually, if need it, more code will be added.
 - [IEO](https://github.com/DrGuy/ieo) - Irish Earth Observation (IEO) remote sensing data processing Python module `Python`
 - [IEOtools](https://github.com/DrGuy/IEOtools) - Tools for managing Earth observation data. Currently only supports Landsat imagery `Python`
-- [xcube-gen and xcube-geodb](https://eurodatacube.com/marketplace/notebooks/contributions/EDC_demo_phi-week_v1.ipynb) - In this Notebook we present how to, Access data via xcube-sh with a short excursion to the xcube Generator User Interface Use xcube-geodb.
 - [pykic](https://github.com/EkicierNico/pykic) - 'Python' module for remote sensing and GIS domain (image/signal, vector, miscellaneous processing)
 - [ukis-csmask](https://github.com/dlr-eoc/ukis-csmask) - masks clouds and cloud shadows in Sentinel-2, Landsat-8, Landsat-7 and Landsat-5 images `Python`
 - [jeolib-pyjeo](https://github.com/ec-jrc/jeolib-pyjeo) - pyjeo is a library for image processing for geospatial data implemented in JRC Ispra. `Python`
