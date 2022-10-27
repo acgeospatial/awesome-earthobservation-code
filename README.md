@@ -59,6 +59,9 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 - [openeo-processes](https://github.com/Open-EO/openeo-processes) - Interoperable processes for openEO's big Earth observation cloud processing [website](https://processes.openeo.org/)
 
 ## Remote Sensing.info
+
+<b> These links are all currently down 27th October 2022 </b>
+
 remotesening.info warrents its own section, the vast array of tools and processing software is incredible
 [RemoteSensing.info](https://remotesensing.info/) - Short tutorials and reference to useful software tools for the acquisition and processing of remote sensed Earth Observation data
 - [RSGISLib](https://www.rsgislib.org/) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using `Python` bindings.
