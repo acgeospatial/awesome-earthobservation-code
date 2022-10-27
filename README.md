@@ -60,13 +60,13 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 
 ## Remote Sensing.info
 
-<b> These links are all currently down 27th October 2022 </b>
+<b> All links have been changed - update your pointers Oct 2022 </b>
 
 remotesening.info warrents its own section, the vast array of tools and processing software is incredible
-[RemoteSensing.info](https://remotesensing.info/) - Short tutorials and reference to useful software tools for the acquisition and processing of remote sensed Earth Observation data
-- [RSGISLib](https://www.rsgislib.org/) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using `Python` bindings.
-- [ARCSI](https://arcsi.remotesensing.info/) - link currently broken
-- [eodatadown](https://eodatadown.remotesensing.info/) - The Earth Observation Data Downloader (EODataDown) is a tool for automatically downloading and processing EO data to an analysis ready data product. This software forms a core component of a monitoring system based on EO data.
+[RemoteSensing](https://github.com/remotesensinginfo) - Short tutorials and reference to useful software tools for the acquisition and processing of remote sensed Earth Observation data
+- [RSGISLib](http://rsgislib.org/rsgislib.html) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using `Python` bindings.
+- [ARCSI](https://github.com/remotesensinginfo/arcsi) - Software to automate the production of optical analysis ready data (ARD) from Landsat, Sentinel-2 and others
+- [eodatadown](https://github.com/remotesensinginfo/eodatadown) - The Earth Observation Data Downloader (EODataDown) is a tool for automatically downloading and processing EO data to an analysis ready data product. This software forms a core component of a monitoring system based on EO data.
 - more to come..
 
 ## `Python` processing of optical imagery (non deep learning)
