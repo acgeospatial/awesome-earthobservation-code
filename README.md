@@ -408,7 +408,6 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [GEE Map](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
 - [cloud frequency app](https://github.com/robintw/CloudFrequencyApp) - CloudFrequency webapp, using Google App Engine `Python` `JavaScript`
 - [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for `R` [docs](https://csaybar.github.io/rgee/)
-- [Landsat-Project-cost-Estimator](https://github.com/philippgaertner/Landsat-Project-Cost-Estimator) - Calculate the cost of a Landsat based project, if the data wasn't freely available. `Javascript`
 - [ee-tensorflow-notebooks](https://github.com/gee-community/ee-tensorflow-notebooks) - Repository to place example notebooks for Deep Learning applications with TensorFlow and Earth Engine.
 - [remote-sensing-resistance](https://github.com/mikoontz/remote-sensing-resistance) - Does heterogeneity in forest structure make a forest resistant to wildfire?
 - [GoogleEarthEngine](https://github.com/evan-delancey/GoogleEarthEngine) - forestry related work
