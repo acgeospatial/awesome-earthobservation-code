@@ -341,68 +341,14 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 
 #### Curated lists
 
-- [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning.
+This link is the best place to go for this topic [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery
+
+- [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning. `ARCHIVED REPO`
 - [Deep Vector](https://github.com/deepVector/geospatial-machine-learning) - A curated list of resources focused on Machine Learning in Geospatial Data Science.
-- [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery
 
 #### Labelling
 - [satellite-imagery-labeling-tool](https://github.com/microsoft/satellite-imagery-labeling-tool) - This is a lightweight web-interface for creating and sharing vector annotations over satellite/aerial imagery scenes. 
 
-#### Specific examples
-
-- [TernausNetV2](https://github.com/ternaus/TernausNetV2) - TernausNetV2: Fully Convolutional Network for Instance Segmentation ([paper](https://arxiv.org/abs/1806.00844))
-- [CNN-Sentinel](https://github.com/jensleitloff/CNN-Sentinel) -Analyzing Sentinel-2 satellite data in Python with Keras (repository of our talks at Minds Mastering Machines 2019 and PyCon 2018)
-- [Image patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - Using a U-Net for image segmentation, blending predicted patches smoothly is a must to please the human eye.
-- [Fast AI Satellite imagery resources](https://forums.fast.ai/t/geospatial-deep-learning-resources-study-group/31044)
-- [Crop yield prediction](https://github.com/meet-sapu/Crop-Yield-Prediction-Using-Satellite-Imagery) - The motive here is to predict the yield of crops of a particular farm by the change in pixels of the image of farm yearly. Uses Tensorflow
-- [Houston Flooding with deep learning](https://github.com/Lichtphyz/Houston_flooding) - Using A Segmentation Neural Net to map out flooded areas of Houston TX using satellite imagery
-- [Satellite Imagery Classification with R](https://github.com/kkgadiraju/SatelliteImageClassification) - Pixel based classification of satellite imagery - feature generation using Orfeo Toolbox, feature selection using Learning Vector Quantization, CLassification using Decision Tree, Neural Networks, Random Forests, KNN and Naive Bayes Classifier
-- [SpaceNet building detection](https://github.com/motokimura/spacenet_building_detection) - Project to train/test convolutional neural networks to extract buildings from SpaceNet satellite imageries.
-- [Road segmentation](https://github.com/Paulymorphous/Road-Segmentation) - Road Detection in satellite imagery. Semantic segmentation is the process of classifying each pixel of an image into distinct classes using deep learning. This aids in identifying regions in an image where certain objects reside. This aim of this project is to identify and segment roads in aerial imagery. Detecting roads can be an important factor in predicting further development of cities, and this concept plays a major role in GeoArchitect (A project which I started). Segmentation of roads is important to map-based applications and is used for finding distances or shortest routes between two places.
-- [Super resolution (srcnn)](https://github.com/WarrenGreen/srcnn) - Super Resolution for Satellite Imagery
-- [Pixel decoder](https://github.com/Geoyi/pixel-decoder) - A tool of running deep learning algorithms for semantic segmentation with satellite imagery
-- [Detecting ships](https://github.com/ucalyptus/Detecting-Ships) - Using Satellite Imagery to detect ships (Basic Object Detection)
-- [deepOSM](https://github.com/trailbehind/DeepOSM) - Train a deep learning net with OpenStreetMap features and satellite imagery.
-- [Keras for computer vision (Maxime Lenormand GitHub)](https://github.com/MaxLenormand/Keras-for-computer-vision) - Introductions to Keras to perform computer vision tasks, with data exploration, error analysis and improving results.
-- [Airplane image classification](https://medium.com/@kylepob61392/airplane-image-classification-using-a-keras-cnn-22be506fdb53) - This article details building a ML pipeline to classify the presence of planes in satellite images using a Convolutional Neural Network (CNN).
-- [TorchSat](https://github.com/sshuair/torchsat) - an open-source deep learning framework for satellite imagery analysis based on PyTorch. `Python` [docs](https://torchsat.readthedocs.io/en/latest/)
-- [ml_drought](https://github.com/esowc/ml_drought) - Machine learning to better predict and understand drought `Python`. [docs](https://ml-clim.github.io/drought-prediction/)
-- [pycrop yield prediction](https://github.com/gabrieltseng/pycrop-yield-prediction) - A PyTorch Implementation of Jiaxuan You's Deep Gaussian Process for Crop Yield Prediction `Python`
-- [dfc2020_baseline](https://github.com/lukasliebel/dfc2020_baseline) - Simple Baseline for the IEEE GRSS Data Fusion Contest 2020 `Python`
-- [Planesnet](https://github.com/rhammell/planesnet) - Labeled training data for detection of aircraft in Planet satellite imagery
-- [Planesnet detector](https://github.com/rhammell/planesnet-detector) - Detect airplanes in Planet imagery using machine learning
-- [shipsnet](https://github.com/rhammell/shipsnet-detector) - Detect container ships in Planet imagery using machine learning
-- [Deep Learning for satellite imagery](https://github.com/shakasom/Deep-Learning-for-Satellite-Imagery) - Deep learning courses and projects
-- [DeepNetsForEO](https://github.com/nshaud/DeepNetsForEO) - Deep networks for Earth Observation
-- [mlhub-tutorials](https://github.com/radiantearth/mlhub-tutorials) - Tutorials to access Radiant MLHub Training Datasets `Python` [mlhub](https://mlhub.earth/)
-- [EO Learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python
-- [LabelMaker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning [docs](http://devseed.com/label-maker/) `Python`
-- [Solaris](https://github.com/cosmiq/solaris) - CosmiQ Works Geospatial Machine Learning Analysis Toolkit [docs](https://solaris.readthedocs.io/en/latest/)
-- [SpaceNet6 Baseline](https://github.com/CosmiQ/CosmiQ_SN6_Baseline) - Baseline algorithm for the SpaceNet 6 Challenge
-- [Robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery. Extracts features such as: buildings, parking lots, roads, water, clouds
-- [EO flow](https://github.com/sentinel-hub/eo-flow) - Collection of TensorFlow 2.0 code for Earth Observation applications
-- [Azavea - RasterVision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
-- [raster-vision-aws](https://github.com/azavea/raster-vision-aws) - A CloudFormation template for deploying Raster Vision Batch jobs to AWS.
-- [TensorBoard with sat imagery](https://up42.com/blog/tech/using-tensorboard-while-training-land-cover-models-with-satellite-imagery) - training land cover segmentation models with high resolution satellite imagery and how to use TensorBoard to create a visual understanding of model training.
-- [predicting_poverty](https://github.com/nealjean/predicting-poverty) - Combining satellite imagery and machine learning to predict poverty [website](http://sustain.stanford.edu/predicting-poverty)
-- [satellite led liverpool](https://github.com/darribas/satellite_led_liverpool) - Data and code for the paper "Remote Sensing-Based Measurement of Living Environment Deprivation - Improving Classical Approaches with Machine Learning", by Dani Arribas-Bel, Jorge Patiño and Juanca Duque
-- [pixel_level_land_classification](https://github.com/Azure/pixel_level_land_classification) - Tutorial demonstrating how to create a semantic segmentation (pixel-level classification) model to predict land cover from aerial imagery. This model can be used to identify newly developed or flooded land. Uses ground-truth labels and processed NAIP imagery provided by the Chesapeake Conservancy.
-- [satellite-image-object-detection](https://github.com/marcbelmont/satellite-image-object-detection) - YOLO/YOLOv2 inspired deep network for object detection on satellite images (Tensorflow, Numpy, Pandas). `Python`
-- [contrastive_sensor_fusion](https://github.com/descarteslabs/contrastive_sensor_fusion) - Open-source code for the paper "Representation Learning for Remote Sensing: An Unsupervised Sensor Fusion Approach ". `Python`
-- [ai4eo](https://github.com/ESA-PhiLab/ai4eo) - `Python` routines for Machine Learning applications for Earth Observation
-- [NGVEO](https://github.com/ESA-PhiLab/NGVEO) - Deep learning for Earth Observation `Python`
-- [iris](https://github.com/ESA-PhiLab/iris) - Semi-automatic tool for manual segmentation of multi-spectral and geo-spatial imagery.
-- [ESRCNN-for-Landsat8-Sentinel2-Fusion](https://github.com/MrCPlusPlus/ESRCNN-for-Landsat8-Sentinel2-Fusion) - ESRCNN-for-Landsat8-Sentinel2-Fusion
-- [urban-environments](https://github.com/adrianalbert/urban-environments) - Code for constructing the urban environments dataset and for land use classification via convolutional neural networks `Python`
-- [AIforEarth-API-Development](https://github.com/microsoft/AIforEarth-API-Development) - This is an API Framework for AI models to be hosted locally or on the AI for Earth API Platform `Python`
-- [ai4eutils](https://github.com/microsoft/ai4eutils) - Shared utility scripts for AI for Earth projects and team members `Python`
-- [odeon-landcover](https://gitlab.com/dai-projets/odeon-landcover) - ODEON stands for Object Delineation on Earth Observations with Neural network. It is a set of command-line tools performing semantic segmentation on remote sensing images (aerial and/or satellite) with as many layers as you wish `Python`. You may need to inspect development branches to learn more.
-- [SAR2NDVI_CNN](https://github.com/antoniomazza88/SAR2NDVI_CNN) - A CNN is trained to perform the estimation of the NDVI, using coupled Sentinel-1 and Sentinel-2 time-series. `Python`
-- [Museo Toolbox](https://github.com/nkarasiak/MuseoToolBox) - A library to simplify the use of raster/vector, especially for machine learning and remote sensing. `Python`
-- [TorchGeo](https://github.com/microsoft/torchgeo) - Extension of PyTorch that includes datasets, transforms, and models for geospatial data. `Python`
-- [simrdwn](https://github.com/CosmiQ/simrdwn) - CosmiQ Works rapid satellite imagery object detection
-- [crop-mask](https://github.com/nasaharvest/crop-mask) - End-to-end workflow for generating high resolution cropland maps  `Python`
-- [road_detection_mtl](https://github.com/ntelo007/road_detection_mtl) - Road Detection from Remote Sensing Imagery using Deep Learning Techniques `Python`
 
 ## GDAL of course
 
