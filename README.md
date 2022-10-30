@@ -368,7 +368,6 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [TorchSat](https://github.com/sshuair/torchsat) - an open-source deep learning framework for satellite imagery analysis based on PyTorch. `Python` [docs](https://torchsat.readthedocs.io/en/latest/)
 - [ml_drought](https://github.com/esowc/ml_drought) - Machine learning to better predict and understand drought `Python`. [docs](https://ml-clim.github.io/drought-prediction/)
 - [pycrop yield prediction](https://github.com/gabrieltseng/pycrop-yield-prediction) - A PyTorch Implementation of Jiaxuan You's Deep Gaussian Process for Crop Yield Prediction `Python`
-- [neat-EO](https://datapink.io/datapink/neat-EO/) - Efficient AI4EO OpenSource framework `Python`
 - [dfc2020_baseline](https://github.com/lukasliebel/dfc2020_baseline) - Simple Baseline for the IEEE GRSS Data Fusion Contest 2020 `Python`
 - [Planesnet](https://github.com/rhammell/planesnet) - Labeled training data for detection of aircraft in Planet satellite imagery
 - [Planesnet detector](https://github.com/rhammell/planesnet-detector) - Detect airplanes in Planet imagery using machine learning
