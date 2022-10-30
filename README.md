@@ -261,7 +261,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [ForestTools](https://github.com/andrew-plowright/ForestTools) - Detect and segment individual tree from remotely sensed data
 - [lidR](https://github.com/Jean-Romain/lidR) - `R` package for airborne LiDAR data manipulation and visualisation for forestry application. Plus [lidRplugins](https://github.com/Jean-Romain/lidRplugins) - Extra functions and algorithms for lidR package
 - [Spatiotemporal Arrays: Raster and Vector Datacubes](https://github.com/r-spatial/stars) - Spatiotemporal Arrays, Raster and Vector Data Cube
-- [getSpatialData](https://github.com/16EAGLE/getSpatialData) - An `R` package making it easy to query, preview, download and preprocess multiple kinds of spatial data [docs](http://jxsw.de/getSpatialData/)
+- [getSpatialData](https://github.com/16EAGLE/getSpatialData) - An `R` package making it easy to query, preview, download and preprocess multiple kinds of spatial data [docs](https://jakob.schwalb-willmann.de/getSpatialData/)
 - [RStoolbox](https://bleutner.github.io/RStoolbox/) - RStoolbox is a R package providing a wide range of tools for your every-day remote sensing processing needs.
 - [rHarmonics](https://github.com/MBalthasar/rHarmonics) - `R` package for harmonic modelling of time-series data
 - [rerddap](https://github.com/ropensci/rerddap) - `R` client for working with ERDDAP servers [docs](https://docs.ropensci.org/rerddap/) reference the [ERDDAP Server](https://upwell.pfeg.noaa.gov/erddap/index.html)
