@@ -6,6 +6,8 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
   <img width="300" height="300" src="https://geogerservices.files.wordpress.com/2018/06/scenefromabovepodcast.jpg?w=300&h=300">
 </p>
 
+The #scenefromabove podcast aimed to be a mix of news, opinion, discussion and interviews. I am no longer involved in the podcast, however it is still going<br>
+
 ## Latest news
 
 I have written a blog post about how this repo came into being. It includes a video of a talk I gave about it AND a podcast episode devoted to it. http://www.acgeospatial.co.uk/awesome-earthobservation-code/
@@ -20,11 +22,10 @@ Annotations are based on the headers - and where available - on the github accou
 
 <div align="center">
 
-# [Scene From Above Podcast](http://scenefromabove.org/)
+
 
 </div>
 
-The #scenefromabove podcast aims to be a mix of news, opinion, discussion and interviews. I am no longer involved in the podcast, however it is still going<br>
 
 # Contents
 
