@@ -22,8 +22,7 @@ Annotations are based on the headers - and where available - on the github accou
 
 </div>
 
-Alastair Graham [@ajggeoger](https://twitter.com/ajggeoger) and Andrew Cutts [@map_andrew](https://twitter.com/map_andrew) come together to present an informal podcast [@eoscenefrom](https://twitter.com/eoscenefrom) looking at the world of modern remote sensing and EO.
-Fuelled by their passion for all things raster and geospatial, the #scenefromabove podcast aims to be a mix of news, opinion, discussion and interviews. <br>
+The #scenefromabove podcast aims to be a mix of news, opinion, discussion and interviews. I am no longer involved in the podcast, however it is still going<br>
 
 # Contents
 
