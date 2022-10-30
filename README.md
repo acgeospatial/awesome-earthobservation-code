@@ -182,7 +182,6 @@ This section full of great code and projects related to processing optical satel
 - [cogeotiff](https://github.com/blacha/cogeotiff) - High performance cloud optimised geotiff reader
 - [ecw-converter](https://github.com/lifebit-ai/ecw-converter) - Dockerised `Python` scripts & Nextflow pipeline for converting ecw files to either geotiffs or Cloud Optimised Geotiffs (COGs) 
 - [COG pptx/pdf](https://github.com/saheelBreezo/Cloud-Optimised-Geotiff/blob/master/Talk/Cloud_Optimized_GeoTIFF_Blue_Sky_Analytics.pdf) - talk on COG
-- [gocog](https://github.com/terrascope/gocog) - A Cloud Optimised GeoTIFF reader written in `Go` 
 
 ### Case studies / Projects
 
