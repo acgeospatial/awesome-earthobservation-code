@@ -647,7 +647,6 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 This section is aimed more a data science/programming resources that 'might' be applicable to Earth Observation, that are <b>not </b>Python
 
 - [Efficient R programming](https://csgillespie.github.io/efficientR/) - This is the online version of the O’Reilly book: Efficient R programming. Code is [here](https://github.com/csgillespie/efficientR)
-- [jupyterhub-platform-tutorials](https://github.com/luigidifraia/jupyterhub-platform-tutorials) = Tutorials to install and manage JupyterHub platforms with Kubernetes
 
 ## Data
 
