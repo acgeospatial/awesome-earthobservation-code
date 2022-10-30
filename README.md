@@ -583,7 +583,6 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [challenges 2020](https://github.com/esowc/challenges_2020) - ECMWF Summer of Weather Code 2020 challenges
 - [challenges 2021](https://github.com/esowc/challenges_2021) - ECMWF Summer of Weather Code 2021 challenges
 - [Julia Wagemann github](https://github.com/jwagemann) - Making open meteorological and climate data better accessible. `Python`, `Jupyter` and `R`. 
-- [SpaceNet](https://spacenetchallenge.github.io/) - See also CosmiQ Works blog the downlinq
 - See also [Sentinel hub competitions](https://www.sentinel-hub.com/develop/community/contest/)
 <br><i>'older' competitions of note</i></br>
 - [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/overview) - Use satellite data to track the human footprint in the Amazon rainforest
