@@ -12,7 +12,9 @@ I have written a blog post about how this repo came into being. It includes a vi
 
 Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
 
-<b> Update October / November 2022</b> Currently undergoing review and purge of dead links. I hope this is completed end Nov 2022. If you find a resource missing let me know and I will add, I accept PR's and you get a mention in the contributors file.
+<b> Update October / November 2022</b> All dead links have been purged! If you find a resource missing let me know and I will add, I accept PR's and you get a mention in the contributors file.
+
+<b> A note of caution </b> During the QC of links I note that the vast majority are 18 + months old or considerbly older. Some repos are retired and still visible, some code is > 10 years old. Tread carefully.
 
 Annotations are based on the headers - and where available - on the github accounts
 
