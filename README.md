@@ -341,7 +341,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 
 #### Curated lists
 
-This link is the best place to go for this topic [Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery
+[Robin Cole on satellite imagery and deep learning resources](https://github.com/robmarkcole/satellite-image-deep-learning) - Resources for deep learning with satellite & aerial imagery. <b>This is the best place to go for this topic</b> I've removed 95% of the associated links from awesome-eo-code as it is just a repetition.
 
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite image training datasets with annotations for computer vision and deep learning. `ARCHIVED REPO`
 - [Deep Vector](https://github.com/deepVector/geospatial-machine-learning) - A curated list of resources focused on Machine Learning in Geospatial Data Science.
