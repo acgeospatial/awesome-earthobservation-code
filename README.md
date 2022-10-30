@@ -6,11 +6,11 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
   <img width="300" height="300" src="https://geogerservices.files.wordpress.com/2018/06/scenefromabovepodcast.jpg?w=300&h=300">
 </p>
 
-## This list was started based on #scenefromabove podcast lunchtime discussions
+## Latest news
 
 I have written a blog post about how this repo came into being. It includes a video of a talk I gave about it AND a podcast episode devoted to it. http://www.acgeospatial.co.uk/awesome-earthobservation-code/
 
-Please note that this is <b>not</b> offically an awesome list (yet). Please help me to get it there by contributing and commenting. [guidelines](https://github.com/sindresorhus/awesome/blob/main/contributing.md)
+Please note that this is <b>not</b> offically an awesome list.
 
 <b> Update October / November 2022</b> All dead links have been purged! If you find a resource missing let me know and I will add, I accept PR's and you get a mention in the contributors file.
 
