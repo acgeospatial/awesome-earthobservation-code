@@ -17,5 +17,6 @@ jobs:
       with:
         use-quiet-mode: 'no'
         use-verbose-mode: 'yes'
-        config-file: '.mlc_config.json'
+        config-file: '.github/workflows/markdown.links.config.json'
+        max-depth: 0
         file-path: './README.md'
