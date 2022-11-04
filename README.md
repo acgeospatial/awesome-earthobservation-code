@@ -281,6 +281,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [What_are_data_cubes](https://edzer.github.io/UseR2020/#What_are_data_cubes) - Analyzing and visualising spatial and spatiotemporal data cubes - Part I
 - [classifying_satellite_imagery_in_R](https://urbanspatial.github.io/classifying_satellite_imagery_in_R/) - For this tutorial, we use Landsat 8 imagery from Calgary
 - [planetR](https://github.com/bevingtona/planetR) - `R` tools to search, activate and download satellite imagery from the Planet API. 
+- [Landsat_land_surface_temperature](https://github.com/alyssakullberg/Landsat_land_surface_temperature) - `R` Estimate land surface temperature using Landsat satellite imagery. 
 
 ## Languages other than `Python` and `R`
 
