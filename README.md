@@ -195,6 +195,7 @@ This section full of great code and projects related to processing optical satel
 - [ap-latem](https://github.com/dymaxionlabs/ap-latam) - Detection of slums and informal settlements from satellite imagery `Python`
 - [local_structire_wpb-severity](https://github.com/mikoontz/local-structure-wpb-severity) - Analysis of drone imagery to characterize forest structure and severity of a tree killing insect `Python`
 - [Truck_Detection_Sentinel2_COVID19](https://github.com/hfisser/Truck_Detection_Sentinel2_COVID19) - This repository is designated to detecting trucks using Sentinel-2 data. `Python`
+- [Artificial Intelligence for Geospatial Analysis with Pytorch’s TorchGeo (multi parts)](https://towardsdatascience.com/artificial-intelligence-for-geospatial-analysis-with-pytorchs-torchgeo-part-1-52d17e409f09) - An end-to-end deep learning geospatial segmentation project using Pytorch and TorchGeo packages - [code](https://gist.github.com/cordmaur/d050973aa3ed980023e9239183a2cb66#file-earthsurfacewater_medium_2-ipynb)
 
 ### Company specific examples
 
