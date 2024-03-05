@@ -14,7 +14,7 @@ I have written a blog post about how this repo came into being. It includes a vi
 
 Please note that this is <b>not</b> offically an awesome list.
 
-<b> Update October / November 2022</b> All dead links have been purged! If you find a resource missing let me know and I will add, I accept PR's and you get a mention in the contributors file.
+<b> Update March 2024</b> Added a load of STAC links. I accept PR's and you get a mention in the contributors file.
 
 <b> A note of caution </b> During the QC of links I note that the vast majority are 18 + months old or considerbly older. Some repos are retired and still visible, some code is > 10 years old. Tread carefully.
 
@@ -165,12 +165,35 @@ This section full of great code and projects related to processing optical satel
     - [pystac-client](https://github.com/stac-utils/pystac-client) - `Python` client for STAC Catalogs and APIs
   - [pgstac](https://github.com/stac-utils/pgstac) - Schema, functions and a `Python` library for storing and accessing STAC collections and items in `PostgreSQL` 
   - [stac-fastapi](https://github.com/stac-utils/stac-fastapi) - STAC API implementation with FastAPI. `Python`
+  - [stac-fastapi-pgstac](https://github.com/stac-utils/stac-fastapi-pgstac) - PostgreSQL backend for stac-fastapi using pgstac
   - [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
-  - [stac-validator](https://github.com/sparkgeo/stac-validator) - Validator for the stac-spec `Python`
+  - [stac-validator](https://github.com/stac-utils/stac-validator)) - Validator for the stac-spec `Python`
   - [stackstac](https://github.com/gjoseph92/stackstac) - Turn a list of STAC items into a 4D xarray DataArray `Python`
   - [stac-nb](https://github.com/darrenwiens/stac-nb) - STAC in Jupyter Notebooks `Python`
   - [qgis-stac-plugin](https://github.com/stac-utils/qgis-stac-plugin) - QGIS plugin for reading STAC APIs `Python`
-  - [easystac](https://github.com/cloudsen12/easystac) - A `Python` package for simple STAC queries 
+  - [easystac](https://github.com/cloudsen12/easystac) - A `Python` package for simple STAC queries
+  - [stac-utils](https://github.com/stac-utils/stac-task) - Provides a class interface for running custom algorithms on STAC ItemCollections `Python`
+  - [pgstac](https://github.com/stac-utils/pgstac) - Schema, functions and a python library for storing and accessing STAC collections and items in PostgreSQL
+  - [pystac-client](https://github.com/stac-utils/pystac-client) - `Python` client for searching STAC APIs
+  - [stac-asset](https://github.com/stac-utils/stac-asset) - Read and download STAC Assets, using a variety of authentication schemes
+  - [stac-server](https://github.com/stac-utils/stac-server) - A Node-based STAC API, AWS Serverless, OpenSearch `Javascript`
+  - [elastic search](https://github.com/stac-utils/stac-fastapi-elasticsearch-opensearch) - Elasticsearch backend for stac-fastapi with Opensearch support. `Python`
+  - [stac4s](https://github.com/stac-utils/stac4s) - A `Scala` library with primitives to build applications using the SpatioTemporal Asset Catalogs specification
+  - [stac-rs](https://github.com/stac-utils/stac-rs) - `Rust` implementation of the SpatioTemporal Asset Catalog (STAC) specification
+  - [stac-table](https://github.com/stac-utils/stac-table)
+  - [stac-fields](https://github.com/stac-utils/stac-fields) - A minimal STAC library that contains a list of STAC fields with some metadata and helper functions for styling as HTML. `Javascript`
+  - [titiler-pgstac](https://github.com/stac-utils/titiler-pgstac) - TiTiler + PgSTAC
+  - [stac-api-validator](https://github.com/stac-utils/stac-api-validator) - A STAC API validation client `Python`
+  - [xpystac](https://github.com/stac-utils/xpystac) - For extending xarray.open_dataset to accept pystac objects `Python`
+  - [stac-pydantic](https://github.com/stac-utils/stac-pydantic) - Pydantic data models for the STAC spec `Python`
+  - [stac-migrate](https://github.com/stac-utils/stac-migrate) - A tool to migrate Items, Catalogs and Collections from old versions to the most recent one. `Javascript`
+  - [stac-node-validator](https://github.com/stac-utils/stac-node-validator) - Simple validator for STAC Items, Catalogs, and Collections. STAC 1.0.0 compliant! `Javascript`
+  - [stac-geoparquet](https://github.com/stac-utils/stac-geoparquet) - Convert STAC items to geoparquet. `Python`
+  - [stac-index](https://github.com/stac-utils/stac-index) - A service that lists all available and registered STAC catalogs and APIs.
+  - [stac-check](https://github.com/stac-utils/stac-check) - Linting and validation tool for STAC assets
+  - [stac-terminal](https://github.com/stac-utils/stac-terminal) - Output info on STAC Items in the terminal
+  - [stac-layer](https://github.com/stac-utils/stac-layer) - Visualize a STAC Item or Collection on a Leaflet Map
+  - [pgstac-rs](https://github.com/stac-utils/pgstac-rs) - `Rust` interface to pgstac
 
 #### COG
 - [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service
