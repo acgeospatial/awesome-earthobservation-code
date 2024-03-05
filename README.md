@@ -167,7 +167,7 @@ This section full of great code and projects related to processing optical satel
   - [stac-fastapi](https://github.com/stac-utils/stac-fastapi) - STAC API implementation with FastAPI. `Python`
   - [stac-fastapi-pgstac](https://github.com/stac-utils/stac-fastapi-pgstac) - PostgreSQL backend for stac-fastapi using pgstac
   - [STAC Spec](https://github.com/radiantearth/stac-spec) - SpatioTemporal Asset Catalog specification - making geospatial assets openly searchable and crawlable
-  - [stac-validator](https://github.com/stac-utils/stac-validator)) - Validator for the stac-spec `Python`
+  - [stac-validator](https://github.com/stac-utils/stac-validator) - Validator for the stac-spec `Python`
   - [stackstac](https://github.com/gjoseph92/stackstac) - Turn a list of STAC items into a 4D xarray DataArray `Python`
   - [stac-nb](https://github.com/darrenwiens/stac-nb) - STAC in Jupyter Notebooks `Python`
   - [qgis-stac-plugin](https://github.com/stac-utils/qgis-stac-plugin) - QGIS plugin for reading STAC APIs `Python`
