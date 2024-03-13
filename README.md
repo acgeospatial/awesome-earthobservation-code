@@ -463,12 +463,17 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 
 - [Opendatacube](https://github.com/opendatacube)
   - [Datacube Core](https://github.com/opendatacube/datacube-core) - Open Data Cube analyses continental scale Earth Observation data through time `Python` `xarray`
-  - [Datacube Explorer](https://github.com/opendatacube/datacube-core) - A web frontend for viewing the Open Data Cube index, including searching for scenes and downloading individual files `Python`
   - [Datacube OWS](https://github.com/opendatacube/datacube-ows) - Open web services for the Open Data Cube. Supports WMS, WMTS and WCS for any dataset indexed into the ODC `Python`
 - [ODC STAC](https://github.com/opendatacube/odc-stac) - A stand-alone Python library that allows the loading of STAC Items into an ODC-compatible Xarray `xarray` `Python`
 - [data_cube_notebooks](https://github.com/ceos-seo/data_cube_notebooks) - Jupyter Notebook examples for our Data Cube capable algorithms and functions `Python`
 - [Digital Earth Australia Notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Jupyter Notebooks, tools and workflows for continental-scale earth observation/geospatial analysis with Open Data Cube and `xarray` `Python`
 - [Digital Earth Africa Sandbox Notebooks](https://github.com/digitalearthafrica/deafrica-sandbox-notebooks) - Extra documentation about using ODC with Jupyter Notebooks with DE Africa-specific examples `xarray` `Python`
+- [odc-tools](https://github.com/opendatacube/odc-tools) - ODC features that DEA is experimenting with or prototyping with the intention of being integrated into odc-core in the future
+- [datacube-explorer](https://github.com/opendatacube/datacube-explorer) - Web-based exploration of Open Data Cube collections
+- [openeo_odc_driver](https://github.com/SARScripts/openeo_odc_driver) - OpenEO processing engine written in `Python` based on OpenDataCube, `Xarray` and `Dask`.
+- [geocube](https://github.com/corteva/geocube) - Tool to convert geopandas vector data into rasterized xarray data `Python`
+- [odc-sh](https://github.com/sentinel-hub/odc-sh) - Sentinel Hub plugin for Open data cube
+- [dea-coastlines](https://github.com/GeoscienceAustralia/dea-coastlines) - Extracting tidally-constrained annual shorelines and robust rates of coastal change from freely available Earth observation data at continental scale 
 
 ## Other Datacube-related Python
 
