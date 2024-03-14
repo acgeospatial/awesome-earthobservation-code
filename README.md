@@ -14,7 +14,7 @@ I have written a blog post about how this repo came into being. It includes a vi
 
 Please note that this is <b>not</b> offically an awesome list.
 
-<b> Update March 2024</b> Added a load of STAC links. I accept PR's and you get a mention in the contributors file.
+<b> Update March 2024</b> Added a load of STAC links and some opendatacube ones. I accept PR's and you get a mention in the contributors file.
 
 <b> A note of caution </b> During the QC of links I note that the vast majority are 18 + months old or considerbly older. Some repos are retired and still visible, some code is > 10 years old. Tread carefully.
 
