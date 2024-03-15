@@ -59,6 +59,8 @@ Two excellent videos (approx 20mins) about `Earth observation`
 
 [How Radar Satellites See through Clouds (Synthetic Aperture Radar Explained)](https://www.youtube.com/watch?v=zMsCyEAOrh0)
 
+Not sure the best place for data catalogs is but this is a good start if that interests you [Data Catalogs](https://github.com/opengeos/geospatial-data-catalogs)
+
 ## Open EO
 
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
@@ -488,14 +490,17 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 
 ## Planetary Computer
 
-** new and under dev **
-- [Sentinel2 on planetary computer](https://github.com/Element84/geo-notebooks/blob/main/notebooks/odc-planetary-computer.ipynb) - notebook explores Sentinel-2 data on Microsoft's Planetary Computer `Python`
-- [mircosoft](https://github.com/microsoft) - Microsoft git repo
+
+- [Mircosoft PlanetaryComputer](https://github.com/microsoft/PlanetaryComputer) - Issues, discussions, and information about the Microsoft Planetary Computer 
   - [reading-stac](https://planetarycomputer.microsoft.com/docs/quickstarts/reading-stac/) - Reading Data from the STAC API
   - [PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples) - Examples of using the Planetary Computer `Python`
   - [sdk-python](https://github.com/microsoft/planetary-computer-sdk-for-python) - Planetary Computer SDK for `Python`
+  - [planetary-computer-apis](https://github.com/microsoft/planetary-computer-apis)
+  - [PlanetaryComputerDataCatalog](https://github.com/microsoft/PlanetaryComputerDataCatalog) - Data catalog for the Microsoft Planetary Computer [website](https://planetarycomputer.microsoft.com/)
 - [planetary-computer-deep-dives](https://github.com/TomAugspurger/planetary-computer-deep-dives) - `Python`
-- [pearl-backend](https://github.com/developmentseed/pearl-backend) - PEARL (Planetary Computer Land Cover Mapping) Platform API and Infrastructure `Python`
+- [Sentinel2 on planetary computer](https://github.com/Element84/geo-notebooks/blob/main/notebooks/odc-planetary-computer.ipynb) - notebook explores Sentinel-2 data on Microsoft's Planetary Computer `Python`
+- [satio-pc](https://github.com/dzanaga/satio-pc) - Compute Sentinel features on Planetary Computer `Python`
+- [gmv planetary computer S2 alerts](https://github.com/globalmangrovewatch/gmw_planetary_computer_s2_alerts) - Repo with the code producing the GMW alerts using the Microsoft Planetary Computer `Python`
 
 ## QGIS and Grass
 
@@ -644,7 +649,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 
 Please do explore these accounts, there are some absolutely brilliant projects on these accounts. This was previously a section containing examples, but these are better grouped into the other headings and repitition of links removed. However I feel its very important to highlight individuals wherever possible, ordered by github account name.
 
-| [Chis Holden github](https://github.com/ceholden) | [Christoph Rieke git hub](https://github.com/chrieke) | [gena github](https://github.com/gena) | [jgomezdans github](https://github.com/jgomezdans) - [blog](http://jgomezdans.github.io/) | [Johntruckhenbrodt github](https://github.com/johntruckenbrodt) | [Marcus Netler on github](https://github.com/neteler) | [Oliverhagolle github](https://github.com/olivierhagolle) | [PerryGeo](https://github.com/perrygeo) | [giswqs - Qiusheng Wu github](https://github.com/giswqs) | [rhammell](https://github.com/rhammell) | [Remote pixel github](https://github.com/RemotePixel) | [robintw](https://github.com/robintw) | [Evan Roualt github](https://github.com/rouault) | [samapriya github](https://github.com/samapriya) | [shakasom github](https://github.com/shakasom) | [yannforget github](https://github.com/yannforget) |
+| [Chis Holden](https://github.com/ceholden) | [Christoph Rieke](https://github.com/chrieke) | [gena](https://github.com/gena) | [jgomezdans](https://github.com/jgomezdans) - [blog](http://jgomezdans.github.io/) | [Johntruckhenbrodt](https://github.com/johntruckenbrodt) | [Marcus Netler](https://github.com/neteler) | [Oliverhagolle](https://github.com/olivierhagolle) | [PerryGeo](https://github.com/perrygeo) | [giswqs - Qiusheng Wu](https://github.com/giswqs) | [rhammell](https://github.com/rhammell) | [Remote pixel](https://github.com/RemotePixel) | [robintw](https://github.com/robintw) | [Evan Roualt](https://github.com/rouault) | [samapriya](https://github.com/samapriya) | [shakasom](https://github.com/shakasom) | [yannforget](https://github.com/yannforget) | [Pete Bunting](https://github.com/petebunting) | [Vincent Sarago](https://github.com/vincentsarago) | 
 
 ## EO Geospatial companies or orgs making big contributions
 
