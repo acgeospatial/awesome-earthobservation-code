@@ -501,6 +501,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [Sentinel2 on planetary computer](https://github.com/Element84/geo-notebooks/blob/main/notebooks/odc-planetary-computer.ipynb) - notebook explores Sentinel-2 data on Microsoft's Planetary Computer `Python`
 - [satio-pc](https://github.com/dzanaga/satio-pc) - Compute Sentinel features on Planetary Computer `Python`
 - [gmv planetary computer S2 alerts](https://github.com/globalmangrovewatch/gmw_planetary_computer_s2_alerts) - Repo with the code producing the GMW alerts using the Microsoft Planetary Computer `Python`
+- [hottest panchayats kerala](https://github.com/shijithpk/hottest-panchayats-kerala) - Figuring out what the hottest villages in Kerala are with the help of Microsoft's Planetary Computer. `Python` 
 
 ## QGIS and Grass
 
