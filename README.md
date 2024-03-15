@@ -6,7 +6,7 @@ A curated list of awesome tools, tutorials, code, helpful projects, links, stuff
   <img width="300" height="300" src="https://geogerservices.files.wordpress.com/2018/06/scenefromabovepodcast.jpg?w=300&h=300">
 </p>
 
-The #scenefromabove podcast aimed to be a mix of news, opinion, discussion and interviews. I am no longer involved in the podcast, however it is still going<br>
+The [#scenefromabove podcast](https://scenefromabove.podbean.com/) aimed to be a mix of news, opinion, discussion and interviews. I am no longer involved in the podcast, however it is still going<br>
 
 ## Latest news
 
