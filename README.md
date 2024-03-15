@@ -53,6 +53,12 @@ You may also wish to navigate a search of the terms `satellite-imagery` and `ear
 - [satellite-imagery](https://github.com/topics/satellite-imagery)
 - [earth-observation](https://github.com/topics/earth-observation)
 
+Two excellent videos (approx 20mins) about `Earth observation` 
+
+[I Couldn't Find a Video Explaining Satellite Images, So I Made One](https://www.youtube.com/watch?v=xy5qR0cBFGs)
+
+[How Radar Satellites See through Clouds (Synthetic Aperture Radar Explained)](https://www.youtube.com/watch?v=zMsCyEAOrh0)
+
 ## Open EO
 
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
