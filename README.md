@@ -165,6 +165,9 @@ This section full of great code and projects related to processing optical satel
 - [GeoLambda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions `Python`
 - [rio-viz](https://github.com/developmentseed/rio-viz) - Visualize Cloud Optimized GeoTIFF in browser `html` `Python`
 - [Sentinel-s3](https://github.com/developmentseed/sentinel-s3) - `Python` libraries for extracting Sentinel-2's metadata from Amazon S3
+- [geocore](https://github.com/Canadian-Geospatial-Platform/geocore) - GeoCore is an Open Source Cloud Native (AWS) Geospatial Catalog | GeoCore est un catalogue géospatial Open Source Cloud Native (AWS) 
+- [cng-workshop](https://github.com/Element84/cng-workshop) - Intro to cloud-native geospatial workshop
+- [cloud-native-geospatial](https://github.com/ua-datalab/cloud-native-geospatial) - resource [introduction to cloud native geospatial](https://ua-datalab.github.io/cloud-native-geospatial/)
 
 #### STAC
 - [stac-utils](https://github.com/stac-utils) - Tools for working with SpatioTemporal Asset Catalogs (STAC) (perhaps worth going here first for STAC) `Python` `Javascript`
