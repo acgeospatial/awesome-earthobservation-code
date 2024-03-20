@@ -592,6 +592,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [sprnca_gedi](https://github.com/rbavery/sprnca_gedi) - WIP to map Foliage Height Diversity along the San Pedro Riparian Corridor with NASA's GEDI Lidar `Python`
 - [GEDI_Yucatan](https://github.com/JohMast/GEDI_Yucatan) - Supplementary material for the study: Space Lidar for Archaeology? Reanalyzing GEDI Data for Detection of Ancient Maya Buildings `R`
 - [q_research](https://github.com/HeatherKmtb/q_research) - For processing of ICESat GLAS, GEDI and ICESat-2 LiDAR data, to derive q parameter for canopy height to density relationship `Python`
+- [gedi-tutorials](https://github.com/ornldaac/gedi_tutorials) - GEDI L3 and L4 Tutorials 
 
 ## InSAR
 
