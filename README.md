@@ -47,6 +47,7 @@ If you are not familiar with Earth Observation then these links may help set con
 - [Earth Observation Text books](https://www.eoa.org.au/earth-observation-textbooks) - Earth Observation: Data, Processing and Applications is an Australian Earth Observation (EO) community undertaking to describe EO data, processing and applications in an Australian context and includes a wide range of local case studies to demonstrate Australia’s increasing usage of EO data.
 - [ESA newcomers guide](https://business.esa.int/newcomers-earth-observation-guide) - The aim of this guide is to help non-experts in providing a starting point in the decision process for selecting an appropriate Earth Observation (EO) solution.
 - [The state of satellites](https://landscape.satsummit.io/) - The satellite systems we use to capture, analyze, and distribute data about the Earth are improving every day, creating bold new opportunities for impact in global development.
+- [Landsats Enduring Legacy](https://my.asprs.org/landsat) - pdf download over 600 pages of remote sensing!
 
 You may also wish to navigate a search of the terms `satellite-imagery` and `earth-observation` to get the latest list of topics that have these terms in their headers
 
