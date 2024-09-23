@@ -206,6 +206,7 @@ This section full of great code and projects related to processing optical satel
   - [stac-terminal](https://github.com/stac-utils/stac-terminal) - Output info on STAC Items in the terminal
   - [stac-layer](https://github.com/stac-utils/stac-layer) - Visualize a STAC Item or Collection on a Leaflet Map
   - [pgstac-rs](https://github.com/stac-utils/pgstac-rs) - `Rust` interface to pgstac
+  - [stac-rs](https://github.com/stac-utils/stac-rs) - Tools and libraries for the SpatioTemporal Asset Catalog (STAC) specification, written in `Rust`
 
 #### COG
 - [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service
