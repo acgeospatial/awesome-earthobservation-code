@@ -14,9 +14,9 @@ I have written a blog post about how this repo came into being. It includes a vi
 
 Please note that this is <b>not</b> offically an awesome list.
 
-<b> Update March 2024</b> Added a load of STAC links and some opendatacube ones. I accept PR's and you get a mention in the contributors file.
+<b> Update October 2025</b> More developer links added. I accept PR's and you get a mention in the contributors file.
 
-<b> A note of caution </b> During the QC of links I note that the vast majority are 18 + months old or considerbly older. Some repos are retired and still visible, some code is > 10 years old. Tread carefully.
+<b> A note of caution </b> During the QC of links I note that the vast majority are 2years+ old or considerbly older. Some repos are retired and still visible, some code is > 10 years old. Tread carefully. This list is open to PR's and suggestions, it is updated infrequently by myself. If you find a link that is helpful, share it! We have 1.3k stars now so plenty of eyes on it. You will get acknowledged in the contributors file.
 
 Annotations are based on the headers - and where available - on the github accounts
 
@@ -71,8 +71,6 @@ OpenEO covers many of the bases, hard to know whether to break it into different
 
 ## Remote Sensing.info
 
-<b> All links have been changed - update your pointers Oct 2022 </b>
-
 remotesening.info warrents its own section, the vast array of tools and processing software is incredible
 [RemoteSensing](https://github.com/remotesensinginfo) - Short tutorials and reference to useful software tools for the acquisition and processing of remote sensed Earth Observation data
 - [RSGISLib](http://rsgislib.org/rsgislib.html) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using `Python` bindings.
@@ -82,7 +80,7 @@ remotesening.info warrents its own section, the vast array of tools and processi
 
 ## `Python` processing of optical imagery (non deep learning)
 
-This section full of great code and projects related to processing optical satellite imagery with `Python` . This section is under review Sept 2020 and being split into further categories - please suggest groupings or re assignments if needed - the idea is to make the Python code examples here easier to find. Categories are highly subjective.
+This section full of great code and projects related to processing optical satellite imagery with `Python` . Please suggest groupings or re assignments if needed - the idea is to make the Python code examples here easier to find. Categories are highly subjective.
 
 ### Download
 
@@ -250,6 +248,7 @@ This section full of great code and projects related to processing optical satel
 - [S2-superresolution](https://github.com/up42/s2-superresolution) - Deep Learning-based algorithm to upsample all Sentinel-2 bands to 10m. Also an example how to use GPUs on UP42. `Python`
 - [icecube](https://github.com/iceye-ltd/icecube) - Create time-series datacubes for supervised machine learning with ICEYE SAR images. `Python`
 - [sky truth offshore methane](https://github.com/SkyTruth/offshore-methane) - Offshore methane detection `Python`
+- [Project Eucalyptus](https://github.com/Orbio-Earth/Project-Eucalyptus - Open-source pipelines for satellite-based methane detection. Includes trained segmentation models, a synthetic plume generator, and benchmarking tools for Sentinel-2, Landsat 8/9, and EMIT. For research and non-commercial use. `Python`
 
 ### Reflectance / pre processing
 
