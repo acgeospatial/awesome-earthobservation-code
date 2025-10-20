@@ -99,6 +99,7 @@ This section full of great code and projects related to processing optical satel
 - [data-prep-scripts](https://lpdaac.usgs.gov/tools/data-prep-scripts/) - This collection of `R` and `Python` scripts can be used to download data and perform basic data processing functions such as georeferencing, reprojecting, converting, and reformatting data. All scripts are available for download from the LP DAAC User Resources [BitBucket Code Repository](https://git.earthdata.nasa.gov/projects/LPDUR).
 - [Stream NASA data directly into Python objects](https://nbviewer.jupyter.org/gist/scottyhq/a1ddbb12f97764860160370229b19261) - Skip the download! Stream NASA data directly into Python objects from [blog post](https://medium.com/pangeo/intake-stac-nasa-4cd78d6246b7)
 - [sat-extractor](https://github.com/FrontierDevelopmentLab/sat-extractor) - Extract Satellite Imagery from public constellations at scale `Python`
+- [phidown](https://github.com/ESA-PhiLab/phidown/tree/main) - Manage, search, and download Earth Observation data with Φ-down from Copernicus missions with ease and efficiency. [docs](https://esa-philab.github.io/phidown/)
 
 ### Processing imagery - post processing
 
@@ -160,6 +161,7 @@ This section full of great code and projects related to processing optical satel
 - [pyrgis](https://github.com/PratyushTripathy/pyrsgis) - This repository cointains the source code of the 'pyrsgis' `Python` package. 
 - [EOReader](https://github.com/sertit/eoreader) - Opensource `Python` library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.
 - [LandSurfaceClustering](https://github.com/lhalloran/LandSurfaceClustering) - Land surface classification using remote sensing data with unsupervised machine learning (k-means) `Python`
+- [tifviewer](https://github.com/nkeikon/tifviewer) - A simple GeoTIFF viewer for the command line `Python`
 
 ### Cloud Native Geospatial
 - [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions
@@ -377,6 +379,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [sentinel](https://github.com/techforspace/sentinel) - Repository created for the Earth Observation Sentinel project (use with SNAP) `Python`
 - [Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html) - A crashcourse introduction to using Python to wrangle, plot, and model geospatial data `Python`
 - [pyGIS](https://github.com/mmann1123/pyGIS) - pyGIS is an online textbook covering all the core geospatial functionality available in `Python`. This includes handling vector and raster data, satellite remote sensing, machine learning and deep learning applications
+- [Hackweek - 2025](https://pacehackweek.github.io/pace-2025/presentations/notebooks.html) - PACE Data Hackweek
 
 ## Deep learning and Machine Learning
 - [future learn course - artificial intelligence for earth monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)
