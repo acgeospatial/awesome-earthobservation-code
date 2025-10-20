@@ -249,6 +249,7 @@ This section full of great code and projects related to processing optical satel
 - [up42-py](https://github.com/up42/up42-py) - Python SDK for UP42, the geospatial marketplace and developer platform. `Python`
 - [S2-superresolution](https://github.com/up42/s2-superresolution) - Deep Learning-based algorithm to upsample all Sentinel-2 bands to 10m. Also an example how to use GPUs on UP42. `Python`
 - [icecube](https://github.com/iceye-ltd/icecube) - Create time-series datacubes for supervised machine learning with ICEYE SAR images. `Python`
+- [sky truth offshore methane](https://github.com/SkyTruth/offshore-methane) - Offshore methane detection `Python`
 
 ### Reflectance / pre processing
 
@@ -275,6 +276,8 @@ This section full of great code and projects related to processing optical satel
 - [actinia satellite plugin](https://github.com/mundialis/actinia_satellite_plugin) - This actinia plugin is designed for efficient satellite data handling, especially Landsat and Sentinel-2 scenes `Python`
 - [Whitebox Python](https://github.com/giswqs/whitebox-python) - WhiteboxTools `Python` Frontend
 - [ukis-pysat](https://github.com/dlr-eoc/ukis-pysat) - generic classes and functions to query, access and process multi-spectral and SAR satellite images
+- [Scikit-eo](https://yotarazona.github.io/scikit-eo/tutorials/) - a rich suite of algorithms specifically designed for environmental studies
+- [titiler-eopf](https://github.com/EOPF-Explorer/titiler-eopf - TiTiler application for EOPF dataset `Python`
 
 ### Testing your code
 
@@ -380,6 +383,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html) - A crashcourse introduction to using Python to wrangle, plot, and model geospatial data `Python`
 - [pyGIS](https://github.com/mmann1123/pyGIS) - pyGIS is an online textbook covering all the core geospatial functionality available in `Python`. This includes handling vector and raster data, satellite remote sensing, machine learning and deep learning applications
 - [Hackweek - 2025](https://pacehackweek.github.io/pace-2025/presentations/notebooks.html) - PACE Data Hackweek
+
 
 ## Deep learning and Machine Learning
 - [future learn course - artificial intelligence for earth monitoring](https://www.futurelearn.com/courses/artificial-intelligence-for-earth-monitoring)
@@ -633,6 +637,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [Series Temporelles](https://labo.obs-mip.fr/multitemp/)
 - [The downlinq](https://medium.com/the-downlinq)
 - [GEDI canopy data](https://medium.com/@abt0020/extracting-canopy-height-with-gedi-data-5af8c87df158) - How we processed data to retrieving canopy height
+- [spectral reflectance](https://www.spectralreflectance.space/) - weeking substack on EO news
 
 ## EO code Competitions
 
