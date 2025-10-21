@@ -396,7 +396,11 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [Deep Vector](https://github.com/deepVector/geospatial-machine-learning) - A curated list of resources focused on Machine Learning in Geospatial Data Science.
 
 #### Labelling
-- [satellite-imagery-labeling-tool](https://github.com/microsoft/satellite-imagery-labeling-tool) - This is a lightweight web-interface for creating and sharing vector annotations over satellite/aerial imagery scenes. 
+- [satellite-imagery-labeling-tool](https://github.com/microsoft/satellite-imagery-labeling-tool) - This is a lightweight web-interface for creating and sharing vector annotations over satellite/aerial imagery scenes.
+
+
+#### AI - LLM's - Copilots - GeoAI
+- [Earth-Copilot](https://github.com/microsoft/Earth-Copilot/) - An AI powered geospatial application that allows you to explore and visualize Earth science data using natural language. 
 
 
 ## GDAL of course
