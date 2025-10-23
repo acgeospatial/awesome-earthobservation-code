@@ -62,6 +62,8 @@ Two excellent videos (approx 20mins) about `Earth observation`
 
 Not sure the best place for data catalogs is but this is a good start if that interests you [Data Catalogs](https://github.com/opengeos/geospatial-data-catalogs)
 
+- [Mapping Data Sources](https://github.com/kevinbullock/Mapping-data) - Aggregating sources of mapping data [An AI version](https://kevinbullock.github.io/Mapping-data/)
+
 ## Open EO
 
 OpenEO covers many of the bases, hard to know whether to break it into different categories, it has many components. At present I mention it here at the start only.<br>
