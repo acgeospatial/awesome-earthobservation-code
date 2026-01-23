@@ -162,6 +162,7 @@ This section full of great code and projects related to processing optical satel
 - [EOReader](https://github.com/sertit/eoreader) - Opensource `Python` library reading optical and SAR sensors, loading and stacking bands in a sensor-agnostic way.
 - [LandSurfaceClustering](https://github.com/lhalloran/LandSurfaceClustering) - Land surface classification using remote sensing data with unsupervised machine learning (k-means) `Python`
 - [tifviewer](https://github.com/nkeikon/tifviewer) - A simple GeoTIFF viewer for the command line `Python`
+- [MTG FRP Fire Progression](https://github.com/PedroVenancio/mtg-frp-fire-progression) - `Python` script for creating hourly and cumulative fire progression polygons from MTG (Meteosat Third Generation) FRP (Fire Radiative Power) data, with calibration against reference burned areas and fire intensity estimation 
 
 ### Cloud Native Geospatial
 - [aws-sat-api-py](https://github.com/RemotePixel/remotepixel-api) - Process Satellite data using AWS Lambda functions
@@ -415,6 +416,13 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 - [A Gentle Introduction to GDAL prt 1](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-1-a3253eb96082) - command line working
 - [A Gentel Introduction to GDAL prt 2](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-2-map-projections-gdalwarp-e05173bd710a) - Map Projections
 - [A Gentel Introduction to GDAL prt 3](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-3-geodesy-local-map-projections-794c6ff675ca) - Geodesy
+- [A Gentel Introduction to GDAL prt 4](https://medium.com/planet-stories/a-gentle-introduction-to-gdal-part-4-working-with-satellite-data-d3835b5e2971) - Working with Satellite Data
+- [A Gentel Introduction to GDAL prt 5](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-5-shaded-relief-ec29601db654) - Shaded Relief
+- [A Gentel Introduction to GDAL prt 6](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-6-1-visualizing-data-8e6e7d6ef641) - Visualizing Data
+- [A Gentel Introduction to GDAL prt 7](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-7-transforming-data-178df8640dd2) - Transforming Data
+- [A Gentel Introduction to GDAL prt 8](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-8-reading-scientific-data-formats-1a1f70d5388c) - Reading Scientific Data Formats
+- [A Gentel Introduction to GDAL prt 9](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-9-automation-with-bash-46a13c51faa5) - Automation with Bash
+- [A Gentel Introduction to GDAL prt 10](https://medium.com/@robsimmon/a-gentle-introduction-to-gdal-part-10-python-the-command-line-d38e89d28636) - Python & the Command Line
 - [loam](https://github.com/azavea/loam) - `Javascript` wrapper for GDAL in the browser
 - [mrf](https://github.com/nasa-gibs/mrf) - GDAL-compatible file format driver designed for fast access to imagery
 
