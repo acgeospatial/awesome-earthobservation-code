@@ -14,7 +14,7 @@ I have written a blog post about how this repo came into being. It includes a vi
 
 Please note that this is <b>not</b> offically an awesome list.
 
-<b> Update October 2025</b> More developer links added. I accept PR's and you get a mention in the contributors file.
+<b> Update Jan 2026</b> More developer links added. I accept PR's and you get a mention in the contributors file.
 
 <b> A note of caution </b> During the QC of links I note that the vast majority are 2years+ old or considerbly older. Some repos are retired and still visible, some code is > 10 years old. Tread carefully. This list is open to PR's and suggestions, it is updated infrequently by myself. If you find a link that is helpful, share it! We have 1.3k stars now so plenty of eyes on it. You will get acknowledged in the contributors file.
 
@@ -537,6 +537,8 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [grass-dev-py3-pdal](https://github.com/OSGeo/grass/tree/master/docker) - Dockerfile which compiles GRASS GIS 7.9 master with Python 3 and PDAL suppor
 - [qgis-plugin-planet](https://github.com/planetlabs/qgis-planet-plugin) - Browse, filter, preview and download Planet Inc imagery in QGIS. `Python`
 - [TSTools - archived](https://github.com/ceholden/TSTools) - QGIS2 plugin tools for remote sensing timeseries `Python`
+- [NASA Earthdata QGIS Plugin](https://github.com/opengeos/qgis-nasa-earthdata-plugin) - A QGIS plugin for searching and visualizing NASA Earthdata
+- [OpenEO QGIS Plugin](https://openeo.org/documentation/1.0/qgis/) - The openEO QGIS plugin enables exploring openEO backends including batch jobs, collections, and web services within QGIS
 
 ## Climate and weather based resources
 
