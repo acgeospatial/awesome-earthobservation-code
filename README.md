@@ -573,6 +573,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [DEM.net](https://github.com/dem-net/DEM.Net) - Digital Elevation model library in C#. 3D terrain models, line/point Elevations, intervisibility reports. [Docs](https://elevationapi.com/)
 - [Stereo Mapping to create Elevation with Python](https://github.com/cmla/s2p) - Satellite Stereo Pipeline
 - [DSM2DTM](https://github.com/mprakhar/DSM2DTM) - Code for the paper - Comparison of Digital Building Height Models Extracted from AW3D, TanDEM-X, ASTER, and SRTM Digital Surface Models over Yangon City `Python`
+- [dsm2dtm](https://github.com/seedlit/dsm2dtm) - Python library for converting Digital Surface Models (DSMs) to Digital Terrain Models (DTMs).
 - [The Stereo Pipeline (NASA)](https://ti.arc.nasa.gov/tech/asr/groups/intelligent-robotics/ngt/stereo/) - The NASA Ames Stereo Pipeline (ASP) is a suite of free and open source automated geodesy and stereogrammetry tools designed for processing stereo imagery captured from satellites
 
 ## SAR
