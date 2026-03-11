@@ -476,6 +476,7 @@ Best to start here [Awesome_GEE](https://github.com/giswqs/Awesome-GEE) - A cura
 - [GoogleEarthEngine](https://github.com/evan-delancey/GoogleEarthEngine) - forestry related work
 - [ee-jupyter-examples](https://github.com/tylere/ee-jupyter-examples) - Example Jupyter Notebooks, including ones that use the Earth Engine `Python` API
 - [jupyterlab-ee](https://github.com/tylere/jupyterlab-ee) - Experiments related to getting JupyterLab and Earth Engine to work together. `Python`
+- [LYRASENSE](https://lyrasense.com) - Agentic AI platform for Earth observation with notebook environment, Google Earth Engine integration, and ready-to-use analysis templates.
 - [EEwPython](https://github.com/csaybar/EEwPython) - A series of Jupyter notebook to learn Google Earth Engine with `Python`
 - [GoogleEarthEngine-side-projects](https://github.com/chrieke/GoogleEarthEngine-side-projects) - Google Earth Engine side projects and tutorial scripts `JavaScript`
 - [ox_gee_tutorial](https://github.com/tommylees112/ox_gee_tutorial) - Oxford MSc Introduction to Hydrological Applications in Google Earth Engine
