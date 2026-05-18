@@ -395,7 +395,8 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 
 
 #### AI - LLM's - Copilots - GeoAI
-- [Earth-Copilot](https://github.com/microsoft/Earth-Copilot/) - An AI powered geospatial application that allows you to explore and visualize Earth science data using natural language. 
+- [Earth-Copilot](https://github.com/microsoft/Earth-Copilot/) - An AI powered geospatial application that allows you to explore and visualize Earth science data using natural language.
+- [emem](https://github.com/Vortx-AI/emem) - Earth memory MCP server that gives AI agents signed geospatial facts and cite-able receipts for place-based questions `Rust` 
 
 
 ## GDAL of course
