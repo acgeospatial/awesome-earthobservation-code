@@ -240,6 +240,7 @@ This section full of great code and projects related to processing optical satel
 - [sentinel2-cloud-detector](https://github.com/sentinel-hub/sentinel2-cloud-detector) - Sentinel Hub Cloud Detector for Sentinel-2 images in `Python`
 - [Orbit predictor](https://github.com/satellogic/orbit-predictor) - Python library to propagate satellite orbits.
 - [up42-py](https://github.com/up42/up42-py) - Python SDK for UP42, the geospatial marketplace and developer platform. `Python`
+- [Mapbase](https://mapbase.dev/) - Location registry API for official locations, custom zones, hierarchy, geometry, and SEO-ready location context. `REST API`
 - [S2-superresolution](https://github.com/up42/s2-superresolution) - Deep Learning-based algorithm to upsample all Sentinel-2 bands to 10m. Also an example how to use GPUs on UP42. `Python`
 - [icecube](https://github.com/iceye-ltd/icecube) - Create time-series datacubes for supervised machine learning with ICEYE SAR images. `Python`
 - [sky truth offshore methane](https://github.com/SkyTruth/offshore-methane) - Offshore methane detection `Python`
