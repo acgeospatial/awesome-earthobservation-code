@@ -92,6 +92,7 @@ This section full of great code and projects related to processing optical satel
 - [Stream NASA data directly into Python objects](https://nbviewer.jupyter.org/gist/scottyhq/a1ddbb12f97764860160370229b19261) - Skip the download! Stream NASA data directly into Python objects from [blog post](https://medium.com/pangeo/intake-stac-nasa-4cd78d6246b7)
 - [sat-extractor](https://github.com/FrontierDevelopmentLab/sat-extractor) - Extract Satellite Imagery from public constellations at scale `Python`
 - [phidown](https://github.com/ESA-PhiLab/phidown/tree/main) - Manage, search, and download Earth Observation data with Φ-down from Copernicus missions with ease and efficiency. [docs](https://esa-philab.github.io/phidown/)
+- [bhoonidhi-downloader](https://github.com/geovicco-dev/bhoonidhi-downloader) - Search and download satellite imagery from ISRO's Bhoonidhi (NRSC) portal — CLI and `Python` SDK. [docs](https://geovicco-dev.github.io/bhoonidhi-downloader/)
 
 ### Processing imagery - post processing
 
