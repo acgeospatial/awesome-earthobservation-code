@@ -395,7 +395,8 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 
 
 #### AI - LLM's - Copilots - GeoAI
-- [Earth-Copilot](https://github.com/microsoft/Earth-Copilot/) - An AI powered geospatial application that allows you to explore and visualize Earth science data using natural language. 
+- [Earth-Copilot](https://github.com/microsoft/Earth-Copilot/) - An AI powered geospatial application that allows you to explore and visualize Earth science data using natural language.
+- [bhoonidhi-mcp](https://github.com/geovicco-dev/bhoonidhi-mcp) - An MCP (Model Context Protocol) server that lets an AI agent search, save, and download satellite scenes from ISRO's Bhoonidhi (NRSC) portal in natural language.
 
 
 ## GDAL of course
