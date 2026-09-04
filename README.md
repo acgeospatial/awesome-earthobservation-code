@@ -396,7 +396,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 
 #### AI - LLM's - Copilots - GeoAI
 - [Earth-Copilot](https://github.com/microsoft/Earth-Copilot/) - An AI powered geospatial application that allows you to explore and visualize Earth science data using natural language. 
-
+- [geoai-skills](https://github.com/muend/geoai-skills) - Vendor-neutral Agent Skills (SKILL.md) that make an AI coding agent verify CRS, spatial validation, comparability and uncertainty before reporting a result. Includes a published paired evaluation against a skills-disabled control arm `Claude Code` `Codex` `Cursor`
 
 ## GDAL of course
 
