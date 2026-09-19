@@ -204,6 +204,7 @@ This section full of great code and projects related to processing optical satel
   - [stac-rs](https://github.com/stac-utils/stac-rs) - Tools and libraries for the SpatioTemporal Asset Catalog (STAC) specification, written in `Rust`
 
 #### COG
+- [COG overview bind](https://github.com/shaneraphel/cog-overview-bind) - register Cloud Optimized GeoTIFF overviews by cog id so two rasters cannot append into one unsigned list.
 - [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service
 - [titiler](https://github.com/developmentseed/titiler) - A modern dynamic tile server built on top of `FastAPI` and `Rasterio/GDAL`.
 - [cogeo-mosaic](https://github.com/developmentseed/cogeo-mosaic) - Create and use COG mosaic based on mosaicJSON `Python`
