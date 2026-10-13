@@ -272,6 +272,7 @@ This section full of great code and projects related to processing optical satel
 - [ukis-pysat](https://github.com/dlr-eoc/ukis-pysat) - generic classes and functions to query, access and process multi-spectral and SAR satellite images
 - [Scikit-eo](https://yotarazona.github.io/scikit-eo/tutorials/) - a rich suite of algorithms specifically designed for environmental studies
 - [titiler-eopf](https://github.com/EOPF-Explorer/titiler-eopf - TiTiler application for EOPF dataset `Python`
+- [synapse-sr](https://github.com/SharadhNaidu/synapse-sr) - super-resolution of Sentinel-2 L2A from 10 m to 2 m, with per-pixel trust maps and georeferenced GeoTIFF output `Python`
 
 ### Testing your code
 
