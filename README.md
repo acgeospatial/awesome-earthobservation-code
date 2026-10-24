@@ -396,6 +396,7 @@ Books! [Geospatial R Books](https://www.bigbookofr.com/geospatial.html) - some `
 
 #### AI - LLM's - Copilots - GeoAI
 - [Earth-Copilot](https://github.com/microsoft/Earth-Copilot/) - An AI powered geospatial application that allows you to explore and visualize Earth science data using natural language. 
+- [AI Agent by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Agent) - A QGIS plugin: describe a GIS task in plain English and an AI agent finds open data, runs Processing tools, builds and styles the map, with one-click undo. `Python`
 
 
 ## GDAL of course
