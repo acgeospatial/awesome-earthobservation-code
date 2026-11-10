@@ -710,6 +710,7 @@ This bit could potentially become the most valuable resource. Lets not ignore ot
 - [GDSL-UL/Teaching_Links](https://github.com/GDSL-UL/Teaching_Links) - In this repo we have aimed to provide links to useful teaching resources for teaching Geographic / Spatial Data Science, GIS and Statistics. (perhaps misplaced in this list?)
 - [practical-python](https://dabeaz-course.github.io/practical-python/) - Practical Python Programming A course by @dabeaz
 - [GeoStats, Resources](https://github.com/GeostatsGuy/Resources/blob/master/README.md) - Geostatistics
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and toolbox for exploring and cleaning JSON data, such as GeoJSON and STAC API responses.
 
 ## Interesting Non EO parts other languages
 
