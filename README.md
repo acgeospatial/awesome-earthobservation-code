@@ -638,7 +638,7 @@ Such a vast collection of resources that it warrants a sub section within Climat
 - [Video map](https://github.com/openearth/videomap) - Tools to create, , export and share video maps
 - [Tree height and canopy cover map in 3D](https://github.com/nkeikon/GEDI-experiment) - Use Kepler.gl to visualise 3D and 2D data
 - [Greppo](https://github.com/greppo-io/greppo) - Python framework for building geospatial web-applications 
-
+- [eofigs](https://github.com/kmkamilkhel/eofigs) - Analysis-aware, publication-ready figures for Earth observation research: trend maps with significance and false discovery rate control, event composites, accuracy scatter plots and journal presets `Python` [docs](https://kmkamilkhel.github.io/eofigs/)
 ## Regular blogs of significant interest or posts of interest
 
 - [Philipp Gartner blog](https://philippgaertner.github.io/)
