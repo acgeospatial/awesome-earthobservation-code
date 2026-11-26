@@ -217,6 +217,8 @@ This section full of great code and projects related to processing optical satel
 
 ### Case studies / Projects
 
+- [Urmia Lake Observatory](https://github.com/fazeli1977-dot/Urmia-Lake-Observatory) - Bilingual open-science geospatial observatory for Lake Urmia combining satellite-altimetry records, ERA5 climate reanalysis, GBIF/Ramsar layers, and a 13-layer WebGIS dashboard `Python` [Live observatory](https://urmia-lake-observatory.pages.dev/)
+
 - [Povetry predition using satellite imagery](https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery) - Poverty Prediction by Combination of Satellite Imagery
 - [Python from space](https://github.com/kscottz/PythonFromSpace) - `Python` Examples for Remote Sensing
 - [count blue pixels](https://github.com/craic/count_shelters) - This project is an experiment in using simple image processing techniques on satellite images downloaded from Google Maps in order to quantify the relative density of temporary shelters in adjacent qudarants. `Python` `Ruby`
