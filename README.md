@@ -92,6 +92,7 @@ This section full of great code and projects related to processing optical satel
 - [Stream NASA data directly into Python objects](https://nbviewer.jupyter.org/gist/scottyhq/a1ddbb12f97764860160370229b19261) - Skip the download! Stream NASA data directly into Python objects from [blog post](https://medium.com/pangeo/intake-stac-nasa-4cd78d6246b7)
 - [sat-extractor](https://github.com/FrontierDevelopmentLab/sat-extractor) - Extract Satellite Imagery from public constellations at scale `Python`
 - [phidown](https://github.com/ESA-PhiLab/phidown/tree/main) - Manage, search, and download Earth Observation data with Φ-down from Copernicus missions with ease and efficiency. [docs](https://esa-philab.github.io/phidown/)
+- [OmniEarth](https://github.com/lokeshsk/omniearth) - Unified zero-config Python SDK, Node.js/TypeScript SDK, CLI, and MCP server to search and stream 14 EO & environmental modalities (Sentinel-1/2, Landsat, DLR EnMAP, NASA EMIT, Copernicus DEM, ESA WorldCover, Weather, SoilGrids) `Python` `Javascript`
 
 ### Processing imagery - post processing
 
@@ -202,6 +203,7 @@ This section full of great code and projects related to processing optical satel
   - [stac-layer](https://github.com/stac-utils/stac-layer) - Visualize a STAC Item or Collection on a Leaflet Map
   - [pgstac-rs](https://github.com/stac-utils/pgstac-rs) - `Rust` interface to pgstac
   - [stac-rs](https://github.com/stac-utils/stac-rs) - Tools and libraries for the SpatioTemporal Asset Catalog (STAC) specification, written in `Rust`
+  - [omniearth](https://github.com/lokeshsk/omniearth) - Multi-modal STAC + environmental data engine uniting Sentinel, Landsat, EnMAP, and EMIT with Open-Meteo, SoilGrids, and GeoPandas/xarray exports `Python` `Javascript`
 
 #### COG
 - [COG Validator](https://github.com/rouault/cog_validator) - Cloud Optimized GeoTIFF validation service
