@@ -217,6 +217,7 @@ This section full of great code and projects related to processing optical satel
 
 ### Case studies / Projects
 
+- [ForestCarbon.AI Open](https://github.com/huangfeihong123/forestcarbon-ai-open) - Remote-sensing-assisted forestry carbon verification reference with synthetic data, FastAPI/React workspaces, and auditable report templates. Includes a zero-install [live demo](https://huangfeihong123.github.io/forestcarbon-ai-open/). `Python` `TypeScript`
 - [Povetry predition using satellite imagery](https://github.com/carsonluuu/Poverty-Prediction-by-Satellite-Imagery) - Poverty Prediction by Combination of Satellite Imagery
 - [Python from space](https://github.com/kscottz/PythonFromSpace) - `Python` Examples for Remote Sensing
 - [count blue pixels](https://github.com/craic/count_shelters) - This project is an experiment in using simple image processing techniques on satellite images downloaded from Google Maps in order to quantify the relative density of temporary shelters in adjacent qudarants. `Python` `Ruby`
